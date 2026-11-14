@@ -383,8 +383,9 @@ def build_report(results, tagger: Tagger, source: Path) -> dict:
 # two sources must differ and each method must read on from its source.
 WORD_TAGS = {
     "part": "strongs",
-    "source": "STEPBible's tagged Greek New Testament and Greek lexicon (TAGNT and TBESG), created by "
-              "STEPBible.org based on work at Tyndale House, Cambridge, CC BY 4.0",
+    # The credit and licence are in the module's copyright and license; kept
+    # out of this line so that "not checked by hand" is not forty words off.
+    "source": "STEPBible's tagged Greek New Testament and Greek lexicon (TAGNT and TBESG)",
     "method": "matched to each word, with its dictionary form and parse, by Lamp Bible's own program from "
               "the word's form and its context; made by machine and not checked by hand, so some are wrong",
 }
