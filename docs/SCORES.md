@@ -25,7 +25,7 @@ wrong is smaller: our best estimate for the parse is one word in 30 to 50.
 | Reference | What it is | Words compared |
 |---|---|---|
 | **CCAT** | The CATSS/CCAT *Morphologically Analyzed Septuagint* (Rahlfs' text): dictionary form and parse for every word, made and corrected by scholars | 96.5% of Brenton's words |
-| **ABP** | The Apostolic Bible Polyglot: a Strong's-style number for every word | 91.2% |
+| **ABP** | The Apostolic Bible Polyglot: a Strong's-style number for every word | 91.4% |
 | **GLAUx** | A machine tagging of the whole Septuagint by a tagger trained on Greek treebanks: dictionary form and parse | 98.2% |
 | **PTNK** | The Universal Dependencies treebank of Genesis and Ruth, checked by hand: dictionary form and parse | Genesis and Ruth, 95.8% |
 
@@ -93,12 +93,14 @@ conventions:
 
 ### Strong's numbers
 
-Against the Apostolic Bible Polyglot, on 219,991 words of the test half: the same number on
+Against the Apostolic Bible Polyglot, on 220,408 words of the test half: the same number on
 89.0% strictly and **99.5%** with conventions. The conventions are the places where the two
 numbering schemes differ by design (ABP numbers every personal pronoun 1473; Strong's gave some
 forms their own numbers). Two classes cannot be scored at all and are left out: words outside
-Strong's original list, which the two schemes number independently (7,290 words), and proper
-names, which ABP does not number (10,233 words).
+Strong's original list, which the two schemes number independently (7,308 words), and proper
+names, which ABP does not number (10,255 words). Until 14 November 2026 this page gave 219,991
+words: the program that reads ABP's module skipped the last verse of every book. The rates did
+not change.
 
 ## Where it is weaker
 

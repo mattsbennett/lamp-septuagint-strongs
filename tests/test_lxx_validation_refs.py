@@ -100,8 +100,12 @@ def conllu(book_code):
 class AbpTests(unittest.TestCase):
     def test_sword_module_walk_and_nehemiah_folded_into_ezra(self):
         tmp = Path(tempfile.mkdtemp())
+        # A book's last verse carries the markers that end its chapter and
+        # the book; it is still a verse.
         entries = abp_entries("Gen") + ['<chapter osisID="Gen.2" sID="c2"/>', "",
-                                        '<w lemma="strong:G2532 strong:G1473">κἀγώ</w>']
+                                        '<w lemma="strong:G2532 strong:G1473">κἀγώ</w> '
+                                        '<chapter eID="c2" osisID="Gen.2"/> '
+                                        '<div eID="b1" osisID="Gen" type="book"/>']
         entries += ['<div osisID="Neh" sID="b2" type="book"/>', '<chapter osisID="Neh.1" sID="c3"/>',
                     '<w lemma="strong:G*">Νεεμιας</w>']
         sword_zip(tmp / "m.zip", entries)

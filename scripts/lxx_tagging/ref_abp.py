@@ -117,7 +117,9 @@ def walk_entries(entries: list[str]):
         if i < 2:
             continue
         m = _BOOK_RE.search(text)
-        if m and "sID=" in m.group(0):
+        # A start has an sID. The marker that ends a book sits in its last
+        # verse's entry with an eID, and its osisID= also contains "sID=".
+        if m and re.search(r'\bsID="', m.group(0)):
             o = _OSIS_RE.search(m.group(0))
             book, chapter, verse = (o.group(1) if o else book), 0, 0
             continue
