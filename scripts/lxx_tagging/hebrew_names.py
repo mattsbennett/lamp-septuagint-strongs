@@ -411,7 +411,8 @@ def versify(refs: Sequence[int], source: str, target: str, binary: Path = DEFAUL
     """Each BBCCCVVV reference in `source`'s numbering as `target` numbers it
     (None where it has none), from lamp-bible-core's built `lamp-module`. The
     protocol is `core_module_builder.versify`'s; the binary is run as built,
-    never rebuilt."""
+    never rebuilt. Where the target numbers two verses for one ("a,b", core
+    8b505b1 onwards), the first is taken, as core's `convert` did."""
     if not binary.exists():
         raise FileNotFoundError(f"{binary} not found: build lamp-bible-core's lamp-module, or pass --verse-map")
     refs = sorted(set(refs))
@@ -422,8 +423,8 @@ def versify(refs: Sequence[int], source: str, target: str, binary: Path = DEFAUL
         raise RuntimeError(f"lamp-module versify answered {len(lines)} of {len(refs)} references")
     mapped: dict[int, int | None] = {}
     for ref, line in zip(refs, lines):
-        verse = line.partition(" ")[0]
-        mapped[ref] = None if verse == "-" else int(verse)
+        verse = line.partition(" ")[0].split(",")[0]
+        mapped[ref] = None if verse in ("-", "") or ref % 1_000 == 0 else int(verse)
     return mapped
 
 
