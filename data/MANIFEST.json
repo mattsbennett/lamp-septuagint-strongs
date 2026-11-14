@@ -1,0 +1,180 @@
+{
+ "inputs": {
+  "data/source/LXX.json": {
+   "bytes": 9415908,
+   "sha256": "31e0a963c39a1742026ea054b50b0396e68a97c5d1a3a444c228f88b051ea74f"
+  },
+  "data/source/versemap_lxx_to_english.json": {
+   "bytes": 488886,
+   "sha256": "45e51735d2316dbf5e5df9097bcdee2cb465bdb59cc968323796683be42c9efb"
+  }
+ },
+ "outputs": {
+  "data/report.json": {
+   "bytes": 82659,
+   "sha256": "ce60183b19723443836c7bcb924d9d61599111ad9aed5db12fd4e3d4c6442d01"
+  },
+  "data/tagged/01-Gen.tsv": {
+   "bytes": 6127644,
+   "sha256": "6b4b089641f32e5534478c05df168d575801ce18e15daa6aaa713b7a086b0dfa"
+  },
+  "data/tagged/02-Exod.tsv": {
+   "bytes": 4759540,
+   "sha256": "c5d05032e5cac755b743e3d94fa18027cb7a917f607716a11fa6687d53ff10ff"
+  },
+  "data/tagged/03-Lev.tsv": {
+   "bytes": 3703197,
+   "sha256": "26c2994d8a9706e5670ba8e6a998c70d7627b600d07820b803e6602d427dc38b"
+  },
+  "data/tagged/04-Num.tsv": {
+   "bytes": 4761629,
+   "sha256": "cdca1cc1d7bbf9fdd540224b879d6940a98407bf83b6bfbbd2fc5106d1c14596"
+  },
+  "data/tagged/05-Deut.tsv": {
+   "bytes": 4317657,
+   "sha256": "29e4b06807cb13b2148861abe9a2963fdd808afe20b4d302c2c7664fdc01fe6d"
+  },
+  "data/tagged/06-Josh.tsv": {
+   "bytes": 2780957,
+   "sha256": "37c4efd79ccd55fea5f70501a63500186468abc2ec54322279f0c9af7600875b"
+  },
+  "data/tagged/07-Judg.tsv": {
+   "bytes": 2887435,
+   "sha256": "c0b38b068e802337d4e12d6a57d66b8478777251ae161be6eaab4743a1c078c9"
+  },
+  "data/tagged/08-Ruth.tsv": {
+   "bytes": 382266,
+   "sha256": "531c6443c7388358d02f6ab712df19210a30888eb99aec5875bf4359b2e270ec"
+  },
+  "data/tagged/09-1Sam.tsv": {
+   "bytes": 3761941,
+   "sha256": "997b4c4eb31a240598c3bacef0b270368d858c0528c55178f3ca6fa1213bcf21"
+  },
+  "data/tagged/10-2Sam.tsv": {
+   "bytes": 3421368,
+   "sha256": "568a3450cc448eb35be1de3e9be8e1be9c4a6233d6f4f06ac88c163affc50eed"
+  },
+  "data/tagged/11-1Kgs.tsv": {
+   "bytes": 4010115,
+   "sha256": "7ba0b149aaaf9e97568259813db01e2b45c86800d09a343c0a6a1ea19fffe692"
+  },
+  "data/tagged/12-2Kgs.tsv": {
+   "bytes": 3608848,
+   "sha256": "fad796af7fcb98092eb82238e5ba00f6d44c2c5f60334ae56b9f7c89099158f0"
+  },
+  "data/tagged/13-1Chr.tsv": {
+   "bytes": 3204887,
+   "sha256": "6e435ce6c552abf384e7f85d97dcd3534baafef53337a5ee57d0504be93920bf"
+  },
+  "data/tagged/14-2Chr.tsv": {
+   "bytes": 4106621,
+   "sha256": "7fd7992bf4d98b29df19ef9454927aa860520285c14a70f8cfc88e56953fad43"
+  },
+  "data/tagged/15-Ezra.tsv": {
+   "bytes": 2558770,
+   "sha256": "d2cab70106b6a479037ecb97839bf0837ea406ff0e6c124605954681cf66df9c"
+  },
+  "data/tagged/17-Esth.tsv": {
+   "bytes": 1118898,
+   "sha256": "44607b18ecea7a49b170cabc05df9b24527779d489be50532c7fa7483e5d2cd0"
+  },
+  "data/tagged/18-Job.tsv": {
+   "bytes": 2581782,
+   "sha256": "5c9b6b89f4d74cf6eb0daed6a81a32dd9e85f0cb8f19132c33822db38c6d9c83"
+  },
+  "data/tagged/19-Ps.tsv": {
+   "bytes": 6647683,
+   "sha256": "69fbe93f4d1a6be3205bf06ff3bd56b0a28af600430bdb8e8a178a173de9664e"
+  },
+  "data/tagged/20-Prov.tsv": {
+   "bytes": 2230345,
+   "sha256": "0bd183931037da32cb36b3ad4bb749bc4cf44dae955d6d91e095eb5278055c26"
+  },
+  "data/tagged/21-Eccl.tsv": {
+   "bytes": 876310,
+   "sha256": "ffe48ea9373779ffb7c45a5e892d6531798279a946870f53b1ea2c7665988716"
+  },
+  "data/tagged/22-Song.tsv": {
+   "bytes": 383568,
+   "sha256": "dccb48ebd0e6039b725d30680ce013638c745af157723b299de58f94979306fe"
+  },
+  "data/tagged/23-Isa.tsv": {
+   "bytes": 5165030,
+   "sha256": "f916b87a2a95a2f2b78445bb20ca89920197ad37386b463d8c1699e5574241b4"
+  },
+  "data/tagged/24-Jer.tsv": {
+   "bytes": 5461997,
+   "sha256": "aa2b2e871ff2e837cf42a2676bd5d6ab187d9e1771c824077d6cbad6cdca21d6"
+  },
+  "data/tagged/25-Lam.tsv": {
+   "bytes": 477023,
+   "sha256": "aec9a6f3fc1accd7289afbad58af5e1046abeb54ab60d29a6c7c15e42155a715"
+  },
+  "data/tagged/26-Ezek.tsv": {
+   "bytes": 5605240,
+   "sha256": "da45fb7b44afeef31de0d95d83c75f05a6a36af935966e3559bcb9a08196f108"
+  },
+  "data/tagged/27-Dan.tsv": {
+   "bytes": 2001471,
+   "sha256": "9a5bee46c2e669b04c8384d694cdaf8398395c62a5927fa376a0ca76269410fd"
+  },
+  "data/tagged/28-Hos.tsv": {
+   "bytes": 749734,
+   "sha256": "58780cc814803e34f5fd99bc98c71a69850fc660813774f43b3524e7a717f62c"
+  },
+  "data/tagged/29-Joel.tsv": {
+   "bytes": 305444,
+   "sha256": "902127518e21eca738a73a9f5d3426d275e9ebec832871330ebcb174d396cf02"
+  },
+  "data/tagged/30-Amos.tsv": {
+   "bytes": 619163,
+   "sha256": "f867068bebc5f3143b635599ea5cb79b408a1e4eefa4cc9fff7306f76a78ffdf"
+  },
+  "data/tagged/31-Obad.tsv": {
+   "bytes": 88304,
+   "sha256": "15ad50bd09cea263c56570a0bf34d5864ef881fdd6438296cfc8b2a9ff6da9a0"
+  },
+  "data/tagged/32-Jonah.tsv": {
+   "bytes": 205750,
+   "sha256": "3075d68959f7ea52b760ce69e82ca90277d97f99b4b10a931f8a287ede232425"
+  },
+  "data/tagged/33-Mic.tsv": {
+   "bytes": 446219,
+   "sha256": "110998d9b3fa8ce170f25999cd35d3950ec698a354bfc47bd96a5c641150bb23"
+  },
+  "data/tagged/34-Nah.tsv": {
+   "bytes": 183431,
+   "sha256": "a68d180a6ca50a3deb6ff9c3c2b25847a369e2ec5cab1c9e6aa8f2639d93c4ad"
+  },
+  "data/tagged/35-Hab.tsv": {
+   "bytes": 213457,
+   "sha256": "47f5be77e68750c2ea4dc885abd6140e02cf1ae97fad5c6a1b7b4039b027d5c1"
+  },
+  "data/tagged/36-Zeph.tsv": {
+   "bytes": 235465,
+   "sha256": "fbfd38949fcdf956f24eae2eb31b6b87f1ad23617588e144a53d4c6ff5b69064"
+  },
+  "data/tagged/37-Hag.tsv": {
+   "bytes": 181995,
+   "sha256": "164b79174ceed3a5761b7b74c27a6b060261b8119ab1fabc02529e57098a0066"
+  },
+  "data/tagged/38-Zech.tsv": {
+   "bytes": 962254,
+   "sha256": "0128e2a4106a3679bd766a600a5a4803435afb45d5312e8af84bb111b6d9ea36"
+  },
+  "data/tagged/39-Mal.tsv": {
+   "bytes": 274571,
+   "sha256": "796c5f42ca4ec48e3b1d4d0595b96325aee9169082c8e0d8580229be03681459"
+  },
+  "data/untagged.tsv": {
+   "bytes": 266055,
+   "sha256": "beb39027d7cd1548314c6eb9c326bb4cf31c40328e42820d5f3827da34ff8978"
+  },
+  "outputs/LXX_tagged.json": {
+   "bytes": 185966217,
+   "sha256": "0b223da88691bdc482b88fd4531f637feb87db3c7074845495da5a0d549af0de"
+  }
+ },
+ "tagged": 476414,
+ "words": 479567
+}

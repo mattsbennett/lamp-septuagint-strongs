@@ -1,0 +1,1085 @@
+ref	osis	token	start	end	surface	strongs	lemma	morph	confidence	method	margin	tier	reason	key	n_readings	candidates	runner_up	set_aside	part	name_hebrew	name_score	name_grammar	name_key	name_note	name_replaces	name_relation
+32001001	Jonah.1.1	0	0	3	ΚΑΙ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	και	1	G2532|καί|CONJ|nt-caps|9438 ; G2532|καί|CONJ|tbesg|1										
+32001001	Jonah.1.1	1	4	11	ἐγένετο	G1096	γίνομαι	V-2ADI-3S	0.9965	unique	inf	a	one reading	ἐγένετο	1	G1096|γίνομαι|V-2ADI-3S|nt-form|206										
+32001001	Jonah.1.1	2	12	17	λόγος	G3056	λόγος	N-NSM	0.9965	unique	inf	a	one reading	λόγοσ	1	G3056|λόγος|N-NSM|nt-form|69										
+32001001	Jonah.1.1	3	18	24	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32001001	Jonah.1.1	4	25	29	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001001	Jonah.1.1	5	30	35	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32001001#5 H3124 יוֹנָ֥ה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32001001	Jonah.1.1	6	36	39	τὸν	G3588	ὁ	T-ASM	0.9835	model	74.72	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001001	Jonah.1.1	7	40	43	τοῦ	G3588	ὁ	T-GSM	0.9420	model	24.08	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32001001	Jonah.1.1	8	44	49	Ἀμαθὶ	H573	Ἀμαθί		0.9320	hebrew-verse	10.2698	d	name-like: only common readings	ἀμαθί	0			G261|ἀμαθής|A-DSF|analyser|0.24|capitalised mid-sentence: a name or title ; G261|ἀμαθής|A-DSM|analyser|0.24|capitalised mid-sentence: a name or title ; G261|ἀμαθής|A-DSN|analyser|0.24|capitalised mid-sentence: a name or title		32001001#7 H0573 אֲמִתַּ֖י Amittai	10.27	N-GSM-P	tahot			transliterates
+32001001	Jonah.1.1	9	51	56	λέγων	G3004	λέγω	V-PAP-NSM	0.9940	model	152.5	b	several parses	λέγων	2	G3004|λέγω|V-PAP-NSM|nt-form|189 ; G3004|λέγω|V-PAP-VSM|nt-form|1	G3004|λέγω|V-PAP-VSM|nt-form|1									
+32001002	Jonah.1.2	0	0	8	ἀνάστηθι	G450	ἀνίστημι	V-2AAM-2S	0.9965	unique	inf	a	one reading	ἀνάστηθι	1	G450|ἀνίστημι|V-2AAM-2S|nt-form|7										
+32001002	Jonah.1.2	1	10	13	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001002	Jonah.1.2	2	14	23	πορεύθητι	G4198	πορεύω	V-AOM-2S	0.9965	unique	inf	a	one reading	πορεύθητι	1	G4198|πορεύω|V-AOM-2S|nt-form|4										
+32001002	Jonah.1.2	3	24	27	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001002	Jonah.1.2	4	28	34	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32001002#4 H5210 נִֽינְוֵ֛ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32001002	Jonah.1.2	5	35	38	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001002	Jonah.1.2	6	39	44	πόλιν	G4172	πόλις	N-ASF	0.9965	unique	inf	a	one reading	πόλιν	1	G4172|πόλις|N-ASF|nt-form|63		G4172|πόλις||nt-form|1|lower case: not a name								
+32001002	Jonah.1.2	7	45	48	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001002	Jonah.1.2	8	49	56	μεγάλην	G3173	μέγας	A-ASF	0.9965	unique	inf	a	one reading	μεγάλην	1	G3173|μέγας|A-ASF|nt-form|20										
+32001002	Jonah.1.2	9	58	61	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001002	Jonah.1.2	10	62	69	κήρυξον	G2784	κηρύσσω	V-AAM-2S	0.9965	unique	inf	a	one reading	κήρυξον	1	G2784|κηρύσσω|V-AAM-2S|nt-form|1										
+32001002	Jonah.1.2	11	70	72	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32001002	Jonah.1.2	12	73	77	αὐτῇ	G846	αὐτός	P-DSF	0.9965	unique	inf	a	one reading	αὐτῇ	1	G846|αὐτός|P-DSF|nt-form|112										
+32001002	Jonah.1.2	13	79	82	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001002	Jonah.1.2	14	83	88	ἀνέβη	G305	ἀναβαίνω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἀνέβη	1	G305|ἀναβαίνω|V-2AAI-3S|nt-form|22										
+32001002	Jonah.1.2	15	89	90	ἡ	G3588	ὁ	T-NSF	0.9899	model	139.9	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001002	Jonah.1.2	16	91	97	κραυγὴ	G2906	κραυγή	N-NSF	0.9965	unique	inf	a	one reading	κραυγή	1	G2906|κραυγή|N-NSF|nt-form|4										
+32001002	Jonah.1.2	17	98	101	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32001002	Jonah.1.2	18	102	108	κακίας	G2549	κακία	N-GSF	0.9862	model	95.94	b	several parses	κακίασ	2	G2549|κακία|N-GSF|nt-form|4 ; G2549|κακία|N-APF|nt-form+paradigm|0	G2549|κακία|N-APF|nt-form+paradigm|0									
+32001002	Jonah.1.2	19	109	114	αὐτῆς	G846	αὐτός	P-GSF	0.9965	unique	inf	a	one reading	αὐτῆσ	1	G846|αὐτός|P-GSF|nt-form|176										
+32001002	Jonah.1.2	20	115	119	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001002	Jonah.1.2	21	120	122	μέ	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	μέ	1	G3165|ἐγώ|P-1AS|nt-form|2										
+32001003	Jonah.1.3	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001003	Jonah.1.3	1	4	10	ἀνέστη	G450	ἀνίστημι	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἀνέστη	1	G450|ἀνίστημι|V-2AAI-3S|nt-form|16										
+32001003	Jonah.1.3	2	11	16	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32001003	Jonah.1.3	3	17	20	τοῦ	G3588	ὁ	T-GSN	0.9420	model	29.66	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001003	Jonah.1.3	4	21	27	φυγεῖν	G5343	φεύγω	V-2AAN	0.9965	unique	inf	a	one reading	φυγεῖν	1	G5343|φεύγω|V-2AAN|nt-form|3										
+32001003	Jonah.1.3	5	28	31	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001003	Jonah.1.3	6	32	38	Θαρσὶς	H8659	Θαρσίς		0.9950	hebrew-verse	14.7161	d	name-like: only common readings	θαρσίσ	0			G7642|θαρσείς|N-NSF|analyser|0.8|capitalised mid-sentence: a name or title ; G7642|θαρσείς|N-VSF|analyser|0.8|capitalised mid-sentence: a name or title		32001003#4 H8659H תַּרְשִׁ֔ישָׁ Tarshish	14.72	N-???-L	tahot			transliterates
+32001003	Jonah.1.3	7	39	41	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001003	Jonah.1.3	8	42	50	προσώπου	G4383	πρόσωπον	N-GSN	0.9965	unique	inf	a	one reading	προσώπου	1	G4383|πρόσωπον|N-GSN|nt-form|19										
+32001003	Jonah.1.3	9	51	57	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32001003	Jonah.1.3	10	59	62	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001003	Jonah.1.3	11	63	69	κατέβη	G2597	καταβαίνω	V-2AAI-3S	0.9965	unique	inf	a	one reading	κατέβη	1	G2597|καταβαίνω|V-2AAI-3S|nt-form|13										
+32001003	Jonah.1.3	12	70	73	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001003	Jonah.1.3	13	74	80	Ἰόππην	G2445	Ἰόππη	N-ASF-L	0.9965	unique	inf	a	one reading	ἰόππην	1	G2445|Ἰόππη|N-ASF-L|nt-form|4										
+32001003	Jonah.1.3	14	82	85	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001003	Jonah.1.3	15	86	90	εὗρε	G2147	εὑρίσκω	V-2AAI-3S	0.9965	unique	inf	a	one reading	εὗρε	1	G2147|εὑρίσκω|V-2AAI-3S|nt-form:movable-nu|16										
+32001003	Jonah.1.3	16	91	97	πλοῖον	G4143	πλοῖον	N-ASN	0.9234	model	123.7	b	several parses	πλοῖον	3	G4143|πλοῖον|N-ASN|nt-form|30 ; G4143|πλοῖον|N-NSN|nt-form|4 ; G4143|πλοῖον|N-VSN|nt-form+paradigm|0	G4143|πλοῖον|N-NSN|nt-form|4									
+32001003	Jonah.1.3	17	98	105	βαδίζον	G6642	βαδίζω	V-PAP-ASN	0.9677	model	70.1	b	several parses	βαδίζον	2	G6642|βαδίζω|V-PAP-ASN|analyser|1 ; G6642|βαδίζω|V-PAP-NSN|analyser|1	G6642|βαδίζω|V-PAP-NSN|analyser|1									
+32001003	Jonah.1.3	18	106	109	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001003	Jonah.1.3	19	110	116	Θαρσὶς	H8659	Θαρσίς		0.9950	hebrew-verse	14.7161	d	name-like: only common readings	θαρσίσ	0			G7642|θαρσείς|N-NSF|analyser|0.8|capitalised mid-sentence: a name or title ; G7642|θαρσείς|N-VSF|analyser|0.8|capitalised mid-sentence: a name or title		32001003#4 H8659H תַּרְשִׁ֔ישָׁ Tarshish	14.72	N-???-L	tahot			transliterates
+32001003	Jonah.1.3	20	118	121	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001003	Jonah.1.3	21	122	127	ἔδωκε	G1325	δίδωμι	V-AAI-3S	0.9965	unique	inf	a	one reading	ἔδωκε	1	G1325|δίδωμι|V-AAI-3S|nt-form:movable-nu|64										
+32001003	Jonah.1.3	22	128	130	τὸ	G3588	ὁ	T-ASN	0.9234	model	109.4	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+32001003	Jonah.1.3	23	131	137	ναῦλον	G8377	ναῦλον	N-ASN	0.8505	model	19.45	c	several words	ναῦλον	9	G20796|ναῦλος|A-ASM|analyser|1 ; G20796|ναῦλος|A-ASN|analyser|1 ; G20796|ναῦλος|A-NSN|analyser|1 ; G20796|ναῦλος|A-VSN|analyser|1 ; G20796|ναῦλος|N-ASM|analyser|1 ; G8377|ναῦλον|N-ASN|analyser|1 ; G8377|ναῦλον|N-NSN|analyser|1 ; G8377|ναῦλον|N-VSN|analyser|1 ; G20796|ναῦλος|A-ASF|analyser|0.15	G20796|ναῦλος|A-ASN|analyser|1									
+32001003	Jonah.1.3	24	138	143	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	24.24	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32001003	Jonah.1.3	25	145	148	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001003	Jonah.1.3	26	149	154	ἀνέβη	G305	ἀναβαίνω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἀνέβη	1	G305|ἀναβαίνω|V-2AAI-3S|nt-form|22										
+32001003	Jonah.1.3	27	155	158	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001003	Jonah.1.3	28	159	163	αὐτὸ	G846	αὐτός	P-ASN	0.9982	model	1075	b	several parses	αὐτό	2	G846|αὐτός|P-ASN|nt-form|101 ; G846|αὐτός|P-NSN|nt-form|9	G846|αὐτός|P-NSN|nt-form|9									
+32001003	Jonah.1.3	29	165	168	τοῦ	G3588	ὁ	T-GSN	0.9420	model	33.64	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001003	Jonah.1.3	30	169	176	πλεῦσαι	G4126	πλέω	V-AAN	0.8883	model	36.22	b	several parses	πλεῦσαι	3	G4126|πλέω|V-AAN|analyser|1 ; G4126|πλέω|V-AMM-2S|analyser|1 ; G4126|πλέω|V-ADM-2S|analyser|0.4	G4126|πλέω|V-AMM-2S|analyser|1									
+32001003	Jonah.1.3	31	177	181	μετʼ	G3326	μετά	PREP	0.9965	unique	inf	a	one reading	μετ’	1	G3326|μετά|PREP|nt-form|133										
+32001003	Jonah.1.3	32	182	187	αὐτῶν	G846	αὐτός	P-GPM	0.8828	model	50.58	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32001003	Jonah.1.3	33	188	191	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001003	Jonah.1.3	34	192	198	Θαρσὶς	H8659	Θαρσίς		0.9950	hebrew-verse	14.7161	d	name-like: only common readings	θαρσίσ	0			G7642|θαρσείς|N-NSF|analyser|0.8|capitalised mid-sentence: a name or title ; G7642|θαρσείς|N-VSF|analyser|0.8|capitalised mid-sentence: a name or title		32001003#4 H8659H תַּרְשִׁ֔ישָׁ Tarshish	14.72	N-???-L	tahot			transliterates
+32001003	Jonah.1.3	35	199	201	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001003	Jonah.1.3	36	202	210	προσώπου	G4383	πρόσωπον	N-GSN	0.9965	unique	inf	a	one reading	προσώπου	1	G4383|πρόσωπον|N-GSN|nt-form|19										
+32001003	Jonah.1.3	37	211	217	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32001004	Jonah.1.4	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001004	Jonah.1.4	1	4	10	Κύριος	G2962	κύριος	N-NSM-T	0.9982	model	169.4	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32001004	Jonah.1.4	2	11	19	ἐξήγειρε	G1825	ἐξεγείρω	V-AAI-3S	0.8446	model	14.95	b	several parses	ἐξήγειρε	2	G1825|ἐξεγείρω|V-AAI-3S|analyser|1 ; G1825|ἐξεγείρω|V-IAI-3S|analyser|0.6667	G1825|ἐξεγείρω|V-IAI-3S|analyser|0.6667									
+32001004	Jonah.1.4	3	20	26	πνεῦμα	G4151	πνεῦμα	N-ASN	0.7607	model	14.55	b	several parses	πνεῦμα	3	G4151|πνεῦμα|N-NSN|nt-form|92 ; G4151|πνεῦμα|N-ASN|nt-form|66 ; G4151|πνεῦμα|N-VSN|nt-form|2	G4151|πνεῦμα|N-NSN|nt-form|92									
+32001004	Jonah.1.4	4	27	30	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32001004	Jonah.1.4	5	31	34	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001004	Jonah.1.4	6	35	43	θάλασσαν	G2281	θάλασσα	N-ASF	0.9965	unique	inf	a	one reading	θάλασσαν	1	G2281|θάλασσα|N-ASF|nt-form|42		G2281|θάλασσα|N-ASF-L|nt-form|1|lower case: not a name								
+32001004	Jonah.1.4	7	45	48	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001004	Jonah.1.4	8	49	56	ἐγένετο	G1096	γίνομαι	V-2ADI-3S	0.9965	unique	inf	a	one reading	ἐγένετο	1	G1096|γίνομαι|V-2ADI-3S|nt-form|206										
+32001004	Jonah.1.4	9	57	63	κλύδων	G2830	κλύδων	N-NSM	0.9854	model	194.5	b	several parses	κλύδων	2	G2830|κλύδων|N-NSM|analyser|1 ; G2830|κλύδων|N-VSM|analyser|1	G2830|κλύδων|N-VSM|analyser|1									
+32001004	Jonah.1.4	10	64	69	μέγας	G3173	μέγας	A-NSM	0.9965	unique	inf	a	one reading	μέγασ	1	G3173|μέγας|A-NSM|nt-form|25										
+32001004	Jonah.1.4	11	70	72	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32001004	Jonah.1.4	12	73	75	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32001004	Jonah.1.4	13	76	83	θαλάσσῃ	G2281	θάλασσα	N-DSF	0.9965	unique	inf	a	one reading	θαλάσσῃ	1	G2281|θάλασσα|N-DSF|nt-form|12		G2281|θάλασσα|N-DSF-L|nt-form|1|lower case: not a name								
+32001004	Jonah.1.4	14	85	88	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001004	Jonah.1.4	15	89	91	τὸ	G3588	ὁ	T-ASN	0.9234	model	117.1	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+32001004	Jonah.1.4	16	92	98	πλοῖον	G4143	πλοῖον	N-ASN	0.9234	model	117.1	b	several parses	πλοῖον	3	G4143|πλοῖον|N-ASN|nt-form|30 ; G4143|πλοῖον|N-NSN|nt-form|4 ; G4143|πλοῖον|N-VSN|nt-form+paradigm|0	G4143|πλοῖον|N-NSN|nt-form|4									
+32001004	Jonah.1.4	17	99	109	ἐκινδύνευε	G2793	κινδυνεύω	V-IAI-3S	0.9744	unique	inf	a	one reading	ἐκινδύνευε	1	G2793|κινδυνεύω|V-IAI-3S|analyser|1										
+32001004	Jonah.1.4	18	110	113	τοῦ	G3588	ὁ	T-GSN	0.9420	model	26.07	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001004	Jonah.1.4	19	114	125	συντριβῆναι	G4937	συντρίβω	V-2APN	0.9208	model	20.84	b	several parses	συντριβῆναι	2	G4937|συντρίβω|V-2APN|analyser|1 ; G4937|συντρίβω|V-2AON|analyser|0.2	G4937|συντρίβω|V-2AON|analyser|0.2									
+32001005	Jonah.1.5	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001005	Jonah.1.5	1	4	14	ἐφοβήθησαν	G5399	φοβέω	V-AOI-3P	0.9965	unique	inf	a	one reading	ἐφοβήθησαν	1	G5399|φοβέω|V-AOI-3P|nt-form|14										
+32001005	Jonah.1.5	2	15	17	οἱ	G3588	ὁ	T-NPM	0.9940	model	163.3	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32001005	Jonah.1.5	3	18	26	ναυτικοὶ	G8378	ναυτικός	A-NPM	0.8727	model	63.86	b	several parses	ναυτικοί	4	G8378|ναυτικός|A-NPM|analyser|1 ; G8378|ναυτικός|A-VPM|analyser|1 ; G8378|ναυτικός|A-NPF|analyser|0.15 ; G8378|ναυτικός|A-VPF|analyser|0.15	G8378|ναυτικός|A-NPF|analyser|0.15									
+32001005	Jonah.1.5	4	28	31	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001005	Jonah.1.5	5	32	41	ἀνεβόησαν	G310	ἀναβοάω	V-AAI-3P	0.9744	unique	inf	a	one reading	ἀνεβόησαν	1	G310|ἀναβοάω|V-AAI-3P|analyser|1										
+32001005	Jonah.1.5	6	42	49	ἕκαστος	G1538	ἕκαστος	A-NSM	0.9965	unique	inf	a	one reading	ἕκαστοσ	1	G1538|ἕκαστος|A-NSM|nt-form|41										
+32001005	Jonah.1.5	7	50	54	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001005	Jonah.1.5	8	55	58	τὸν	G3588	ὁ	T-ASM	0.9940	model	155.9	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001005	Jonah.1.5	9	59	63	θεὸν	G2316	θεός	N-ASM	0.9862	model	94.02	b	several parses	θεόν	2	G2316|θεός|N-ASM|nt-form|3 ; G2316|θεός|N-ASF|nt-form|1	G2316|θεός|N-ASF|nt-form|1	G2316|θεός|N-ASM-T|nt-form|146|lower case: not a title								
+32001005	Jonah.1.5	10	64	69	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	30.02	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32001005	Jonah.1.5	11	71	74	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001005	Jonah.1.5	12	75	82	ἐκβολὴν	G1546	ἐκβολή	N-ASF	0.9965	unique	inf	a	one reading	ἐκβολήν	1	G1546|ἐκβολή|N-ASF|nt-form|1										
+32001005	Jonah.1.5	13	83	93	ἐποιήσαντο	G4160	ποιέω	V-AMI-3P	0.7353	model	7.232	b	several parses	ἐποιήσαντο	2	G4160|ποιέω|V-AMI-3P|analyser|1 ; G4160|ποιέω|V-ADI-3P|analyser|0.06	G4160|ποιέω|V-ADI-3P|analyser|0.06									
+32001005	Jonah.1.5	14	94	97	τῶν	G3588	ὁ	T-GPN	0.9203	model	71.23	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+32001005	Jonah.1.5	15	98	104	σκευῶν	G4632	σκεῦος	N-GPN	0.9371	model	94.17	c	several words	σκευῶν	2	G4632|σκεῦος|N-GPN|analyser|1 ; G4631|σκευή|N-GPF|analyser|0.8165	G4631|σκευή|N-GPF|analyser|0.8165									
+32001005	Jonah.1.5	16	105	108	τῶν	G3588	ὁ	T-GPN	0.8462	model	39.33	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+32001005	Jonah.1.5	17	109	111	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32001005	Jonah.1.5	18	112	114	τῷ	G3588	ὁ	T-DSN	0.9780	model	73.3	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSM|nt-form|863									
+32001005	Jonah.1.5	19	115	120	πλοίῳ	G4143	πλοῖον	N-DSN	0.9965	unique	inf	a	one reading	πλοίῳ	1	G4143|πλοῖον|N-DSN|nt-form|14										
+32001005	Jonah.1.5	20	121	124	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001005	Jonah.1.5	21	125	128	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001005	Jonah.1.5	22	129	137	θάλασσαν	G2281	θάλασσα	N-ASF	0.9965	unique	inf	a	one reading	θάλασσαν	1	G2281|θάλασσα|N-ASF|nt-form|42		G2281|θάλασσα|N-ASF-L|nt-form|1|lower case: not a name								
+32001005	Jonah.1.5	23	139	142	τοῦ	G3588	ὁ	T-GSN	0.9420	model	24.94	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001005	Jonah.1.5	24	143	154	κουφισθῆναι	G2893	κουφίζω	V-APN	0.8446	model	12.83	b	several parses	κουφισθῆναι	2	G2893|κουφίζω|V-APN|analyser|1 ; G2893|κουφίζω|V-AON|analyser|0.2	G2893|κουφίζω|V-AON|analyser|0.2									
+32001005	Jonah.1.5	25	155	158	ἀπʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπ’	1	G575|ἀπό|PREP|nt-form|134										
+32001005	Jonah.1.5	26	159	164	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	33.59	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32001005	Jonah.1.5	27	166	171	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32001005	Jonah.1.5	28	172	174	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+32001005	Jonah.1.5	29	175	181	κατέβη	G2597	καταβαίνω	V-2AAI-3S	0.9965	unique	inf	a	one reading	κατέβη	1	G2597|καταβαίνω|V-2AAI-3S|nt-form|13										
+32001005	Jonah.1.5	30	182	185	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001005	Jonah.1.5	31	186	189	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001005	Jonah.1.5	32	190	196	κοίλην	G8040	κοῖλος	A-ASF	0.9744	unique	inf	a	one reading	κοίλην	1	G8040|κοῖλος|A-ASF|analyser|1										
+32001005	Jonah.1.5	33	197	200	τοῦ	G3588	ὁ	T-GSN	0.9751	model	54.64	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001005	Jonah.1.5	34	201	207	πλοίου	G4143	πλοῖον	N-GSN	0.9965	unique	inf	a	one reading	πλοίου	1	G4143|πλοῖον|N-GSN|nt-form|12										
+32001005	Jonah.1.5	35	209	212	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001005	Jonah.1.5	36	213	221	ἐκάθευδε	G2518	καθεύδω	V-IAI-3S	0.9965	unique	inf	a	one reading	ἐκάθευδε	1	G2518|καθεύδω|V-IAI-3S|nt-form:movable-nu|1										
+32001005	Jonah.1.5	37	223	226	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001005	Jonah.1.5	38	227	233	ἔρεγχε	G9019	ῥέγχω	V-IAI-3S	0.5978	model	5.23	b	several parses	ἔρεγχε	3	G9019|ῥέγχω|V-2RAI-3S|analyser|1 ; G9019|ῥέγχω|V-IAI-3S|analyser|1 ; G9019|ῥέγχω||analyser|0.25	G9019|ῥέγχω|V-2RAI-3S|analyser|1									
+32001006	Jonah.1.6	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001006	Jonah.1.6	1	4	12	προσῆλθε	G4334	προσέρχομαι	V-2AAI-3S	0.9965	unique	inf	a	one reading	προσῆλθε	1	G4334|προσέρχομαι|V-2AAI-3S|nt-form:movable-nu|8										
+32001006	Jonah.1.6	2	13	17	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001006	Jonah.1.6	3	18	23	αὐτὸν	G846	αὐτός	P-ASM	0.9965	unique	inf	a	one reading	αὐτόν	1	G846|αὐτός|P-ASM|nt-form|1006										
+32001006	Jonah.1.6	4	24	25	ὁ	G3588	ὁ	T-NSM	0.9982	model	204.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32001006	Jonah.1.6	5	26	33	πρωρεὺς	G8962	πρῳρεύς	N-NSM	0.9854	model	203.9	b	several parses	πρωρεύσ	2	G8962|πρῳρεύς|N-NSM|analyser|1 ; G8962|πρῳρεύς|N-VSM|analyser|0.2	G8962|πρῳρεύς|N-VSM|analyser|0.2									
+32001006	Jonah.1.6	6	35	38	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001006	Jonah.1.6	7	39	44	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32001006	Jonah.1.6	8	45	49	αὐτῷ	G846	αὐτός	P-DSM	0.9513	model	34.37	b	several parses	αὐτῷ	2	G846|αὐτός|P-DSM|nt-form|875 ; G846|αὐτός|P-DSN|nt-form|22	G846|αὐτός|P-DSN|nt-form|22									
+32001006	Jonah.1.6	9	51	53	τί	G5101	τίς	I-ASN	0.9420	model	33.88	c	several words	τί	4	G5101|τίς|I-ASN|nt-form|269 ; G5101|τίς|I-NSN|nt-form|80 ; G5100|τις|X-NSN|nt-form|4 ; G5100|τις|X-ASN|nt-form|1	G5101|τίς|I-NSN|nt-form|80									
+32001006	Jonah.1.6	10	54	56	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32001006	Jonah.1.6	11	57	64	ῥέγχεις	G9019	ῥέγχω	V-PAI-2S	0.9744	unique	inf	a	one reading	ρέγχεισ	1	G9019|ῥέγχω|V-PAI-2S|analyser|1										
+32001006	Jonah.1.6	12	66	72	ἀνάστα	G450	ἀνίστημι	V-2AAM-2S	0.9965	unique	inf	a	one reading	ἀνάστα	1	G450|ἀνίστημι|V-2AAM-2S|nt-form|2										
+32001006	Jonah.1.6	13	74	77	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001006	Jonah.1.6	14	78	86	ἐπικαλοῦ	G1941	ἐπικαλέω	V-PPM-2S	0.5324	model	4.484	b	several parses	ἐπικαλοῦ	2	G1941|ἐπικαλέω|V-PPM-2S|analyser|1 ; G1941|ἐπικαλέω|V-PMM-2S|analyser|0.359	G1941|ἐπικαλέω|V-PMM-2S|analyser|0.359									
+32001006	Jonah.1.6	15	87	90	τὸν	G3588	ὁ	T-ASM	0.9940	model	158.7	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001006	Jonah.1.6	16	91	95	Θεόν	G2316	θεός	N-ASM-T	0.9965	unique	inf	a	one reading	θεόν	1	G2316|θεός|N-ASM-T|nt-form|146		G2316|θεός|N-ASM|nt-form|3|capitalised mid-sentence: a name or title ; G2316|θεός|N-ASF|nt-form|1|capitalised mid-sentence: a name or title								
+32001006	Jonah.1.6	17	96	99	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32001006	Jonah.1.6	18	101	105	ὅπως	G3704	ὅπως	CONJ	0.9965	unique	inf	a	one reading	ὅπωσ	1	G3704|ὅπως|CONJ|nt-form|54										
+32001006	Jonah.1.6	19	106	113	διασώσῃ	G1295	διασῴζω	V-AAS-3S	0.9965	unique	inf	a	one reading	διασώσῃ	1	G1295|διασῴζω|V-AAS-3S|nt-form|1										
+32001006	Jonah.1.6	20	114	115	ὁ	G3588	ὁ	T-NSM	0.9899	model	131.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32001006	Jonah.1.6	21	116	120	Θεὸς	G2316	θεός	N-NSM-T	0.9899	model	131.4	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32001006	Jonah.1.6	22	121	125	ἡμᾶς	G3165	ἐγώ	P-1AP	0.9965	unique	inf	a	one reading	ἡμᾶσ	1	G3165|ἐγώ|P-1AP|nt-form|170										
+32001006	Jonah.1.6	23	127	130	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001006	Jonah.1.6	24	131	133	οὐ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐ	1	G3756|οὐ|PRT-N|nt-form|687										
+32001006	Jonah.1.6	25	134	136	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+32001006	Jonah.1.6	26	137	146	ἀπολώμεθα	G622	ἀπολλύω	V-2AMS-1P	0.8713	model	20.02	b	several parses	ἀπολώμεθα	2	G622|ἀπολλύω|V-2AMS-1P|analyser|1 ; G622|ἀπολλύω|V-2ADS-1P|analyser|0.06	G622|ἀπολλύω|V-2ADS-1P|analyser|0.06									
+32001007	Jonah.1.7	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001007	Jonah.1.7	1	4	9	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32001007	Jonah.1.7	2	10	17	ἕκαστος	G1538	ἕκαστος	A-NSM	0.9965	unique	inf	a	one reading	ἕκαστοσ	1	G1538|ἕκαστος|A-NSM|nt-form|41										
+32001007	Jonah.1.7	3	18	22	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001007	Jonah.1.7	4	23	26	τὸν	G3588	ὁ	T-ASM	0.9835	model	77.09	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001007	Jonah.1.7	5	27	34	πλησίον	G4139	πλησίον	ADV	0.9637	model	43.12	b	several parses	πλησίον	2	G4139|πλησίον|ADV|nt-form|16 ; G4139|πλησίον|N-NSF|nt-form|1	G4139|πλησίον|N-NSF|nt-form|1									
+32001007	Jonah.1.7	6	35	40	αὐτοῦ	G846	αὐτός	P-GSM	0.9505	model	37.64	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G1438|ἑαυτοῦ|F-3GSM|nt-form|1									
+32001007	Jonah.1.7	7	42	47	δεῦτε	G1205	δεῦτε	INJ	0.9965	unique	inf	a	one reading	δεῦτε	1	G1205|δεῦτε|INJ|nt-form|13										
+32001007	Jonah.1.7	8	48	55	βάλωμεν	G906	βάλλω	V-2AAS-1P	0.9744	unique	inf	a	one reading	βάλωμεν	1	G906|βάλλω|V-2AAS-1P|analyser|1										
+32001007	Jonah.1.7	9	56	63	κλήρους	G2819	κλῆρος	N-APM	0.9965	unique	inf	a	one reading	κλήρουσ	1	G2819|κλῆρος|N-APM|nt-form|2										
+32001007	Jonah.1.7	10	65	68	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001007	Jonah.1.7	11	69	78	ἐπιγνῶμεν	G1921	ἐπιγινώσκω	V-2AAS-1P	0.9744	unique	inf	a	one reading	ἐπιγνῶμεν	1	G1921|ἐπιγινώσκω|V-2AAS-1P|analyser|1										
+32001007	Jonah.1.7	12	80	85	τίνος	G5101	τίς	I-GSM	0.7052	model	9.96	b	several parses	τίνοσ	2	G5101|τίς|I-GSM|nt-form|11 ; G5101|τίς|I-GSN|nt-form|2	G5101|τίς|I-GSN|nt-form|2									
+32001007	Jonah.1.7	13	86	92	ἕνεκεν	G1752	ἕνεκα, εἵνεκεν	PREP	0.9965	unique	inf	a	one reading	ἕνεκεν	1	G1752|ἕνεκα, εἵνεκεν|PREP|nt-form|20										
+32001007	Jonah.1.7	14	93	94	ἡ	G3588	ὁ	T-NSF	0.9899	model	127.1	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001007	Jonah.1.7	15	95	100	κακία	G2549	κακία	N-NSF	0.9965	unique	inf	a	one reading	κακία	1	G2549|κακία|N-NSF|nt-form|1										
+32001007	Jonah.1.7	16	101	105	αὕτη	G3778	οὗτος	D-NSF	0.9965	unique	inf	a	one reading	αὕτη	1	G3778|οὗτος|D-NSF|nt-form|77										
+32001007	Jonah.1.7	17	106	111	ἐστὶν	G1510	εἰμί	V-PAI-3S	0.9965	unique	inf	a	one reading	ἐστίν	1	G1510|εἰμί|V-PAI-3S|nt-form|193										
+32001007	Jonah.1.7	18	112	114	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32001007	Jonah.1.7	19	115	119	ἡμῖν	G3165	ἐγώ	P-1DP	0.9965	unique	inf	a	one reading	ἡμῖν	1	G3165|ἐγώ|P-1DP|nt-form|173										
+32001007	Jonah.1.7	20	121	124	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001007	Jonah.1.7	21	125	131	ἔβαλον	G906	βάλλω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἔβαλον	1	G906|βάλλω|V-2AAI-3P|nt-form|9										
+32001007	Jonah.1.7	22	132	139	κλήρους	G2819	κλῆρος	N-APM	0.9965	unique	inf	a	one reading	κλήρουσ	1	G2819|κλῆρος|N-APM|nt-form|2										
+32001007	Jonah.1.7	23	141	144	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001007	Jonah.1.7	24	145	151	ἔπεσεν	G4098	πίπτω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἔπεσεν	1	G4098|πίπτω|V-2AAI-3S|nt-form|29										
+32001007	Jonah.1.7	25	152	153	ὁ	G3588	ὁ	T-NSM	0.9982	model	193.9	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32001007	Jonah.1.7	26	154	160	κλῆρος	G2819	κλῆρος	N-NSM	0.9965	unique	inf	a	one reading	κλῆροσ	1	G2819|κλῆρος|N-NSM|nt-form|2										
+32001007	Jonah.1.7	27	161	164	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32001007	Jonah.1.7	28	165	170	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32001007#18 H3124 יוֹנָֽה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32001008	Jonah.1.8	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001008	Jonah.1.8	1	4	9	εἶπον	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3P	0.7052	model	5.546	b	several parses	εἶπον	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|34 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3P|nt-form|27	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|34									
+32001008	Jonah.1.8	2	10	14	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001008	Jonah.1.8	3	15	20	αὐτὸν	G846	αὐτός	P-ASM	0.9965	unique	inf	a	one reading	αὐτόν	1	G846|αὐτός|P-ASM|nt-form|1006										
+32001008	Jonah.1.8	4	22	32	ἀπάγγειλον	G518	ἀπαγγέλλω	V-AAM-2S	0.9965	unique	inf	a	one reading	ἀπάγγειλον	1	G518|ἀπαγγέλλω|V-AAM-2S|nt-form|1										
+32001008	Jonah.1.8	5	33	37	ἡμῖν	G3165	ἐγώ	P-1DP	0.9965	unique	inf	a	one reading	ἡμῖν	1	G3165|ἐγώ|P-1DP|nt-form|173										
+32001008	Jonah.1.8	6	39	42	τίς	G5101	τίς	I-NSM	0.8757	model	23.46	c	several words	τίσ	3	G5101|τίς|I-NSM|nt-form|129 ; G5101|τίς|I-NSF|nt-form|21 ; G5100|τις|X-NSM|nt-form|5	G5100|τις|X-NSM|nt-form|5									
+32001008	Jonah.1.8	7	43	46	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32001008	Jonah.1.8	8	47	48	ἡ	G3588	ὁ	T-NSF	0.9940	model	142.7	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001008	Jonah.1.8	9	49	56	ἐργασία	G2039	ἐργασία	N-NSF	0.9503	model	138.7	b	several parses	ἐργασία	3	G2039|ἐργασία|N-NSF|analyser|1 ; G2039|ἐργασία|N-VSF|analyser|1 ; G2039|ἐργασία|N-DSF|analyser|0.8	G2039|ἐργασία|N-DSF|analyser|0.8									
+32001008	Jonah.1.8	10	57	61	ἐστὶ	G1510	εἰμί	V-PAI-3S	0.9965	unique	inf	a	one reading	ἐστί	1	G1510|εἰμί|V-PAI-3S|nt-form:movable-nu|193										
+32001008	Jonah.1.8	11	63	66	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001008	Jonah.1.8	12	67	72	πόθεν	G4159	πόθεν	ADV	0.7052	model	0.3452	b	several parses	πόθεν	2	G4159|πόθεν|ADV-I|nt-form|17 ; G4159|πόθεν|ADV|nt-form|12	G4159|πόθεν|ADV-I|nt-form|17									
+32001008	Jonah.1.8	13	73	77	ἔρχῃ	G2064	ἔρχομαι	V-PNI-2S	0.9965	unique	inf	a	one reading	ἔρχῃ	1	G2064|ἔρχομαι|V-PNI-2S|nt-form|1										
+32001008	Jonah.1.8	14	79	82	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001008	Jonah.1.8	15	83	85	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001008	Jonah.1.8	16	86	91	ποίας	G4169	ποῖος	I-GSF	0.9780	model	60.26	b	several parses	ποίασ	2	G4169|ποῖος|I-GSF|nt-form|2 ; G4169|ποῖος|I-APF|nt-form|1	G4169|ποῖος|I-APF|nt-form|1									
+32001008	Jonah.1.8	17	92	97	χώρας	G5561	χώρα	N-GSF	0.9513	model	38.75	b	several parses	χώρασ	2	G5561|χώρα|N-GSF|nt-form|5 ; G5561|χώρα|N-APF|nt-form|3	G5561|χώρα|N-APF|nt-form|3									
+32001008	Jonah.1.8	18	99	102	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001008	Jonah.1.8	19	103	105	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001008	Jonah.1.8	20	106	111	ποίου	G4169	ποῖος	I-GSM	0.9637	model	56.64	b	several parses	ποίου	2	G4169|ποῖος|I-GSM|nt-form|1 ; G4169|ποῖος|I-GSN|nt-form+paradigm|0	G4169|ποῖος|I-GSN|nt-form+paradigm|0									
+32001008	Jonah.1.8	21	112	116	λαοῦ	G2992	λαός	N-GSM	0.9965	unique	inf	a	one reading	λαοῦ	1	G2992|λαός|N-GSM|nt-form|38										
+32001008	Jonah.1.8	22	117	119	εἶ	G1510	εἰμί	V-PAI-2S	0.9965	unique	inf	a	one reading	εἶ	1	G1510|εἰμί|V-PAI-2S|nt-form|92										
+32001008	Jonah.1.8	23	120	122	σύ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32001009	Jonah.1.9	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001009	Jonah.1.9	1	4	8	εἶπε	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.8944	model	19.13	b	several parses	εἶπε	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|2 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1									
+32001009	Jonah.1.9	2	9	13	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001009	Jonah.1.9	3	14	20	αὐτοὺς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+32001009	Jonah.1.9	4	22	28	δοῦλος	G1401	δοῦλος	N-NSM	0.9965	unique	inf	a	one reading	δοῦλοσ	1	G1401|δοῦλος|N-NSM|nt-form|35										
+32001009	Jonah.1.9	5	29	35	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32001009	Jonah.1.9	6	36	40	εἰμὶ	G1510	εἰμί	V-PAI-1S	0.9965	unique	inf	a	one reading	εἰμί	1	G1510|εἰμί|V-PAI-1S|nt-form|45										
+32001009	Jonah.1.9	7	41	44	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32001009	Jonah.1.9	8	46	49	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001009	Jonah.1.9	9	50	53	τὸν	G3588	ὁ	T-ASM	0.9899	model	131.5	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001009	Jonah.1.9	10	54	60	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32001009	Jonah.1.9	11	61	65	Θεὸν	G2316	θεός	N-ASM-T	0.9965	unique	inf	a	one reading	θεόν	1	G2316|θεός|N-ASM-T|nt-form|146		G2316|θεός|N-ASM|nt-form|3|capitalised mid-sentence: a name or title ; G2316|θεός|N-ASF|nt-form|1|capitalised mid-sentence: a name or title								
+32001009	Jonah.1.9	12	66	69	τοῦ	G3588	ὁ	T-GSM	0.9945	model	74.8	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32001009	Jonah.1.9	13	70	77	οὐρανοῦ	G3772	οὐρανός	N-GSM	0.9965	unique	inf	a	one reading	οὐρανοῦ	1	G3772|οὐρανός|N-GSM|nt-form|94										
+32001009	Jonah.1.9	14	78	81	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32001009	Jonah.1.9	15	82	89	σέβομαι	G4576	σέβομαι	V-PNI-1S	0.9744	unique	inf	a	one reading	σέβομαι	1	G4576|σέβομαι|V-PNI-1S|analyser|1										
+32001009	Jonah.1.9	16	91	93	ὃς	G3739	ὅς, ἥ	R-NSM	0.9965	unique	inf	a	one reading	ὅσ	1	G3739|ὅς, ἥ|R-NSM|nt-form|223										
+32001009	Jonah.1.9	17	94	101	ἐποίησε	G4160	ποιέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐποίησε	1	G4160|ποιέω|V-AAI-3S|nt-form:movable-nu|77										
+32001009	Jonah.1.9	18	102	105	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001009	Jonah.1.9	19	106	114	θάλασσαν	G2281	θάλασσα	N-ASF	0.9965	unique	inf	a	one reading	θάλασσαν	1	G2281|θάλασσα|N-ASF|nt-form|42		G2281|θάλασσα|N-ASF-L|nt-form|1|lower case: not a name								
+32001009	Jonah.1.9	20	115	118	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001009	Jonah.1.9	21	119	122	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001009	Jonah.1.9	22	123	128	ξηράν	G3584	ξηρός	A-ASF	0.9965	unique	inf	a	one reading	ξηράν	1	G3584|ξηρός|A-ASF|nt-form|4										
+32001010	Jonah.1.10	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001010	Jonah.1.10	1	4	14	ἐφοβήθησαν	G5399	φοβέω	V-AOI-3P	0.9965	unique	inf	a	one reading	ἐφοβήθησαν	1	G5399|φοβέω|V-AOI-3P|nt-form|14										
+32001010	Jonah.1.10	2	15	17	οἱ	G3588	ὁ	T-NPM	0.9780	model	61.51	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32001010	Jonah.1.10	3	18	24	ἄνδρες	G435	ἀνήρ	N-NPM	0.9780	model	61.51	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+32001010	Jonah.1.10	4	25	30	φόβον	G5401	φόβος	N-ASM	0.9965	unique	inf	a	one reading	φόβον	1	G5401|φόβος|N-ASM|nt-form|15										
+32001010	Jonah.1.10	5	31	36	μέγαν	G3173	μέγας	A-ASM	0.9965	unique	inf	a	one reading	μέγαν	1	G3173|μέγας|A-ASM|nt-form|13										
+32001010	Jonah.1.10	6	38	41	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001010	Jonah.1.10	7	42	47	εἶπον	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3P	0.9637	model	49.65	b	several parses	εἶπον	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|34 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3P|nt-form|27	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|34									
+32001010	Jonah.1.10	8	48	52	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001010	Jonah.1.10	9	53	58	αὐτὸν	G846	αὐτός	P-ASM	0.9965	unique	inf	a	one reading	αὐτόν	1	G846|αὐτός|P-ASM|nt-form|1006										
+32001010	Jonah.1.10	10	60	62	τί	G5101	τίς	I-ASN	0.9505	model	38.13	c	several words	τί	4	G5101|τίς|I-ASN|nt-form|269 ; G5101|τίς|I-NSN|nt-form|80 ; G5100|τις|X-NSN|nt-form|4 ; G5100|τις|X-ASN|nt-form|1	G5101|τίς|I-NSN|nt-form|80									
+32001010	Jonah.1.10	11	63	68	τοῦτο	G3778	οὗτος	D-ASN	0.9780	model	69.08	b	several parses	τοῦτο	2	G3778|οὗτος|D-ASN|nt-form|242 ; G3778|οὗτος|D-NSN|nt-form|83	G3778|οὗτος|D-NSN|nt-form|83									
+32001010	Jonah.1.10	12	69	77	ἐποίησας	G4160	ποιέω	V-AAI-2S	0.9965	unique	inf	a	one reading	ἐποίησασ	1	G4160|ποιέω|V-AAI-2S|nt-form|6										
+32001010	Jonah.1.10	13	79	84	διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+32001010	Jonah.1.10	14	85	92	ἔγνωσαν	G1097	γινώσκω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἔγνωσαν	1	G1097|γινώσκω|V-2AAI-3P|nt-form|17										
+32001010	Jonah.1.10	15	93	95	οἱ	G3588	ὁ	T-NPM	0.9940	model	162	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32001010	Jonah.1.10	16	96	102	ἄνδρες	G435	ἀνήρ	N-NPM	0.9862	model	116.4	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+32001010	Jonah.1.10	17	103	106	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001010	Jonah.1.10	18	107	109	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001010	Jonah.1.10	19	110	118	προσώπου	G4383	πρόσωπον	N-GSN	0.9965	unique	inf	a	one reading	προσώπου	1	G4383|πρόσωπον|N-GSN|nt-form|19										
+32001010	Jonah.1.10	20	119	125	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32001010	Jonah.1.10	21	126	128	ἦν	G1510	εἰμί	V-IAI-3S	0.9965	unique	inf	a	one reading	ἦν	1	G1510|εἰμί|V-IAI-3S|nt-form|329										
+32001010	Jonah.1.10	22	129	135	φεύγων	G5343	φεύγω	V-PAP-NSM	0.9735	model	120.2	b	several parses	φεύγων	2	G5343|φεύγω|V-PAP-NSM|analyser|1 ; G5343|φεύγω|V-PAP-VSM|analyser|1	G5343|φεύγω|V-PAP-VSM|analyser|1									
+32001010	Jonah.1.10	23	137	140	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001010	Jonah.1.10	24	141	151	ἀπήγγειλεν	G518	ἀπαγγέλλω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἀπήγγειλεν	1	G518|ἀπαγγέλλω|V-AAI-3S|nt-form|10										
+32001010	Jonah.1.10	25	152	158	αὐτοῖς	G846	αὐτός	P-DPM	0.8944	model	18.49	b	several parses	αὐτοῖσ	2	G846|αὐτός|P-DPM|nt-form|564 ; G846|αὐτός|P-DPN|nt-form|20	G846|αὐτός|P-DPN|nt-form|20									
+32001011	Jonah.1.11	0	0	3	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001011	Jonah.1.11	1	4	9	εἶπον	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-1S	0.7052	model	0.8934	b	several parses	εἶπον	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|34 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3P|nt-form|27	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3P|nt-form|27									
+32001011	Jonah.1.11	2	10	14	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001011	Jonah.1.11	3	15	20	αὐτὸν	G846	αὐτός	P-ASM	0.9965	unique	inf	a	one reading	αὐτόν	1	G846|αὐτός|P-ASM|nt-form|1006										
+32001011	Jonah.1.11	4	22	24	τί	G5101	τίς	I-ASN	0.9669	model	40.16	c	several words	τί	4	G5101|τίς|I-ASN|nt-form|269 ; G5101|τίς|I-NSN|nt-form|80 ; G5100|τις|X-NSN|nt-form|4 ; G5100|τις|X-ASN|nt-form|1	G5100|τις|X-ASN|nt-form|1									
+32001011	Jonah.1.11	5	25	34	ποιήσομέν	G4160	ποιέω	V-FAI-1P	0.9965	unique	inf	a	one reading	ποιήσομεν	1	G4160|ποιέω|V-FAI-1P|nt-form|4										
+32001011	Jonah.1.11	6	35	38	σοι	G4771	σύ	P-2DS	0.9965	unique	inf	a	one reading	σοι	1	G4771|σύ|P-2DS|nt-form|168										
+32001011	Jonah.1.11	7	40	43	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001011	Jonah.1.11	8	44	51	κοπάσει	G2869	κοπάζω	V-FAI-3S	0.9298	model	79.77	b	several parses	κοπάσει	3	G2869|κοπάζω|V-FAI-3S|analyser|1 ; G2869|κοπάζω|V-FDI-2S|analyser|0.5 ; G2869|κοπάζω|V-FMI-2S|analyser|0.5	G2869|κοπάζω|V-FDI-2S|analyser|0.5									
+32001011	Jonah.1.11	9	52	53	ἡ	G3588	ὁ	T-NSF	0.9940	model	145.9	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001011	Jonah.1.11	10	54	61	θάλασσα	G2281	θάλασσα	N-NSF	0.9965	unique	inf	a	one reading	θάλασσα	1	G2281|θάλασσα|N-NSF|nt-form|6										
+32001011	Jonah.1.11	11	62	65	ἀφʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀφ’	1	G575|ἀπό|PREP|nt-form|42										
+32001011	Jonah.1.11	12	66	70	ἡμῶν	G3165	ἐγώ	P-1GP	0.9965	unique	inf	a	one reading	ἡμῶν	1	G3165|ἐγώ|P-1GP|nt-form|425										
+32001011	Jonah.1.11	13	72	75	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001011	Jonah.1.11	14	76	77	ἡ	G3588	ὁ	T-NSF	0.9899	model	142.5	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001011	Jonah.1.11	15	78	85	θάλασσα	G2281	θάλασσα	N-NSF	0.9965	unique	inf	a	one reading	θάλασσα	1	G2281|θάλασσα|N-NSF|nt-form|6										
+32001011	Jonah.1.11	16	86	95	ἐπορεύετο	G4198	πορεύω	V-INI-3S	0.9965	unique	inf	a	one reading	ἐπορεύετο	1	G4198|πορεύω|V-INI-3S|nt-form|6										
+32001011	Jonah.1.11	17	96	99	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001011	Jonah.1.11	18	100	108	ἐξήγειρε	G1825	ἐξεγείρω	V-AAI-3S	0.8713	model	19.71	b	several parses	ἐξήγειρε	2	G1825|ἐξεγείρω|V-AAI-3S|analyser|1 ; G1825|ἐξεγείρω|V-IAI-3S|analyser|0.6667	G1825|ἐξεγείρω|V-IAI-3S|analyser|0.6667									
+32001011	Jonah.1.11	19	109	115	μᾶλλον	G3123	μᾶλλον	ADV	0.9965	unique	inf	a	one reading	μᾶλλον	1	G3123|μᾶλλον|ADV|nt-form|83										
+32001011	Jonah.1.11	20	116	123	κλύδωνα	G2830	κλύδων	N-ASM	0.9744	unique	inf	a	one reading	κλύδωνα	1	G2830|κλύδων|N-ASM|analyser|1										
+32001012	Jonah.1.12	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001012	Jonah.1.12	1	4	9	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32001012	Jonah.1.12	2	10	15	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32001012	Jonah.1.12	3	16	20	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001012	Jonah.1.12	4	21	27	αὐτοὺς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+32001012	Jonah.1.12	5	29	34	ἄρατέ	G142	αἴρω	V-AAM-2P	0.9965	unique	inf	a	one reading	ἄρατε	1	G142|αἴρω|V-AAM-2P|nt-form|6										
+32001012	Jonah.1.12	6	35	37	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32001012	Jonah.1.12	7	39	42	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001012	Jonah.1.12	8	43	51	ἐμβάλετέ	G1685	ἐμβάλλω	V-2AAM-2P	0.9744	unique	inf	a	one reading	ἐμβάλετε	1	G1685|ἐμβάλλω|V-2AAM-2P|analyser|1										
+32001012	Jonah.1.12	9	52	54	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32001012	Jonah.1.12	10	55	58	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001012	Jonah.1.12	11	59	62	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001012	Jonah.1.12	12	63	71	θάλασσαν	G2281	θάλασσα	N-ASF	0.9965	unique	inf	a	one reading	θάλασσαν	1	G2281|θάλασσα|N-ASF|nt-form|42		G2281|θάλασσα|N-ASF-L|nt-form|1|lower case: not a name								
+32001012	Jonah.1.12	13	73	76	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001012	Jonah.1.12	14	77	84	κοπάσει	G2869	κοπάζω	V-FAI-3S	0.9298	model	92.16	b	several parses	κοπάσει	3	G2869|κοπάζω|V-FAI-3S|analyser|1 ; G2869|κοπάζω|V-FDI-2S|analyser|0.5 ; G2869|κοπάζω|V-FMI-2S|analyser|0.5	G2869|κοπάζω|V-FDI-2S|analyser|0.5									
+32001012	Jonah.1.12	15	85	86	ἡ	G3588	ὁ	T-NSF	0.9862	model	117.8	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001012	Jonah.1.12	16	87	94	θάλασσα	G2281	θάλασσα	N-NSF	0.9965	unique	inf	a	one reading	θάλασσα	1	G2281|θάλασσα|N-NSF|nt-form|6										
+32001012	Jonah.1.12	17	95	98	ἀφʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀφ’	1	G575|ἀπό|PREP|nt-form|42										
+32001012	Jonah.1.12	18	99	103	ὑμῶν	G4771	σύ	P-2GP	0.9965	unique	inf	a	one reading	ὑμῶν	1	G4771|σύ|P-2GP|nt-form|581										
+32001012	Jonah.1.12	19	105	110	διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+32001012	Jonah.1.12	20	111	117	ἔγνωκα	G1097	γινώσκω	V-RAI-1S	0.9965	unique	inf	a	one reading	ἔγνωκα	1	G1097|γινώσκω|V-RAI-1S|nt-form|2										
+32001012	Jonah.1.12	21	118	121	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32001012	Jonah.1.12	22	123	126	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001012	Jonah.1.12	23	127	130	διʼ	G1223	διά	PREP	0.9965	unique	inf	a	one reading	δι’	1	G1223|διά|PREP|nt-form|151										
+32001012	Jonah.1.12	24	131	134	ἐμὲ	G1473	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	ἐμέ	1	G1473|ἐγώ|P-1AS|nt-form|91										
+32001012	Jonah.1.12	25	135	136	ὁ	G3588	ὁ	T-NSM	0.9982	model	194.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32001012	Jonah.1.12	26	137	143	κλύδων	G2830	κλύδων	N-NSM	0.9854	model	255.5	b	several parses	κλύδων	2	G2830|κλύδων|N-NSM|analyser|1 ; G2830|κλύδων|N-VSM|analyser|1	G2830|κλύδων|N-VSM|analyser|1									
+32001012	Jonah.1.12	27	144	145	ὁ	G3588	ὁ	T-NSM	0.9982	model	218.9	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32001012	Jonah.1.12	28	146	151	μέγας	G3173	μέγας	A-NSM	0.9965	unique	inf	a	one reading	μέγασ	1	G3173|μέγας|A-NSM|nt-form|25										
+32001012	Jonah.1.12	29	152	157	οὗτος	G3778	οὗτος	D-NSM	0.9965	unique	inf	a	one reading	οὗτοσ	1	G3778|οὗτος|D-NSM|nt-form|192										
+32001012	Jonah.1.12	30	158	161	ἐφʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐφ’	1	G1909|ἐπί|PREP|nt-form|84										
+32001012	Jonah.1.12	31	162	166	ὑμᾶς	G4771	σύ	P-2AP	0.9965	unique	inf	a	one reading	ὑμᾶσ	1	G4771|σύ|P-2AP|nt-form|449										
+32001012	Jonah.1.12	32	167	171	ἐστι	G1510	εἰμί	V-PAI-3S	0.9965	unique	inf	a	one reading	ἐστι	1	G1510|εἰμί|V-PAI-3S|nt-form:movable-nu|595										
+32001013	Jonah.1.13	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001013	Jonah.1.13	1	4	16	παρεβιάζοντο	G3849	παραβιάζομαι	V-IPI-3P	0.5324	model	4.994	b	several parses	παρεβιάζοντο	2	G3849|παραβιάζομαι|V-IPI-3P|analyser|1 ; G3849|παραβιάζομαι|V-INI-3P|analyser|0.15	G3849|παραβιάζομαι|V-INI-3P|analyser|0.15									
+32001013	Jonah.1.13	2	17	19	οἱ	G3588	ὁ	T-NPM	0.9862	model	114.7	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32001013	Jonah.1.13	3	20	26	ἄνδρες	G435	ἀνήρ	N-NPM	0.9862	model	96.46	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+32001013	Jonah.1.13	4	27	30	τοῦ	G3588	ὁ	T-GSN	0.9420	model	28.76	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32001013	Jonah.1.13	5	31	41	ἐπιστρέψαι	G1994	ἐπιστρέφω	V-AAN	0.9965	unique	inf	a	one reading	ἐπιστρέψαι	1	G1994|ἐπιστρέφω|V-AAN|nt-form|2										
+32001013	Jonah.1.13	6	42	46	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001013	Jonah.1.13	7	47	50	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001013	Jonah.1.13	8	51	54	γῆν	G1093	γῆ	N-ASF	0.9965	unique	inf	a	one reading	γῆν	1	G1093|γῆ|N-ASF|nt-form|79										
+32001013	Jonah.1.13	9	56	59	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001013	Jonah.1.13	10	60	63	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+32001013	Jonah.1.13	11	64	72	ἠδύναντο	G1410	δύναμαι	V-INI-3P	0.9965	unique	inf	a	one reading	ἠδύναντο	1	G1410|δύναμαι|V-INI-3P|nt-form|3										
+32001013	Jonah.1.13	12	74	77	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32001013	Jonah.1.13	13	78	79	ἡ	G3588	ὁ	T-NSF	0.9940	model	150.8	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001013	Jonah.1.13	14	80	87	θάλασσα	G2281	θάλασσα	N-NSF	0.9965	unique	inf	a	one reading	θάλασσα	1	G2281|θάλασσα|N-NSF|nt-form|6										
+32001013	Jonah.1.13	15	88	97	ἐπορεύετο	G4198	πορεύω	V-INI-3S	0.9965	unique	inf	a	one reading	ἐπορεύετο	1	G4198|πορεύω|V-INI-3S|nt-form|6										
+32001013	Jonah.1.13	16	99	102	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001013	Jonah.1.13	17	103	113	ἐξηγείρετο	G1825	ἐξεγείρω	V-IPI-3S	0.5978	model	11.15	b	several parses	ἐξηγείρετο	3	G1825|ἐξεγείρω|V-IPI-3S|analyser|1 ; G1825|ἐξεγείρω|V-IEI-3S|analyser|0.1034 ; G1825|ἐξεγείρω|V-IMI-3S|analyser|0.0828	G1825|ἐξεγείρω|V-IEI-3S|analyser|0.1034									
+32001013	Jonah.1.13	18	114	120	μᾶλλον	G3123	μᾶλλον	ADV	0.9965	unique	inf	a	one reading	μᾶλλον	1	G3123|μᾶλλον|ADV|nt-form|83										
+32001013	Jonah.1.13	19	121	124	ἐπʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπ’	1	G1909|ἐπί|PREP|nt-form|150										
+32001013	Jonah.1.13	20	125	131	αὐτούς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+32001014	Jonah.1.14	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001014	Jonah.1.14	1	4	13	ἀνεβόησαν	G310	ἀναβοάω	V-AAI-3P	0.9744	unique	inf	a	one reading	ἀνεβόησαν	1	G310|ἀναβοάω|V-AAI-3P|analyser|1										
+32001014	Jonah.1.14	2	14	18	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32001014	Jonah.1.14	3	19	25	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32001014	Jonah.1.14	4	27	30	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001014	Jonah.1.14	5	31	36	εἶπαν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3P	0.9965	unique	inf	a	one reading	εἶπαν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3P|nt-form|95										
+32001014	Jonah.1.14	6	38	45	μηδαμῶς	G3365	μηδαμῶς	PRT-N	0.9965	unique	inf	a	one reading	μηδαμῶσ	1	G3365|μηδαμῶς|PRT-N|nt-form|2										
+32001014	Jonah.1.14	7	46	51	Κύριε	G2962	κύριος	N-VSM-T	0.9965	unique	inf	a	one reading	κύριε	1	G2962|κύριος|N-VSM-T|nt-form|100		G2962|κύριος|N-VSM|nt-form|27|capitalised mid-sentence: a name or title								
+32001014	Jonah.1.14	8	53	55	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+32001014	Jonah.1.14	9	56	65	ἀπολώμεθα	G622	ἀπολλύω	V-2AMS-1P	0.8713	model	20.02	b	several parses	ἀπολώμεθα	2	G622|ἀπολλύω|V-2AMS-1P|analyser|1 ; G622|ἀπολλύω|V-2ADS-1P|analyser|0.06	G622|ἀπολλύω|V-2ADS-1P|analyser|0.06									
+32001014	Jonah.1.14	10	66	72	ἕνεκεν	G1752	ἕνεκα, εἵνεκεν	PREP	0.9965	unique	inf	a	one reading	ἕνεκεν	1	G1752|ἕνεκα, εἵνεκεν|PREP|nt-form|20										
+32001014	Jonah.1.14	11	73	76	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32001014	Jonah.1.14	12	77	82	ψυχῆς	G5590	ψυχή	N-GSF	0.9965	unique	inf	a	one reading	ψυχῆσ	1	G5590|ψυχή|N-GSF|nt-form|13										
+32001014	Jonah.1.14	13	83	86	τοῦ	G3588	ὁ	T-GSM	0.9945	model	75.64	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G846|αὐτός|P-GSM|nt-form+paradigm|0									
+32001014	Jonah.1.14	14	87	95	ἀνθρώπου	G444	ἄνθρωπος	N-GSM	0.9965	unique	inf	a	one reading	ἀνθρώπου	1	G444|ἄνθρωπος|N-GSM|nt-form|51		G444|ἄνθρωπος|N-GSM-T|nt-form|81|lower case: not a title								
+32001014	Jonah.1.14	15	96	102	τούτου	G3778	οὗτος	D-GSM	0.8944	model	27.22	b	several parses	τούτου	2	G3778|οὗτος|D-GSM|nt-form|47 ; G3778|οὗτος|D-GSN|nt-form|28	G3778|οὗτος|D-GSN|nt-form|28									
+32001014	Jonah.1.14	16	104	107	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001014	Jonah.1.14	17	108	110	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+32001014	Jonah.1.14	18	111	114	δῷς	G1325	δίδωμι	V-2AAS-2S	0.9965	unique	inf	a	one reading	δῷσ	1	G1325|δίδωμι|V-2AAS-2S|nt-form|1										
+32001014	Jonah.1.14	19	115	118	ἐφʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐφ’	1	G1909|ἐπί|PREP|nt-form|84										
+32001014	Jonah.1.14	20	119	123	ἡμᾶς	G3165	ἐγώ	P-1AP	0.9965	unique	inf	a	one reading	ἡμᾶσ	1	G3165|ἐγώ|P-1AP|nt-form|170										
+32001014	Jonah.1.14	21	124	128	αἷμα	G129	αἷμα	N-ASN	0.9234	model	118.9	b	several parses	αἷμα	3	G129|αἷμα|N-NSN|nt-form|24 ; G129|αἷμα|N-ASN|nt-form|20 ; G129|αἷμα|N-VSN|nt-form+paradigm|0	G129|αἷμα|N-NSN|nt-form|24									
+32001014	Jonah.1.14	22	129	136	δίκαιον	G1342	δίκαιος	A-ASN	0.8675	model	33.94	b	several parses	δίκαιον	4	G1342|δίκαιος|A-ASM|nt-form|9 ; G1342|δίκαιος|A-NSN|nt-form|7 ; G1342|δίκαιος|A-ASN|nt-form|3 ; G1342|δίκαιος|A-VSN|nt-form+paradigm|0	G1342|δίκαιος|A-ASM|nt-form|9									
+32001014	Jonah.1.14	23	138	143	διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+32001014	Jonah.1.14	24	144	146	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32001014	Jonah.1.14	25	147	152	Κύριε	G2962	κύριος	N-VSM-T	0.9965	unique	inf	a	one reading	κύριε	1	G2962|κύριος|N-VSM-T|nt-form|100		G2962|κύριος|N-VSM|nt-form|27|capitalised mid-sentence: a name or title								
+32001014	Jonah.1.14	26	154	156	ὃν	G3739	ὅς, ἥ	R-ASM	0.9965	unique	inf	a	one reading	ὅν	1	G3739|ὅς, ἥ|R-ASM|nt-form|167										
+32001014	Jonah.1.14	27	157	163	τρόπον	G5158	τρόπος	N-ASM	0.9965	unique	inf	a	one reading	τρόπον	1	G5158|τρόπος|N-ASM|nt-form|10										
+32001014	Jonah.1.14	28	164	171	ἐβούλου	G1014	βούλομαι	V-INI-2S	0.8713	model	20.02	b	several parses	ἐβούλου	2	G1014|βούλομαι|V-INI-2S|analyser|1 ; G1014|βούλομαι|V-IMI-2S|analyser|0.0645	G1014|βούλομαι|V-IMI-2S|analyser|0.0645									
+32001014	Jonah.1.14	29	173	182	πεποίηκας	G4160	ποιέω	V-RAI-2S	0.9744	unique	inf	a	one reading	πεποίηκασ	1	G4160|ποιέω|V-RAI-2S|analyser|1										
+32001015	Jonah.1.15	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001015	Jonah.1.15	1	4	10	ἔλαβον	G2983	λαμβάνω	V-2AAI-3P	0.7052	model	14.55	b	several parses	ἔλαβον	2	G2983|λαμβάνω|V-2AAI-3P|nt-form|21 ; G2983|λαμβάνω|V-2AAI-1S|nt-form|6	G2983|λαμβάνω|V-2AAI-1S|nt-form|6									
+32001015	Jonah.1.15	2	11	14	τὸν	G3588	ὁ	T-ASM	0.9940	model	142.8	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001015	Jonah.1.15	3	15	20	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32001015#3 H3124 יוֹנָ֔ה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32001015	Jonah.1.15	4	22	25	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001015	Jonah.1.15	5	26	34	ἐξέβαλον	G1544	ἐκβάλλω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἐξέβαλον	1	G1544|ἐκβάλλω|V-2AAI-3P|nt-form|7										
+32001015	Jonah.1.15	6	35	40	αὐτὸν	G846	αὐτός	P-ASM	0.9965	unique	inf	a	one reading	αὐτόν	1	G846|αὐτός|P-ASM|nt-form|1006										
+32001015	Jonah.1.15	7	41	44	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32001015	Jonah.1.15	8	45	48	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32001015	Jonah.1.15	9	49	57	θάλασσαν	G2281	θάλασσα	N-ASF	0.9965	unique	inf	a	one reading	θάλασσαν	1	G2281|θάλασσα|N-ASF|nt-form|42		G2281|θάλασσα|N-ASF-L|nt-form|1|lower case: not a name								
+32001015	Jonah.1.15	10	59	62	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001015	Jonah.1.15	11	63	67	ἔστη	G2476	ἵστημι	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἔστη	1	G2476|ἵστημι|V-2AAI-3S|nt-form|9										
+32001015	Jonah.1.15	12	68	69	ἡ	G3588	ὁ	T-NSF	0.9940	model	154.5	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32001015	Jonah.1.15	13	70	77	θάλασσα	G2281	θάλασσα	N-NSF	0.9965	unique	inf	a	one reading	θάλασσα	1	G2281|θάλασσα|N-NSF|nt-form|6										
+32001015	Jonah.1.15	14	78	80	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32001015	Jonah.1.15	15	81	84	τοῦ	G3588	ὁ	T-GSM	0.9945	model	73.55	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32001015	Jonah.1.15	16	85	90	σάλου	G4535	σάλος	N-GSM	0.9965	unique	inf	a	one reading	σάλου	1	G4535|σάλος|N-GSM|nt-form|1										
+32001015	Jonah.1.15	17	91	96	αὐτῆς	G846	αὐτός	P-GSF	0.9965	unique	inf	a	one reading	αὐτῆσ	1	G846|αὐτός|P-GSF|nt-form|176										
+32001016	Jonah.1.16	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001016	Jonah.1.16	1	4	14	ἐφοβήθησαν	G5399	φοβέω	V-AOI-3P	0.9965	unique	inf	a	one reading	ἐφοβήθησαν	1	G5399|φοβέω|V-AOI-3P|nt-form|14										
+32001016	Jonah.1.16	2	15	17	οἱ	G3588	ὁ	T-NPM	0.9862	model	101	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32001016	Jonah.1.16	3	18	24	ἄνδρες	G435	ἀνήρ	N-NPM	0.9862	model	101	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+32001016	Jonah.1.16	4	25	29	φόβῳ	G5401	φόβος	N-DSM	0.9965	unique	inf	a	one reading	φόβῳ	1	G5401|φόβος|N-DSM|nt-form|10										
+32001016	Jonah.1.16	5	30	36	μεγάλῳ	G3173	μέγας	A-DSM	0.9780	model	62.94	b	several parses	μεγάλῳ	2	G3173|μέγας|A-DSM|nt-form|4 ; G3173|μέγας|A-DSN|nt-form|1	G3173|μέγας|A-DSN|nt-form|1									
+32001016	Jonah.1.16	6	37	40	τὸν	G3588	ὁ	T-ASM	0.9940	model	160.1	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32001016	Jonah.1.16	7	41	47	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32001016	Jonah.1.16	8	49	52	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001016	Jonah.1.16	9	53	59	ἔθυσαν	G2380	θύω	V-AAI-3P	0.9744	unique	inf	a	one reading	ἔθυσαν	1	G2380|θύω|V-AAI-3P|analyser|1										
+32001016	Jonah.1.16	10	60	66	θυσίαν	G2378	θυσία	N-ASF	0.9965	unique	inf	a	one reading	θυσίαν	1	G2378|θυσία|N-ASF|nt-form|11										
+32001016	Jonah.1.16	11	67	69	τῷ	G3588	ὁ	T-DSM	0.9835	model	74.96	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+32001016	Jonah.1.16	12	70	75	Κυρίῳ	G2962	κύριος	N-DSM-T	0.9965	unique	inf	a	one reading	κυρίῳ	1	G2962|κύριος|N-DSM-T|nt-form|97		G2962|κύριος|N-DSM|nt-form|5|capitalised mid-sentence: a name or title								
+32001016	Jonah.1.16	13	77	80	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32001016	Jonah.1.16	14	81	88	ηὔξαντο	G2172	εὔχομαι	V-ADI-3P	0.9744	unique	inf	a	one reading	ηὔξαντο	1	G2172|εὔχομαι|V-ADI-3P|analyser|1										
+32001016	Jonah.1.16	15	89	92	τὰς	G3588	ὁ	T-APF	0.9965	unique	inf	a	one reading	τάσ	1	G3588|ὁ|T-APF|nt-form|347										
+32001016	Jonah.1.16	16	93	98	εὐχάς	G2171	εὐχή	N-APF	0.9744	unique	inf	a	one reading	εὐχάσ	1	G2171|εὐχή|N-APF|analyser|1										
+32002001	Jonah.2.1	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002001	Jonah.2.1	1	4	13	προσέταξε	G4367	προστάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	προσέταξε	1	G4367|προστάσσω|V-AAI-3S|nt-form:movable-nu|5										
+32002001	Jonah.2.1	2	14	20	Κύριος	G2962	κύριος	N-NSM-T	0.9940	model	146.6	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32002001	Jonah.2.1	3	21	26	κήτει	G2785	κῆτος	N-DSN	0.9744	unique	inf	a	one reading	κήτει	1	G2785|κῆτος|N-DSN|analyser|1										
+32002001	Jonah.2.1	4	27	33	μεγάλῳ	G3173	μέγας	A-DSN	0.9513	model	35.76	b	several parses	μεγάλῳ	2	G3173|μέγας|A-DSM|nt-form|4 ; G3173|μέγας|A-DSN|nt-form|1	G3173|μέγας|A-DSM|nt-form|4									
+32002001	Jonah.2.1	5	34	43	καταπιεῖν	G2666	καταπίνω	V-2AAN	0.9965	unique	inf	a	one reading	καταπιεῖν	1	G2666|καταπίνω|V-2AAN|nt-form|1										
+32002001	Jonah.2.1	6	44	47	τὸν	G3588	ὁ	T-ASM	0.9862	model	99.09	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002001	Jonah.2.1	7	48	53	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32001017#9 H3124 יוֹנָה֙ Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32002001	Jonah.2.1	8	55	58	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002001	Jonah.2.1	9	59	61	ἦν	G1510	εἰμί	V-IAI-3S	0.9965	unique	inf	a	one reading	ἦν	1	G1510|εἰμί|V-IAI-3S|nt-form|329										
+32002001	Jonah.2.1	10	62	67	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32002001	Jonah.2.1	11	68	70	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32002001	Jonah.2.1	12	71	73	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32002001	Jonah.2.1	13	74	80	κοιλίᾳ	G2836	κοιλία	N-DSF	0.9965	unique	inf	a	one reading	κοιλίᾳ	1	G2836|κοιλία|N-DSF|nt-form|6										
+32002001	Jonah.2.1	14	81	84	τοῦ	G3588	ὁ	T-GSN	0.9945	model	75.14	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32002001	Jonah.2.1	15	85	91	κήτους	G2785	κῆτος	N-GSN	0.9965	unique	inf	a	one reading	κήτουσ	1	G2785|κῆτος|N-GSN|nt-form|1										
+32002001	Jonah.2.1	16	92	97	τρεῖς	G5140	τρεῖς, τρία	A-APF	0.8675	model	32.06	b	several parses	τρεῖσ	7	G5140|τρεῖς, τρία|A-APF|nt-form|19 ; G5140|τρεῖς, τρία|A-NPM|nt-form|12 ; G5140|τρεῖς, τρία|A-APM|nt-form|9 ; G5140|τρεῖς, τρία|A-NPF|nt-form|4 ; G5140|τρεῖς, τρία|A-NUI|nt-form|1 ; G5140|τρεῖς, τρία|A-VPF|nt-form+paradigm|0 ; G5140|τρεῖς, τρία|A-VPM|nt-form+paradigm|0	G5140|τρεῖς, τρία|A-NPM|nt-form|12									
+32002001	Jonah.2.1	17	98	104	ἡμέρας	G2250	ἡμέρα	N-APF	0.9513	model	36.48	b	several parses	ἡμέρασ	2	G2250|ἡμέρα|N-APF|nt-form|68 ; G2250|ἡμέρα|N-GSF|nt-form|60	G2250|ἡμέρα|N-GSF|nt-form|60									
+32002001	Jonah.2.1	18	105	108	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002001	Jonah.2.1	19	109	114	τρεῖς	G5140	τρεῖς, τρία	A-APF	0.8675	model	34.02	b	several parses	τρεῖσ	7	G5140|τρεῖς, τρία|A-APF|nt-form|19 ; G5140|τρεῖς, τρία|A-NPM|nt-form|12 ; G5140|τρεῖς, τρία|A-APM|nt-form|9 ; G5140|τρεῖς, τρία|A-NPF|nt-form|4 ; G5140|τρεῖς, τρία|A-NUI|nt-form|1 ; G5140|τρεῖς, τρία|A-VPF|nt-form+paradigm|0 ; G5140|τρεῖς, τρία|A-VPM|nt-form+paradigm|0	G5140|τρεῖς, τρία|A-NUI|nt-form|1									
+32002001	Jonah.2.1	20	115	121	νύκτας	G3571	νύξ	N-APF	0.9965	unique	inf	a	one reading	νύκτασ	1	G3571|νύξ|N-APF|nt-form|4										
+32002002	Jonah.2.2	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002002	Jonah.2.2	1	4	14	προσηύξατο	G4336	προσεύχομαι	V-ADI-3S	0.9965	unique	inf	a	one reading	προσηύξατο	1	G4336|προσεύχομαι|V-ADI-3S|nt-form|7										
+32002002	Jonah.2.2	2	15	20	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32002002	Jonah.2.2	3	21	25	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32002002	Jonah.2.2	4	26	32	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32002002	Jonah.2.2	5	33	36	τὸν	G3588	ὁ	T-ASM	0.9982	model	186.3	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002002	Jonah.2.2	6	37	41	Θεὸν	G2316	θεός	N-ASM-T	0.9965	unique	inf	a	one reading	θεόν	1	G2316|θεός|N-ASM-T|nt-form|146		G2316|θεός|N-ASM|nt-form|3|capitalised mid-sentence: a name or title ; G2316|θεός|N-ASF|nt-form|1|capitalised mid-sentence: a name or title								
+32002002	Jonah.2.2	7	42	47	αὐτοῦ	G846	αὐτός	P-GSM	0.9505	model	35.99	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32002002	Jonah.2.2	8	48	50	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32002002	Jonah.2.2	9	51	54	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32002002	Jonah.2.2	10	55	62	κοιλίας	G2836	κοιλία	N-GSF	0.9862	model	106.3	b	several parses	κοιλίασ	2	G2836|κοιλία|N-GSF|nt-form|7 ; G2836|κοιλία|N-APF|nt-form+paradigm|0	G2836|κοιλία|N-APF|nt-form+paradigm|0									
+32002002	Jonah.2.2	11	63	66	τοῦ	G3588	ὁ	T-GSN	0.9890	model	66.98	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|1									
+32002002	Jonah.2.2	12	67	73	κήτους	G2785	κῆτος	N-GSN	0.9965	unique	inf	a	one reading	κήτουσ	1	G2785|κῆτος|N-GSN|nt-form|1										
+32002003	Jonah.2.3	0	0	3	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002003	Jonah.2.3	1	4	9	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32002003	Jonah.2.3	2	11	17	Ἐβόησα	G994	βοάω	V-AAI-1S	0.8171	model	19.6	c	several words	ἐβόησα	2	G994|βοάω|V-AAI-1S|analyser|1 ; G1006|βόσκω|V-AAI-1S|analyser|0.0882	G1006|βόσκω|V-AAI-1S|analyser|0.0882									
+32002003	Jonah.2.3	3	18	20	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32002003	Jonah.2.3	4	21	27	θλίψει	G2347	θλῖψις	N-DSF	0.9965	unique	inf	a	one reading	θλίψει	1	G2347|θλῖψις|N-DSF|nt-form|9										
+32002003	Jonah.2.3	5	28	31	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002003	Jonah.2.3	6	32	36	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32002003	Jonah.2.3	7	37	43	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32002003	Jonah.2.3	8	44	47	τὸν	G3588	ὁ	T-ASM	0.9940	model	154.6	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002003	Jonah.2.3	9	48	52	Θεόν	G2316	θεός	N-ASM-T	0.9965	unique	inf	a	one reading	θεόν	1	G2316|θεός|N-ASM-T|nt-form|146		G2316|θεός|N-ASM|nt-form|3|capitalised mid-sentence: a name or title ; G2316|θεός|N-ASF|nt-form|1|capitalised mid-sentence: a name or title								
+32002003	Jonah.2.3	10	53	56	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002003	Jonah.2.3	11	58	61	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002003	Jonah.2.3	12	62	71	εἰσήκουσέ	G1522	εἰσακούω	V-AAI-3S	0.9744	unique	inf	a	one reading	εἰσήκουσε	1	G1522|εἰσακούω|V-AAI-3S|analyser|1										
+32002003	Jonah.2.3	13	72	75	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002003	Jonah.2.3	14	77	79	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32002003	Jonah.2.3	15	80	87	κοιλίας	G2836	κοιλία	N-GSF	0.9835	model	79.27	b	several parses	κοιλίασ	2	G2836|κοιλία|N-GSF|nt-form|7 ; G2836|κοιλία|N-APF|nt-form+paradigm|0	G2836|κοιλία|N-APF|nt-form+paradigm|0									
+32002003	Jonah.2.3	16	88	92	ᾅδου	G86	ᾍδης	N-GSM	0.9744	unique	inf	a	one reading	ᾅδου	1	G86|ᾍδης|N-GSM|analyser|1		G86|ᾍδης|N-GSM-L|nt-form|4|lower case: not a name								
+32002003	Jonah.2.3	17	93	100	κραυγῆς	G2906	κραυγή	N-GSF	0.9965	unique	inf	a	one reading	κραυγῆσ	1	G2906|κραυγή|N-GSF|nt-form|1										
+32002003	Jonah.2.3	18	101	104	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002003	Jonah.2.3	19	106	113	ἤκουσας	G191	ἀκούω	V-AAI-2S	0.9965	unique	inf	a	one reading	ἤκουσασ	1	G191|ἀκούω|V-AAI-2S|nt-form|5										
+32002003	Jonah.2.3	20	114	119	φωνῆς	G5456	φωνή	N-GSF	0.9965	unique	inf	a	one reading	φωνῆσ	1	G5456|φωνή|N-GSF|nt-form|24										
+32002003	Jonah.2.3	21	120	123	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002003	Jonah.2.3	22	125	134	ἀπέῤῥιψάς	G641	ἀπορρίπτω	V-AAI-2S	0.9744	unique	inf	a	one reading	ἀπέρριψασ	1	G641|ἀπορρίπτω|V-AAI-2S|analyser|1										
+32002003	Jonah.2.3	23	135	137	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32002003	Jonah.2.3	24	138	141	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32002003	Jonah.2.3	25	142	146	βάθη	G899	βάθος	N-APN	0.9941	model	1159	b	several parses	βάθη	3	G899|βάθος|N-APN|nt-form|1 ; G899|βάθος|N-NPN|nt-form+paradigm|0 ; G899|βάθος|N-VPN|nt-form+paradigm|0	G899|βάθος|N-VPN|nt-form+paradigm|0									
+32002003	Jonah.2.3	26	147	154	καρδίας	G2588	καρδία	N-GSF	0.8944	model	21.57	b	several parses	καρδίασ	2	G2588|καρδία|N-GSF|nt-form|35 ; G2588|καρδία|N-APF|nt-form|25	G2588|καρδία|N-APF|nt-form|25									
+32002003	Jonah.2.3	27	155	163	θαλάσσης	G2281	θάλασσα	N-GSF	0.9965	unique	inf	a	one reading	θαλάσσησ	1	G2281|θάλασσα|N-GSF|nt-form|29										
+32002004	Jonah.2.4	0	0	3	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002004	Jonah.2.4	1	4	11	ποταμοί	G4215	ποταμός	N-NPM	0.9940	model	146.4	b	several parses	ποταμοί	2	G4215|ποταμός|N-NPM|nt-form|3 ; G4215|ποταμός|N-VPM|nt-form+paradigm|0	G4215|ποταμός|N-VPM|nt-form+paradigm|0									
+32002004	Jonah.2.4	2	12	21	ἐκύκλωσάν	G2944	κυκλόω	V-AAI-3P	0.9965	unique	inf	a	one reading	ἐκύκλωσαν	1	G2944|κυκλόω|V-AAI-3P|nt-form|1										
+32002004	Jonah.2.4	3	22	24	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32002004	Jonah.2.4	4	26	32	πάντες	G3956	πᾶς	A-NPM	0.9835	model	75.73	b	several parses	πάντεσ	2	G3956|πᾶς|A-NPM|nt-form|173 ; G3956|πᾶς|A-VPM|nt-form|7	G3956|πᾶς|A-VPM|nt-form|7									
+32002004	Jonah.2.4	5	33	35	οἱ	G3588	ὁ	T-NPM	0.9982	model	252.1	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32002004	Jonah.2.4	6	36	47	μετεωρισμοί	G8307	μετεωρισμός	N-NPM	0.9854	model	250.5	b	several parses	μετεωρισμοί	2	G8307|μετεωρισμός|N-NPM|analyser|1 ; G8307|μετεωρισμός|N-VPM|analyser|1	G8307|μετεωρισμός|N-VPM|analyser|1									
+32002004	Jonah.2.4	7	48	51	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32002004	Jonah.2.4	8	52	55	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002004	Jonah.2.4	9	56	58	τὰ	G3588	ὁ	T-NPN	0.9234	model	121.6	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+32002004	Jonah.2.4	10	59	65	κύματά	G2949	κῦμα	N-NPN	0.9234	model	121.6	b	several parses	κύματα	3	G2949|κῦμα|N-NPN|nt-form|2 ; G2949|κῦμα|N-APN|nt-form+paradigm|0 ; G2949|κῦμα|N-VPN|nt-form+paradigm|0	G2949|κῦμα|N-APN|nt-form+paradigm|0									
+32002004	Jonah.2.4	11	66	69	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32002004	Jonah.2.4	12	70	73	ἐπʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπ’	1	G1909|ἐπί|PREP|nt-form|150										
+32002004	Jonah.2.4	13	74	77	ἐμὲ	G1473	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	ἐμέ	1	G1473|ἐγώ|P-1AS|nt-form|91										
+32002004	Jonah.2.4	14	78	85	διῆλθον	G1330	διέρχομαι	V-2AAI-3P	0.9637	model	56.48	b	several parses	διῆλθον	2	G1330|διέρχομαι|V-2AAI-3P|nt-form|4 ; G1330|διέρχομαι|V-2AAI-1S|nt-form|1	G1330|διέρχομαι|V-2AAI-1S|nt-form|1									
+32002005	Jonah.2.5	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002005	Jonah.2.5	1	4	7	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32002005	Jonah.2.5	2	8	12	εἶπα	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-1S	0.9965	unique	inf	a	one reading	εἶπα	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-1S|nt-form|3										
+32002005	Jonah.2.5	3	14	21	ἀπῶσμαι	G20133	ἀπωσμός	A-NPF	0.4695	model	1.489	b	several parses	ἀπῶσμαι	4	G20133|ἀπωσμός|A-NPF|analyser|0.3 ; G20133|ἀπωσμός|A-VPF|analyser|0.3 ; G20133|ἀπωσμός|N-NPF|analyser|0.09 ; G20133|ἀπωσμός|N-VPF|analyser|0.09	G20133|ἀπωσμός|A-VPF|analyser|0.3									
+32002005	Jonah.2.5	4	22	24	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+32002005	Jonah.2.5	5	25	33	ὀφθαλμῶν	G3788	ὀφθαλμός	N-GPM	0.9965	unique	inf	a	one reading	ὀφθαλμῶν	1	G3788|ὀφθαλμός|N-GPM|nt-form|11										
+32002005	Jonah.2.5	6	34	37	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32002005	Jonah.2.5	7	39	42	ἆρα	G687	ἆρα	PRT-N	0.9965	unique	inf	a	one reading	ἆρα	1	G687|ἆρα|PRT-N|nt-form|3										
+32002005	Jonah.2.5	8	43	51	προσθήσω	G4369	προστίθημι	V-FAI-1S	0.9208	model	23.72	b	several parses	προσθήσω	2	G4369|προστίθημι|V-FAI-1S|analyser|1 ; G4369|προστίθημι|V-AAS-1S|analyser|0.9444	G4369|προστίθημι|V-AAS-1S|analyser|0.9444									
+32002005	Jonah.2.5	9	52	55	τοῦ	G3588	ὁ	T-GSN	0.9420	model	28.55	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32002005	Jonah.2.5	10	56	65	ἐπιβλέψαι	G1914	ἐπιβλέπω	V-AAN	0.9965	unique	inf	a	one reading	ἐπιβλέψαι	1	G1914|ἐπιβλέπω|V-AAN|nt-form|1										
+32002005	Jonah.2.5	11	66	68	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32002005	Jonah.2.5	12	69	73	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32002005	Jonah.2.5	13	74	78	ναὸν	G3485	ναός	N-ASM	0.9965	unique	inf	a	one reading	ναόν	1	G3485|ναός|N-ASM|nt-form|13										
+32002005	Jonah.2.5	14	79	82	τὸν	G3588	ὁ	T-ASM	0.9940	model	160.3	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002005	Jonah.2.5	15	83	88	ἅγιόν	G40	ἅγιος	A-ASM	0.9669	model	44.38	c	several words	ἅγιον	7	G40|ἅγιος|A-NSN|nt-form|25 ; G40|ἅγιος|A-ASN|nt-form|16 ; G40|ἅγιος|A-ASM|nt-form|7 ; G39|ἅγιος|A-ASN|nt-form|1 ; G39|ἅγιος|A-NSN|nt-form+paradigm|0 ; G39|ἅγιος|A-VSN|nt-form+paradigm|0 ; G40|ἅγιος|A-VSN|nt-form+paradigm|0	G40|ἅγιος|A-ASN|nt-form|16									
+32002005	Jonah.2.5	16	89	92	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32002006	Jonah.2.6	0	0	9	Περιεχύθη	G8775	περιχέω	V-API-3S	0.9744	unique	inf	a	one reading	περιεχύθη	1	G8775|περιχέω|V-API-3S|analyser|1										
+32002006	Jonah.2.6	1	10	13	μοι	G3165	ἐγώ	P-1DS	0.9965	unique	inf	a	one reading	μοι	1	G3165|ἐγώ|P-1DS|nt-form|235										
+32002006	Jonah.2.6	2	14	18	ὕδωρ	G5204	ὕδωρ, ὕδατος	N-NSN	0.7607	model	12.63	b	several parses	ὕδωρ	3	G5204|ὕδωρ, ὕδατος|N-ASN|nt-form|18 ; G5204|ὕδωρ, ὕδατος|N-NSN|nt-form|7 ; G5204|ὕδωρ, ὕδατος|N-VSN|nt-form+paradigm|0	G5204|ὕδωρ, ὕδατος|N-ASN|nt-form|18									
+32002006	Jonah.2.6	3	19	22	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+32002006	Jonah.2.6	4	23	28	ψυχῆς	G5590	ψυχή	N-GSF	0.9965	unique	inf	a	one reading	ψυχῆσ	1	G5590|ψυχή|N-GSF|nt-form|13										
+32002006	Jonah.2.6	5	30	37	ἄβυσσος	G12	ἄβυσσος	N-NSF	0.9735	model	100.7	b	several parses	ἄβυσσοσ	2	G12|ἄβυσσος|N-NSF|analyser|1 ; G12|ἄβυσσος|N-VSF|analyser|0.2	G12|ἄβυσσος|N-VSF|analyser|0.2									
+32002006	Jonah.2.6	6	38	46	ἐκύκλωσέ	G2944	κυκλόω	V-AAI-3S	0.9744	unique	inf	a	one reading	ἐκύκλωσε	1	G2944|κυκλόω|V-AAI-3S|analyser|1										
+32002006	Jonah.2.6	7	47	49	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32002006	Jonah.2.6	8	50	56	ἐσχάτη	G2078	ἔσχατος	A-NSF	0.9965	unique	inf	a	one reading	ἐσχάτη	1	G2078|ἔσχατος|A-NSF|nt-form|3										
+32002006	Jonah.2.6	9	58	61	ἔδυ	G1416	δύνω, δῦμι	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἔδυ	1	G1416|δύνω, δῦμι|V-2AAI-3S|nt-form|1										
+32002006	Jonah.2.6	10	62	63	ἡ	G3588	ὁ	T-NSF	0.9940	model	143.2	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32002006	Jonah.2.6	11	64	70	κεφαλή	G2776	κεφαλή	N-NSF	0.9965	unique	inf	a	one reading	κεφαλή	1	G2776|κεφαλή|N-NSF|nt-form|11										
+32002006	Jonah.2.6	12	71	74	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002006	Jonah.2.6	13	75	78	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32002006	Jonah.2.6	14	79	86	σχισμὰς	G9383	σχισμή	N-APF	0.9744	unique	inf	a	one reading	σχισμάσ	1	G9383|σχισμή|N-APF|analyser|1										
+32002006	Jonah.2.6	15	87	92	ὀρέων	G3735	ὄρος	N-GPN	0.9965	unique	inf	a	one reading	ὀρέων	1	G3735|ὄρος|N-GPN|nt-form|1										
+32002007	Jonah.2.7	0	0	7	κατέβην	G2597	καταβαίνω	V-2AAI-1S	0.9965	unique	inf	a	one reading	κατέβην	1	G2597|καταβαίνω|V-2AAI-1S|nt-form|1										
+32002007	Jonah.2.7	1	8	11	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32002007	Jonah.2.7	2	12	15	γῆν	G1093	γῆ	N-ASF	0.9965	unique	inf	a	one reading	γῆν	1	G1093|γῆ|N-ASF|nt-form|79										
+32002007	Jonah.2.7	3	17	19	ἧς	G3739	ὅς, ἥ	R-GSF	0.9965	unique	inf	a	one reading	ἧσ	1	G3739|ὅς, ἥ|R-GSF|nt-form|49										
+32002007	Jonah.2.7	4	20	22	οἱ	G3588	ὁ	T-NPM	0.9982	model	198.7	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32002007	Jonah.2.7	5	23	29	μοχλοὶ	G8352	μοχλός	N-NPM	0.9735	model	111.3	b	several parses	μοχλοί	2	G8352|μοχλός|N-NPM|analyser|1 ; G8352|μοχλός|N-VPM|analyser|1	G8352|μοχλός|N-VPM|analyser|1									
+32002007	Jonah.2.7	6	30	35	αὐτῆς	G846	αὐτός	P-GSF	0.9965	unique	inf	a	one reading	αὐτῆσ	1	G846|αὐτός|P-GSF|nt-form|176										
+32002007	Jonah.2.7	7	36	43	κάτοχοι	G7982	κάτοχος	A-NPM	0.8563	model	43.24	b	several parses	κάτοχοι	4	G7982|κάτοχος|A-NPM|analyser|1 ; G7982|κάτοχος|A-VPM|analyser|1 ; G7982|κάτοχος|A-NPF|analyser|0.6 ; G7982|κάτοχος|A-VPF|analyser|0.6	G7982|κάτοχος|A-NPF|analyser|0.6									
+32002007	Jonah.2.7	8	44	51	αἰώνιοι	G166	αἰώνιος	A-NPM	0.8563	model	37.14	b	several parses	αἰώνιοι	4	G166|αἰώνιος|A-NPF|analyser|1 ; G166|αἰώνιος|A-VPF|analyser|1 ; G166|αἰώνιος|A-NPM|analyser|0.8333 ; G166|αἰώνιος|A-VPM|analyser|0.8333	G166|αἰώνιος|A-NPF|analyser|1									
+32002007	Jonah.2.7	9	53	56	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002007	Jonah.2.7	10	57	64	ἀναβήτω	G305	ἀναβαίνω	V-2AAM-3S	0.8171	model	26.18	c	several words	ἀναβήτω	3	G305|ἀναβαίνω|V-2AAS-1S|analyser|1 ; G305|ἀναβαίνω|V-2AAM-3S|analyser|0.95 ; G381|ἀνάπτω|V-2APM-3S|analyser|0.093	G381|ἀνάπτω|V-2APM-3S|analyser|0.093									
+32002007	Jonah.2.7	11	65	70	φθορὰ	G5356	φθορά	N-NSF	0.9965	unique	inf	a	one reading	φθορά	1	G5356|φθορά|N-NSF|nt-form|1										
+32002007	Jonah.2.7	12	71	75	ζωῆς	G2222	ζωή	N-GSF	0.9965	unique	inf	a	one reading	ζωῆσ	1	G2222|ζωή|N-GSF|nt-form|48										
+32002007	Jonah.2.7	13	76	79	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002007	Jonah.2.7	14	80	85	Κύριε	G2962	κύριος	N-VSM-T	0.9965	unique	inf	a	one reading	κύριε	1	G2962|κύριος|N-VSM-T|nt-form|100		G2962|κύριος|N-VSM|nt-form|27|capitalised mid-sentence: a name or title								
+32002007	Jonah.2.7	15	86	87	ὁ	G3588	ὁ	T-NSM	0.9780	model	61.47	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32002007	Jonah.2.7	16	88	92	Θεός	G2316	θεός	N-NSM-T	0.9780	model	61.47	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32002007	Jonah.2.7	17	93	96	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002008	Jonah.2.8	0	0	2	Ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32002008	Jonah.2.8	1	3	5	τῷ	G3588	ὁ	T-DSN	0.9513	model	38.38	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSM|nt-form|863									
+32002008	Jonah.2.8	2	6	15	ἐκλείπειν	G1587	ἐκλείπω	V-PAN	0.9744	unique	inf	a	one reading	ἐκλείπειν	1	G1587|ἐκλείπω|V-PAN|analyser|1										
+32002008	Jonah.2.8	3	16	19	ἀπʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπ’	1	G575|ἀπό|PREP|nt-form|134										
+32002008	Jonah.2.8	4	20	24	ἐμοῦ	G1473	ἐγώ	S-1SGSN	0.9037	model	22.97	c	several words	ἐμοῦ	2	G1473|ἐγώ|S-1SGSN|nt-form|111 ; G1473|ἐμός|S-1SGSN|nt-form|3	G1473|ἐμός|S-1SGSN|nt-form|3									
+32002008	Jonah.2.8	5	25	28	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32002008	Jonah.2.8	6	29	34	ψυχήν	G5590	ψυχή	N-ASF	0.9965	unique	inf	a	one reading	ψυχήν	1	G5590|ψυχή|N-ASF|nt-form|41										
+32002008	Jonah.2.8	7	35	38	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002008	Jonah.2.8	8	40	43	τοῦ	G3588	ὁ	T-GSM	0.9973	model	92.01	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32002008	Jonah.2.8	9	44	50	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32002008	Jonah.2.8	10	51	59	ἐμνήσθην	G3403	μιμνήσκω	V-API-1S	0.9965	unique	inf	a	one reading	ἐμνήσθην	1	G3403|μιμνήσκω|V-API-1S|nt-form|1										
+32002008	Jonah.2.8	11	61	64	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002008	Jonah.2.8	12	65	70	ἔλθοι	G2064	ἔρχομαι	V-2AAO-3S	0.9744	unique	inf	a	one reading	ἔλθοι	1	G2064|ἔρχομαι|V-2AAO-3S|analyser|1										
+32002008	Jonah.2.8	13	71	75	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32002008	Jonah.2.8	14	76	78	σὲ	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σέ	1	G4771|σύ|P-2AS|nt-form|39										
+32002008	Jonah.2.8	15	79	80	ἡ	G3588	ὁ	T-NSF	0.9940	model	143.8	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32002008	Jonah.2.8	16	81	89	προσευχή	G4335	προσευχή	N-NSF	0.9965	unique	inf	a	one reading	προσευχή	1	G4335|προσευχή|N-NSF|nt-form|2										
+32002008	Jonah.2.8	17	90	93	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32002008	Jonah.2.8	18	94	97	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32002008	Jonah.2.8	19	98	102	ναὸν	G3485	ναός	N-ASM	0.9965	unique	inf	a	one reading	ναόν	1	G3485|ναός|N-ASM|nt-form|13										
+32002008	Jonah.2.8	20	103	106	τὸν	G3588	ὁ	T-ASM	0.9899	model	132.9	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002008	Jonah.2.8	21	107	112	ἅγιόν	G40	ἅγιος	A-ASM	0.9751	model	49.55	c	several words	ἅγιον	7	G40|ἅγιος|A-NSN|nt-form|25 ; G40|ἅγιος|A-ASN|nt-form|16 ; G40|ἅγιος|A-ASM|nt-form|7 ; G39|ἅγιος|A-ASN|nt-form|1 ; G39|ἅγιος|A-NSN|nt-form+paradigm|0 ; G39|ἅγιος|A-VSN|nt-form+paradigm|0 ; G40|ἅγιος|A-VSN|nt-form+paradigm|0	G40|ἅγιος|A-NSN|nt-form|25									
+32002008	Jonah.2.8	22	113	116	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+32002009	Jonah.2.9	0	0	12	Φυλασσόμενοι	G5442	φυλάσσω	V-PMP-NPM	0.7805	model	17.68	b	several parses	φυλασσόμενοι	4	G5442|φυλάσσω|V-PMP-NPM|analyser|1 ; G5442|φυλάσσω|V-PNP-VPM|analyser|1 ; G5442|φυλάσσω|V-PEP-NPM|analyser|0.6667 ; G5442|φυλάσσω|V-PPP-NPM|analyser|0.3333	G5442|φυλάσσω|V-PEP-NPM|analyser|0.6667									
+32002009	Jonah.2.9	1	13	19	μάταια	G3152	μάταιος	A-NPN	0.5978	model	10.48	b	several parses	μάταια	3	G3152|μάταιος|A-APN|analyser|1 ; G3152|μάταιος|A-NPN|analyser|1 ; G3152|μάταιος|A-VPN|analyser|1	G3152|μάταιος|A-APN|analyser|1									
+32002009	Jonah.2.9	2	20	23	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002009	Jonah.2.9	3	24	29	ψευδῆ	G5571	ψευδής	A-NPN	0.5636	model	10.48	b	several parses	ψευδῆ	5	G5571|ψευδής|A-APN|analyser|1 ; G5571|ψευδής|A-ASF|analyser|1 ; G5571|ψευδής|A-ASM|analyser|1 ; G5571|ψευδής|A-NPN|analyser|1 ; G5571|ψευδής|A-VPN|analyser|1	G5571|ψευδής|A-APN|analyser|1									
+32002009	Jonah.2.9	4	31	36	ἔλεος	G1656	ἔλεος	N-ASN	0.5960	model	1.901	b	several parses	ἔλεοσ	3	G1656|ἔλεος|N-ASN|nt-form|13 ; G1656|ἔλεος|N-NSN|nt-form|7 ; G1656|ἔλεος|N-VSN|nt-form+paradigm|0	G1656|ἔλεος|N-NSN|nt-form|7									
+32002009	Jonah.2.9	5	37	42	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	33.57	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32002009	Jonah.2.9	6	43	54	ἐγκατέλιπον	G1459	ἐγκαταλείπω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἐγκατέλιπον	1	G1459|ἐγκαταλείπω|V-2AAI-3P|nt-form|1										
+32002010	Jonah.2.10	0	0	3	Ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32002010	Jonah.2.10	1	4	6	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+32002010	Jonah.2.10	2	7	11	μετὰ	G3326	μετά	PREP	0.9965	unique	inf	a	one reading	μετά	1	G3326|μετά|PREP|nt-form|301										
+32002010	Jonah.2.10	3	12	17	φωνῆς	G5456	φωνή	N-GSF	0.9965	unique	inf	a	one reading	φωνῆσ	1	G5456|φωνή|N-GSF|nt-form|24										
+32002010	Jonah.2.10	4	18	26	αἰνέσεως	G133	αἴνεσις	N-GSF	0.9965	unique	inf	a	one reading	αἰνέσεωσ	1	G133|αἴνεσις|N-GSF|nt-form|1										
+32002010	Jonah.2.10	5	27	30	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002010	Jonah.2.10	6	31	44	ἐξομολογήσεως	G7347	ἐξομολόγησις	N-GSF	0.9744	unique	inf	a	one reading	ἐξομολογήσεωσ	1	G7347|ἐξομολόγησις|N-GSF|analyser|1										
+32002010	Jonah.2.10	7	45	49	θύσω	G2380	θύω	V-FAI-1S	0.7353	model	10.84	b	several parses	θύσω	2	G2380|θύω|V-AAS-1S|analyser|1 ; G2380|θύω|V-FAI-1S|analyser|0.6	G2380|θύω|V-AAS-1S|analyser|1									
+32002010	Jonah.2.10	8	50	53	σοι	G4771	σύ	P-2DS	0.9965	unique	inf	a	one reading	σοι	1	G4771|σύ|P-2DS|nt-form|168										
+32002010	Jonah.2.10	9	55	58	ὅσα	G3745	ὅσος	K-APN	0.9862	model	100.3	b	several parses	ὅσα	2	G3745|ὅσος|K-APN|nt-form|50 ; G3745|ὅσος|K-NPN|nt-form|7	G3745|ὅσος|K-NPN|nt-form|7									
+32002010	Jonah.2.10	10	59	66	ηὐξάμην	G2172	εὔχομαι	V-ADI-1S	0.9744	unique	inf	a	one reading	ηὐξάμην	1	G2172|εὔχομαι|V-ADI-1S|analyser|1										
+32002010	Jonah.2.10	11	67	74	ἀποδώσω	G591	ἀποδίδωμι	V-FAI-1S	0.9965	unique	inf	a	one reading	ἀποδώσω	1	G591|ἀποδίδωμι|V-FAI-1S|nt-form|3										
+32002010	Jonah.2.10	12	75	78	σοι	G4771	σύ	P-2DS	0.9965	unique	inf	a	one reading	σοι	1	G4771|σύ|P-2DS|nt-form|168										
+32002010	Jonah.2.10	13	79	87	σωτηρίου	G4991	σωτήριον	N-GSN	0.9965	unique	inf	a	one reading	σωτηρίου	1	G4991|σωτήριον|N-GSN|nt-form|1										
+32002010	Jonah.2.10	14	88	90	τῷ	G3588	ὁ	T-DSM	0.9780	model	72.7	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+32002010	Jonah.2.10	15	91	96	Κυρίῳ	G2962	κύριος	N-DSM-T	0.9965	unique	inf	a	one reading	κυρίῳ	1	G2962|κύριος|N-DSM-T|nt-form|97		G2962|κύριος|N-DSM|nt-form|5|capitalised mid-sentence: a name or title								
+32002011	Jonah.2.11	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002011	Jonah.2.11	1	4	13	προσετάγη	G4367	προστάσσω	V-2API-3S	0.9744	unique	inf	a	one reading	προσετάγη	1	G4367|προστάσσω|V-2API-3S|analyser|1										
+32002011	Jonah.2.11	2	14	17	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32002011	Jonah.2.11	3	18	24	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32002011	Jonah.2.11	4	25	27	τῷ	G3588	ὁ	T-DSN	0.9780	model	58.74	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSM|nt-form|863									
+32002011	Jonah.2.11	5	28	33	κήτει	G2785	κῆτος	N-DSN	0.9744	unique	inf	a	one reading	κήτει	1	G2785|κῆτος|N-DSN|analyser|1										
+32002011	Jonah.2.11	6	35	38	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32002011	Jonah.2.11	7	39	46	ἐξέβαλε	G1544	ἐκβάλλω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἐξέβαλε	1	G1544|ἐκβάλλω|V-2AAI-3S|nt-form:movable-nu|5										
+32002011	Jonah.2.11	8	47	50	τὸν	G3588	ὁ	T-ASM	0.9899	model	120.8	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32002011	Jonah.2.11	9	51	56	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32002010#6 H3124 יוֹנָ֖ה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32002011	Jonah.2.11	10	57	60	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32002011	Jonah.2.11	11	61	64	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32002011	Jonah.2.11	12	65	70	ξηράν	G3584	ξηρός	A-ASF	0.9965	unique	inf	a	one reading	ξηράν	1	G3584|ξηρός|A-ASF|nt-form|4										
+32003001	Jonah.3.1	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003001	Jonah.3.1	1	4	11	ἐγένετο	G1096	γίνομαι	V-2ADI-3S	0.9965	unique	inf	a	one reading	ἐγένετο	1	G1096|γίνομαι|V-2ADI-3S|nt-form|206										
+32003001	Jonah.3.1	2	12	17	λόγος	G3056	λόγος	N-NSM	0.9965	unique	inf	a	one reading	λόγοσ	1	G3056|λόγος|N-NSM|nt-form|69										
+32003001	Jonah.3.1	3	18	24	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+32003001	Jonah.3.1	4	25	29	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32003001	Jonah.3.1	5	30	35	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32003001#5 H3124 יוֹנָ֖ה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32003001	Jonah.3.1	6	36	38	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32003001	Jonah.3.1	7	39	47	δευτέρου	G1208	δεύτερος	A-GSN	0.7052	model	17.52	b	several parses	δευτέρου	2	G1208|δεύτερος|A-GSN|nt-form|7 ; G1208|δεύτερος|A-GSM|nt-form|2	G1208|δεύτερος|A-GSM|nt-form|2									
+32003001	Jonah.3.1	8	49	54	λέγων	G3004	λέγω	V-PAP-NSM	0.9940	model	151.4	b	several parses	λέγων	2	G3004|λέγω|V-PAP-NSM|nt-form|189 ; G3004|λέγω|V-PAP-VSM|nt-form|1	G3004|λέγω|V-PAP-VSM|nt-form|1									
+32003002	Jonah.3.2	0	0	8	ἀνάστηθι	G450	ἀνίστημι	V-2AAM-2S	0.9965	unique	inf	a	one reading	ἀνάστηθι	1	G450|ἀνίστημι|V-2AAM-2S|nt-form|7										
+32003002	Jonah.3.2	1	10	19	πορεύθητι	G4198	πορεύω	V-AOM-2S	0.9965	unique	inf	a	one reading	πορεύθητι	1	G4198|πορεύω|V-AOM-2S|nt-form|4										
+32003002	Jonah.3.2	2	20	23	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32003002	Jonah.3.2	3	24	30	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003002#4 H5210 נִֽינְוֵ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32003002	Jonah.3.2	4	31	34	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32003002	Jonah.3.2	5	35	40	πόλιν	G4172	πόλις	N-ASF	0.9965	unique	inf	a	one reading	πόλιν	1	G4172|πόλις|N-ASF|nt-form|63		G4172|πόλις||nt-form|1|lower case: not a name								
+32003002	Jonah.3.2	6	41	44	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32003002	Jonah.3.2	7	45	52	μεγάλην	G3173	μέγας	A-ASF	0.9965	unique	inf	a	one reading	μεγάλην	1	G3173|μέγας|A-ASF|nt-form|20										
+32003002	Jonah.3.2	8	54	57	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003002	Jonah.3.2	9	58	65	κήρυξον	G2784	κηρύσσω	V-AAM-2S	0.9965	unique	inf	a	one reading	κήρυξον	1	G2784|κηρύσσω|V-AAM-2S|nt-form|1										
+32003002	Jonah.3.2	10	66	68	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32003002	Jonah.3.2	11	69	73	αὐτῇ	G846	αὐτός	P-DSF	0.9965	unique	inf	a	one reading	αὐτῇ	1	G846|αὐτός|P-DSF|nt-form|112										
+32003002	Jonah.3.2	12	74	78	κατὰ	G2596	κατά	PREP	0.9965	unique	inf	a	one reading	κατά	1	G2596|κατά|PREP|nt-form|338										
+32003002	Jonah.3.2	13	79	81	τὸ	G3588	ὁ	T-ASN	0.9585	model	178.4	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-VSN|nt-form|6									
+32003002	Jonah.3.2	14	82	89	κήρυγμα	G2782	κήρυγμα	N-ASN	0.9585	model	154.5	b	several parses	κήρυγμα	3	G2782|κήρυγμα|N-ASN|nt-form|4 ; G2782|κήρυγμα|N-NSN|nt-form|3 ; G2782|κήρυγμα|N-VSN|nt-form+paradigm|0	G2782|κήρυγμα|N-VSN|nt-form+paradigm|0									
+32003002	Jonah.3.2	15	90	92	τὸ	G3588	ὁ	T-ASN	0.8828	model	49.91	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-VSN|nt-form|6									
+32003002	Jonah.3.2	16	93	102	ἔμπροσθεν	G1715	ἔμπροσθεν	PREP	0.9965	unique	inf	a	one reading	ἔμπροσθεν	1	G1715|ἔμπροσθεν|PREP|nt-form|50										
+32003002	Jonah.3.2	17	104	105	ὃ	G3739	ὅς, ἥ	R-ASN	0.9602	model	58.52	c	several words	ὅ	3	G3739|ὅς, ἥ|R-ASN|nt-form|184 ; G3739|ὅς, ἥ|R-NSN|nt-form|73 ; G3588|ὁ|T-NSM|nt-form|13	G3739|ὅς, ἥ|R-NSN|nt-form|73									
+32003002	Jonah.3.2	18	106	109	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32003002	Jonah.3.2	19	110	117	ἐλάλησα	G2980	λαλέω	V-AAI-1S	0.9965	unique	inf	a	one reading	ἐλάλησα	1	G2980|λαλέω|V-AAI-1S|nt-form|8										
+32003002	Jonah.3.2	20	118	122	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32003002	Jonah.3.2	21	123	125	σέ	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σέ	1	G4771|σύ|P-2AS|nt-form|39										
+32003003	Jonah.3.3	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003003	Jonah.3.3	1	4	10	ἀνέστη	G450	ἀνίστημι	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἀνέστη	1	G450|ἀνίστημι|V-2AAI-3S|nt-form|16										
+32003003	Jonah.3.3	2	11	16	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32003003	Jonah.3.3	3	18	21	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003003	Jonah.3.3	4	22	30	ἐπορεύθη	G4198	πορεύω	V-AOI-3S	0.9965	unique	inf	a	one reading	ἐπορεύθη	1	G4198|πορεύω|V-AOI-3S|nt-form|12										
+32003003	Jonah.3.3	5	31	34	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32003003	Jonah.3.3	6	35	41	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003003#5 H5210 נִֽינְוֶ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32003003	Jonah.3.3	7	43	47	καθὰ	G2505	καθά	CONJ	0.9965	unique	inf	a	one reading	καθά	1	G2505|καθά|CONJ|nt-form|1										
+32003003	Jonah.3.3	8	48	55	ἐλάλησε	G2980	λαλέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐλάλησε	1	G2980|λαλέω|V-AAI-3S|nt-form:movable-nu|31										
+32003003	Jonah.3.3	9	56	62	Κύριος	G2962	κύριος	N-NSM-T	0.9899	model	139.7	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32003003	Jonah.3.3	10	64	65	ἡ	G3588	ὁ	T-NSF	0.9780	model	63.14	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+32003003	Jonah.3.3	11	66	68	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+32003003	Jonah.3.3	12	69	75	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003003#5 H5210 נִֽינְוֶ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32003003	Jonah.3.3	13	76	78	ἦν	G1510	εἰμί	V-IAI-3S	0.9965	unique	inf	a	one reading	ἦν	1	G1510|εἰμί|V-IAI-3S|nt-form|329										
+32003003	Jonah.3.3	14	79	84	πόλις	G4172	πόλις	N-NSF	0.9982	model	178.4	b	several parses	πόλισ	2	G4172|πόλις|N-NSF|nt-form|20 ; G4172|πόλις|N-VSF|nt-form|3	G4172|πόλις|N-VSF|nt-form|3									
+32003003	Jonah.3.3	15	85	91	μεγάλη	G3173	μέγας	A-NSF	0.9234	model	108.3	b	several parses	μεγάλη	3	G3173|μέγας|A-NSF|nt-form|33 ; G3173|μέγας|A-VSF|nt-form|2 ; G3173|μέγας|A-DSF|nt-form|1	G3173|μέγας|A-DSF|nt-form|1									
+32003003	Jonah.3.3	16	92	94	τῷ	G3588	ὁ	T-DSM	0.9835	model	78.14	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+32003003	Jonah.3.3	17	95	98	Θεῷ	G2316	θεός	N-DSM-T	0.9965	unique	inf	a	one reading	θεῷ	1	G2316|θεός|N-DSM-T|nt-form|159		G2316|θεός|N-DSM|nt-form|1|capitalised mid-sentence: a name or title								
+32003003	Jonah.3.3	18	100	104	ὡσεὶ	G5616	ὡσεί	PREP	0.9965	unique	inf	a	one reading	ὡσεί	1	G5616|ὡσεί|PREP|nt-form|22										
+32003003	Jonah.3.3	19	105	112	πορείας	G4197	πορεία	N-GSF	0.9441	model	60.77	b	several parses	πορείασ	2	G4197|πορεία|N-APF|analyser|1 ; G4197|πορεία|N-GSF|analyser|1	G4197|πορεία|N-APF|analyser|1									
+32003003	Jonah.3.3	20	113	117	ὁδοῦ	G3598	ὁδός	N-GSF	0.9965	unique	inf	a	one reading	ὁδοῦ	1	G3598|ὁδός|N-GSF|nt-form|8										
+32003003	Jonah.3.3	21	118	123	τριῶν	G5140	τρεῖς, τρία	A-GPF	0.8828	model	53.61	b	several parses	τριῶν	3	G5140|τρεῖς, τρία|A-GPM|nt-form|6 ; G5140|τρεῖς, τρία|A-GPF|nt-form|4 ; G5140|τρεῖς, τρία|A-GPN|nt-form+paradigm|0	G5140|τρεῖς, τρία|A-GPM|nt-form|6	G5140|τρεῖς, τρία||nt-form|1|lower case: not a name								
+32003003	Jonah.3.3	22	124	130	ἡμερῶν	G2250	ἡμέρα	N-GPF	0.9965	unique	inf	a	one reading	ἡμερῶν	1	G2250|ἡμέρα|N-GPF|nt-form|22										
+32003004	Jonah.3.4	0	0	3	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003004	Jonah.3.4	1	4	10	ἤρξατο	G757	ἄρχω	V-ADI-3S	0.9965	unique	inf	a	one reading	ἤρξατο	1	G757|ἄρχω|V-ADI-3S|nt-form|41										
+32003004	Jonah.3.4	2	11	16	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32003004	Jonah.3.4	3	17	20	τοῦ	G3588	ὁ	T-GSN	0.9420	model	31.12	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32003004	Jonah.3.4	4	21	30	εἰσελθεῖν	G1525	εἰσέρχομαι	V-2AAN	0.9965	unique	inf	a	one reading	εἰσελθεῖν	1	G1525|εἰσέρχομαι|V-2AAN|nt-form|36										
+32003004	Jonah.3.4	5	31	34	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32003004	Jonah.3.4	6	35	38	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32003004	Jonah.3.4	7	39	44	πόλιν	G4172	πόλις	N-ASF	0.9965	unique	inf	a	one reading	πόλιν	1	G4172|πόλις|N-ASF|nt-form|63		G4172|πόλις||nt-form|1|lower case: not a name								
+32003004	Jonah.3.4	8	46	50	ὡσεὶ	G5616	ὡσεί	PREP	0.9965	unique	inf	a	one reading	ὡσεί	1	G5616|ὡσεί|PREP|nt-form|22										
+32003004	Jonah.3.4	9	51	58	πορείαν	G4197	πορεία	N-ASF	0.9965	unique	inf	a	one reading	πορείαν	1	G4197|πορεία|N-ASF|nt-form|1										
+32003004	Jonah.3.4	10	59	65	ἡμέρας	G2250	ἡμέρα	N-GSF	0.8944	model	26.71	b	several parses	ἡμέρασ	2	G2250|ἡμέρα|N-APF|nt-form|68 ; G2250|ἡμέρα|N-GSF|nt-form|60	G2250|ἡμέρα|N-APF|nt-form|68									
+32003004	Jonah.3.4	11	66	70	μιᾶς	G1520	εἷς	A-GSF	0.9965	unique	inf	a	one reading	μιᾶσ	1	G1520|εἷς|A-GSF|nt-form|8										
+32003004	Jonah.3.4	12	72	75	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003004	Jonah.3.4	13	76	83	ἐκήρυξε	G2784	κηρύσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐκήρυξε	1	G2784|κηρύσσω|V-AAI-3S|nt-form:movable-nu|2										
+32003004	Jonah.3.4	14	85	88	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003004	Jonah.3.4	15	89	94	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32003004	Jonah.3.4	16	96	99	ἔτι	G2089	ἔτι	ADV	0.9965	unique	inf	a	one reading	ἔτι	1	G2089|ἔτι|ADV|nt-form|95										
+32003004	Jonah.3.4	17	100	105	τρεῖς	G5140	τρεῖς, τρία	A-APM	0.5301	model	5.201	b	several parses	τρεῖσ	7	G5140|τρεῖς, τρία|A-APF|nt-form|19 ; G5140|τρεῖς, τρία|A-NPM|nt-form|12 ; G5140|τρεῖς, τρία|A-APM|nt-form|9 ; G5140|τρεῖς, τρία|A-NPF|nt-form|4 ; G5140|τρεῖς, τρία|A-NUI|nt-form|1 ; G5140|τρεῖς, τρία|A-VPF|nt-form+paradigm|0 ; G5140|τρεῖς, τρία|A-VPM|nt-form+paradigm|0	G5140|τρεῖς, τρία|A-NPF|nt-form|4									
+32003004	Jonah.3.4	18	106	112	ἡμέραι	G2250	ἡμέρα	N-NPF	0.9513	model	39.18	b	several parses	ἡμέραι	2	G2250|ἡμέρα|N-NPF|nt-form|26 ; G2250|ἡμέρα|N-VPF|nt-form+paradigm|0	G2250|ἡμέρα|N-VPF|nt-form+paradigm|0									
+32003004	Jonah.3.4	19	114	117	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003004	Jonah.3.4	20	118	124	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003004#13 H5210 נִֽינְוֵ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32003004	Jonah.3.4	21	125	140	καταστραφήσεται	G2690	καταστρέφω	V-2FPI-3S	0.9744	unique	inf	a	one reading	καταστραφήσεται	1	G2690|καταστρέφω|V-2FPI-3S|analyser|1										
+32003005	Jonah.3.5	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003005	Jonah.3.5	1	4	14	ἐπίστευσαν	G4100	πιστεύω	V-AAI-3P	0.9965	unique	inf	a	one reading	ἐπίστευσαν	1	G4100|πιστεύω|V-AAI-3P|nt-form|22										
+32003005	Jonah.3.5	2	15	17	οἱ	G3588	ὁ	T-NPM	0.9982	model	185.8	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32003005	Jonah.3.5	3	18	24	ἄνδρες	G435	ἀνήρ	N-NPM	0.9940	model	144.6	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+32003005	Jonah.3.5	4	25	31	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003005#3 H5210 נִֽינְוֵ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32003005	Jonah.3.5	5	32	34	τῷ	G3588	ὁ	T-DSM	0.9835	model	82.15	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+32003005	Jonah.3.5	6	35	38	Θεῷ	G2316	θεός	N-DSM-T	0.9965	unique	inf	a	one reading	θεῷ	1	G2316|θεός|N-DSM-T|nt-form|159		G2316|θεός|N-DSM|nt-form|1|capitalised mid-sentence: a name or title								
+32003005	Jonah.3.5	7	40	43	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003005	Jonah.3.5	8	44	52	ἐκήρυξαν	G2784	κηρύσσω	V-AAI-3P	0.9965	unique	inf	a	one reading	ἐκήρυξαν	1	G2784|κηρύσσω|V-AAI-3P|nt-form|2										
+32003005	Jonah.3.5	9	53	61	νηστείαν	G3521	νηστεία	N-ASF	0.9965	unique	inf	a	one reading	νηστείαν	1	G3521|νηστεία|N-ASF|nt-form|1										
+32003005	Jonah.3.5	10	63	66	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003005	Jonah.3.5	11	67	77	ἐνεδύσαντο	G1746	ἐνδύω	V-AMI-3P	0.4742	model	4.857	c	several words	ἐνεδύσαντο	4	G1746|ἐνδύω|V-AMI-3P|analyser|1 ; G1744|ἐνδύνω|V-2AMI-3P|analyser|0.7508 ; G1744|ἐνδύνω|V-2ADI-3P|analyser|0.3003 ; G1746|ἐνδύω|V-ADI-3P|analyser|0.062	G1746|ἐνδύω|V-ADI-3P|analyser|0.062									
+32003005	Jonah.3.5	12	78	85	σάκκους	G4526	σάκκος	N-APM	0.9965	unique	inf	a	one reading	σάκκουσ	1	G4526|σάκκος|N-APM|nt-form|1										
+32003005	Jonah.3.5	13	86	89	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32003005	Jonah.3.5	14	90	97	μεγάλου	G3173	μέγας	A-GSM	0.9513	model	40.49	b	several parses	μεγάλου	2	G3173|μέγας|A-GSM|nt-form|7 ; G3173|μέγας|A-GSN|nt-form+paradigm|0	G3173|μέγας|A-GSN|nt-form+paradigm|0									
+32003005	Jonah.3.5	15	98	103	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	36.44	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32003005	Jonah.3.5	16	104	107	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+32003005	Jonah.3.5	17	108	114	μικροῦ	G3398	μικρός	A-GSM	0.8944	model	21.28	b	several parses	μικροῦ	2	G3398|μικρός|A-GSM|nt-form|3 ; G3398|μικρός|A-GSN|nt-form+paradigm|0	G3398|μικρός|A-GSN|nt-form+paradigm|0									
+32003005	Jonah.3.5	18	115	120	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	36.9	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32003006	Jonah.3.6	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003006	Jonah.3.6	1	4	11	ἤγγισεν	G1448	ἐγγίζω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἤγγισεν	1	G1448|ἐγγίζω|V-AAI-3S|nt-form|7										
+32003006	Jonah.3.6	2	12	13	ὁ	G3588	ὁ	T-NSM	0.9982	model	182.3	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32003006	Jonah.3.6	3	14	19	λόγος	G3056	λόγος	N-NSM	0.9965	unique	inf	a	one reading	λόγοσ	1	G3056|λόγος|N-NSM|nt-form|69										
+32003006	Jonah.3.6	4	20	24	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32003006	Jonah.3.6	5	25	28	τὸν	G3588	ὁ	T-ASM	0.9940	model	146.7	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32003006	Jonah.3.6	6	29	36	βασιλέα	G935	βασιλεύς	N-ASM	0.9965	unique	inf	a	one reading	βασιλέα	1	G935|βασιλεύς|N-ASM|nt-form|11		G935|βασιλεύς|N-ASM-T|nt-form|4|lower case: not a title								
+32003006	Jonah.3.6	7	37	40	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32003006	Jonah.3.6	8	41	47	Νινευὴ	G3535	Νινευΐ	N-GSF-L	0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003006#5 H5210 נִֽינְוֵ֔ה Nineveh	20.00	N-GSF-L	tbesg			transliterates
+32003006	Jonah.3.6	9	49	52	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003006	Jonah.3.6	10	53	61	ἐξανέστη	G1817	ἐξανίστημι	V-2AAI-3S	0.9677	model	68.53	b	several parses	ἐξανέστη	2	G1817|ἐξανίστημι|V-2AAI-3S|analyser|1 ; G1817|ἐξανίστημι||analyser|0.1742	G1817|ἐξανίστημι||analyser|0.1742									
+32003006	Jonah.3.6	11	62	65	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32003006	Jonah.3.6	12	66	69	τοῦ	G3588	ὁ	T-GSM	0.9972	model	75.74	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32003006	Jonah.3.6	13	70	76	θρόνου	G2362	θρόνος	N-GSM	0.9965	unique	inf	a	one reading	θρόνου	1	G2362|θρόνος|N-GSM|nt-form|34										
+32003006	Jonah.3.6	14	77	82	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	30.27	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32003006	Jonah.3.6	15	84	87	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003006	Jonah.3.6	16	88	98	περιείλατο	G4014	περιαιρέω	V-2AMI-3S	0.5978	model	11.96	b	several parses	περιείλατο	3	G4014|περιαιρέω|V-2AMI-3S|analyser|1 ; G4014|περιαιρέω|V-AMI-3S|analyser|0.2 ; G4014|περιαιρέω|V-2ADI-3S|analyser|0.06	G4014|περιαιρέω|V-AMI-3S|analyser|0.2									
+32003006	Jonah.3.6	17	99	102	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32003006	Jonah.3.6	18	103	109	στολὴν	G4749	στολή	N-ASF	0.9965	unique	inf	a	one reading	στολήν	1	G4749|στολή|N-ASF|nt-form|2										
+32003006	Jonah.3.6	19	110	115	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	26.08	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32003006	Jonah.3.6	20	116	119	ἀφʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀφ’	1	G575|ἀπό|PREP|nt-form|42										
+32003006	Jonah.3.6	21	120	126	ἑαυτοῦ	G1438	ἑαυτοῦ	F-3GSM	0.7607	model	20.97	b	several parses	ἑαυτοῦ	3	G1438|ἑαυτοῦ|F-3GSM|nt-form|43 ; G1438|ἑαυτοῦ|F-3GSN|nt-form|4 ; G1438|ἑαυτοῦ|F-2GSM|nt-form|1	G1438|ἑαυτοῦ|F-3GSN|nt-form|4									
+32003006	Jonah.3.6	22	128	131	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003006	Jonah.3.6	23	132	143	περιεβάλετο	G4016	περιβάλλω	V-2AMI-3S	0.9965	unique	inf	a	one reading	περιεβάλετο	1	G4016|περιβάλλω|V-2AMI-3S|nt-form|2										
+32003006	Jonah.3.6	24	144	150	σάκκον	G4526	σάκκος	N-ASM	0.9744	unique	inf	a	one reading	σάκκον	1	G4526|σάκκος|N-ASM|analyser|1										
+32003006	Jonah.3.6	25	152	155	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003006	Jonah.3.6	26	156	164	ἐκάθισεν	G2523	καθίζω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐκάθισεν	1	G2523|καθίζω|V-AAI-3S|nt-form|13										
+32003006	Jonah.3.6	27	165	168	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32003006	Jonah.3.6	28	169	175	σποδοῦ	G4700	σποδός	N-GSF	0.9371	model	57.9	c	several words	σποδοῦ	3	G4700|σποδός|N-GSF|analyser|1 ; G21119|σποδόομαι|V-PNM-2S|analyser|0.5292 ; G21119|σποδόομαι|V-PMM-2S|analyser|0.1058	G21119|σποδόομαι|V-PNM-2S|analyser|0.5292									
+32003007	Jonah.3.7	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	1	4	12	ἐκηρύχθη	G2784	κηρύσσω	V-API-3S	0.9965	unique	inf	a	one reading	ἐκηρύχθη	1	G2784|κηρύσσω|V-API-3S|nt-form|1										
+32003007	Jonah.3.7	2	14	17	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	3	18	24	ἐῤῥέθη	G2046	ἔπω, ἐρῶ, εἶπον	V-API-3S	0.9965	unique	inf	a	one reading	ἐρρέθη	1	G2046|ἔπω, ἐρῶ, εἶπον|V-API-3S|nt-form|10										
+32003007	Jonah.3.7	4	25	27	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32003007	Jonah.3.7	5	28	30	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32003007	Jonah.3.7	6	31	37	Νινευὴ	G3535	Νινευΐ	N-DSF-L	0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32003007#3 H5210 נִֽינְוֵ֔ה Nineveh	20.00	N-DSF-L	tbesg			transliterates
+32003007	Jonah.3.7	7	38	42	παρὰ	G3844	παρά	PREP	0.9965	unique	inf	a	one reading	παρά	1	G3844|παρά|PREP|nt-form|135										
+32003007	Jonah.3.7	8	43	46	τοῦ	G3588	ὁ	T-GSM	0.9751	model	57.85	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32003007	Jonah.3.7	9	47	55	βασιλέως	G935	βασιλεύς	N-GSM	0.9965	unique	inf	a	one reading	βασιλέωσ	1	G935|βασιλεύς|N-GSM|nt-form|8		G935|βασιλεύς|N-GSM-T|nt-form|1|lower case: not a title								
+32003007	Jonah.3.7	10	56	59	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	11	60	64	παρὰ	G3844	παρά	PREP	0.9965	unique	inf	a	one reading	παρά	1	G3844|παρά|PREP|nt-form|135										
+32003007	Jonah.3.7	12	65	68	τῶν	G3588	ὁ	T-GPM	0.9203	model	70.65	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPN|nt-form|264									
+32003007	Jonah.3.7	13	69	79	μεγιστάνων	G3175	μεγιστάν	N-GPM	0.9744	unique	inf	a	one reading	μεγιστάνων	1	G3175|μεγιστάν|N-GPM|analyser|1										
+32003007	Jonah.3.7	14	80	85	αὐτοῦ	G846	αὐτός	P-GSM	0.9669	model	44.78	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G1438|ἑαυτοῦ|F-3GSM|nt-form|1									
+32003007	Jonah.3.7	15	87	92	λέγων	G3004	λέγω	V-PAP-NSM	0.9637	model	53.14	b	several parses	λέγων	2	G3004|λέγω|V-PAP-NSM|nt-form|189 ; G3004|λέγω|V-PAP-VSM|nt-form|1	G3004|λέγω|V-PAP-VSM|nt-form|1									
+32003007	Jonah.3.7	16	94	96	οἱ	G3588	ὁ	T-NPM	0.9940	model	163.9	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32003007	Jonah.3.7	17	97	105	ἄνθρωποι	G444	ἄνθρωπος	N-NPM	0.9940	model	158.3	b	several parses	ἄνθρωποι	2	G444|ἄνθρωπος|N-NPM|nt-form|29 ; G444|ἄνθρωπος|N-VPM|nt-form+paradigm|0	G444|ἄνθρωπος|N-VPM|nt-form+paradigm|0									
+32003007	Jonah.3.7	18	107	110	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	19	111	113	τὰ	G3588	ὁ	T-NPN	0.8462	model	48.32	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+32003007	Jonah.3.7	20	114	119	κτήνη	G2934	κτῆνος	N-NPN	0.8462	model	48.32	b	several parses	κτήνη	3	G2934|κτῆνος|N-APN|nt-form|2 ; G2934|κτῆνος|N-NPN|nt-form+paradigm|0 ; G2934|κτῆνος|N-VPN|nt-form+paradigm|0	G2934|κτῆνος|N-APN|nt-form|2									
+32003007	Jonah.3.7	21	121	124	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	22	125	127	οἱ	G3588	ὁ	T-NPM	0.9982	model	188.7	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32003007	Jonah.3.7	23	128	132	βόες	G1016	βοῦς	N-NPM	0.9744	unique	inf	a	one reading	βόεσ	1	G1016|βοῦς|N-NPM|analyser|1		G1003|Βοόζ||nt-form|2|lower case: not a name								
+32003007	Jonah.3.7	24	134	137	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003007	Jonah.3.7	25	138	140	τὰ	G3588	ὁ	T-NPN	0.8462	model	38.11	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+32003007	Jonah.3.7	26	141	148	πρόβατα	G4263	πρόβατον	N-NPN	0.8462	model	38.11	b	several parses	πρόβατα	3	G4263|πρόβατον|N-APN|nt-form|15 ; G4263|πρόβατον|N-NPN|nt-form|12 ; G4263|πρόβατον|N-VPN|nt-form+paradigm|0	G4263|πρόβατον|N-APN|nt-form|15									
+32003007	Jonah.3.7	27	149	151	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+32003007	Jonah.3.7	28	152	163	γευσάσθωσαν	G1089	γεύω	V-ADM-3P	0.9744	unique	inf	a	one reading	γευσάσθωσαν	1	G1089|γεύω|V-ADM-3P|analyser|1										
+32003007	Jonah.3.7	29	165	169	μηδὲ	G3366	μηδέ	CONJ-N	0.9513	model	36.15	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+32003007	Jonah.3.7	30	170	180	νεμέσθωσαν	G8385	νέμω	V-PPM-3P	0.7353	model	11.45	b	several parses	νεμέσθωσαν	2	G8385|νέμω|V-PPM-3P|analyser|1 ; G8385|νέμω|V-PMM-3P|analyser|0.5	G8385|νέμω|V-PMM-3P|analyser|0.5									
+32003007	Jonah.3.7	31	182	186	μηδὲ	G3366	μηδέ	CONJ-N	0.8944	model	23.01	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+32003007	Jonah.3.7	32	187	191	ὕδωρ	G5204	ὕδωρ, ὕδατος	N-ASN	0.9203	model	86.99	b	several parses	ὕδωρ	3	G5204|ὕδωρ, ὕδατος|N-ASN|nt-form|18 ; G5204|ὕδωρ, ὕδατος|N-NSN|nt-form|7 ; G5204|ὕδωρ, ὕδατος|N-VSN|nt-form+paradigm|0	G5204|ὕδωρ, ὕδατος|N-NSN|nt-form|7									
+32003007	Jonah.3.7	33	192	200	πιέτωσαν	G4095	πίνω	V-2AAM-3P	0.9744	unique	inf	a	one reading	πιέτωσαν	1	G4095|πίνω|V-2AAM-3P|analyser|1										
+32003008	Jonah.3.8	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003008	Jonah.3.8	1	4	17	περιεβάλλοντο	G4016	περιβάλλω	V-IMI-3P	0.5324	model	4.742	b	several parses	περιεβάλλοντο	2	G4016|περιβάλλω|V-IMI-3P|analyser|1 ; G4016|περιβάλλω|V-IPI-3P|analyser|0.64	G4016|περιβάλλω|V-IPI-3P|analyser|0.64									
+32003008	Jonah.3.8	2	18	25	σάκκους	G4526	σάκκος	N-APM	0.9965	unique	inf	a	one reading	σάκκουσ	1	G4526|σάκκος|N-APM|nt-form|1										
+32003008	Jonah.3.8	3	26	28	οἱ	G3588	ὁ	T-NPM	0.9982	model	191.1	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32003008	Jonah.3.8	4	29	37	ἄνθρωποι	G444	ἄνθρωπος	N-NPM	0.9982	model	205.5	b	several parses	ἄνθρωποι	2	G444|ἄνθρωπος|N-NPM|nt-form|29 ; G444|ἄνθρωπος|N-VPM|nt-form+paradigm|0	G444|ἄνθρωπος|N-VPM|nt-form+paradigm|0									
+32003008	Jonah.3.8	5	38	41	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003008	Jonah.3.8	6	42	44	τὰ	G3588	ὁ	T-NPN	0.9203	model	99.11	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+32003008	Jonah.3.8	7	45	50	κτήνη	G2934	κτῆνος	N-NPN	0.9203	model	80.72	b	several parses	κτήνη	3	G2934|κτῆνος|N-APN|nt-form|2 ; G2934|κτῆνος|N-NPN|nt-form+paradigm|0 ; G2934|κτῆνος|N-VPN|nt-form+paradigm|0	G2934|κτῆνος|N-APN|nt-form|2									
+32003008	Jonah.3.8	8	52	55	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003008	Jonah.3.8	9	56	65	ἀνεβόησαν	G310	ἀναβοάω	V-AAI-3P	0.9744	unique	inf	a	one reading	ἀνεβόησαν	1	G310|ἀναβοάω|V-AAI-3P|analyser|1										
+32003008	Jonah.3.8	10	66	70	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32003008	Jonah.3.8	11	71	74	τὸν	G3588	ὁ	T-ASM	0.9940	model	165.2	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32003008	Jonah.3.8	12	75	79	Θεὸν	G2316	θεός	N-ASM-T	0.9965	unique	inf	a	one reading	θεόν	1	G2316|θεός|N-ASM-T|nt-form|146		G2316|θεός|N-ASM|nt-form|3|capitalised mid-sentence: a name or title ; G2316|θεός|N-ASF|nt-form|1|capitalised mid-sentence: a name or title								
+32003008	Jonah.3.8	13	80	87	ἐκτενῶς	G1619	ἐκτενῶς	ADV	0.9965	unique	inf	a	one reading	ἐκτενῶσ	1	G1619|ἐκτενῶς|ADV|nt-form|2										
+32003008	Jonah.3.8	14	89	92	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003008	Jonah.3.8	15	93	103	ἀπέστρεψαν	G654	ἀποστρέφω	V-AAI-3P	0.9208	model	26.92	b	several parses	ἀπέστρεψαν	2	G654|ἀποστρέφω|V-AAI-3P|analyser|1 ; G654|ἀποστρέφω|V-2AAI-3P|analyser|0.4921	G654|ἀποστρέφω|V-2AAI-3P|analyser|0.4921									
+32003008	Jonah.3.8	16	104	111	ἕκαστος	G1538	ἕκαστος	A-NSM	0.9965	unique	inf	a	one reading	ἕκαστοσ	1	G1538|ἕκαστος|A-NSM|nt-form|41										
+32003008	Jonah.3.8	17	112	115	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32003008	Jonah.3.8	18	116	119	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32003008	Jonah.3.8	19	120	124	ὁδοῦ	G3598	ὁδός	N-GSF	0.9965	unique	inf	a	one reading	ὁδοῦ	1	G3598|ὁδός|N-GSF|nt-form|8										
+32003008	Jonah.3.8	20	125	130	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	32.68	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPN|nt-form|35									
+32003008	Jonah.3.8	21	131	134	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32003008	Jonah.3.8	22	135	142	πονηρᾶς	G4190	πονηρός	A-GSF	0.9965	unique	inf	a	one reading	πονηρᾶσ	1	G4190|πονηρός|A-GSF|nt-form|1										
+32003008	Jonah.3.8	23	144	147	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003008	Jonah.3.8	24	148	151	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32003008	Jonah.3.8	25	152	155	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32003008	Jonah.3.8	26	156	163	ἀδικίας	G93	ἀδικία	N-GSF	0.9899	model	131.8	b	several parses	ἀδικίασ	2	G93|ἀδικία|N-GSF|nt-form|13 ; G93|ἀδικία|N-APF|nt-form+paradigm|0	G93|ἀδικία|N-APF|nt-form+paradigm|0									
+32003008	Jonah.3.8	27	164	167	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32003008	Jonah.3.8	28	168	170	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32003008	Jonah.3.8	29	171	177	χερσὶν	G5495	χείρ	N-DPF	0.9965	unique	inf	a	one reading	χερσίν	1	G5495|χείρ|N-DPF|nt-form|10										
+32003008	Jonah.3.8	30	178	183	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	22.72	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32003008	Jonah.3.8	31	185	193	λέγοντες	G3004	λέγω	V-PAP-NPM	0.9862	model	113	b	several parses	λέγοντεσ	2	G3004|λέγω|V-PAP-NPM|nt-form|155 ; G3004|λέγω|V-PAP-VPM|nt-form|2	G3004|λέγω|V-PAP-VPM|nt-form|2									
+32003009	Jonah.3.9	0	0	3	τίς	G5101	τίς	I-NSM	0.9602	model	34.17	c	several words	τίσ	3	G5101|τίς|I-NSM|nt-form|129 ; G5101|τίς|I-NSF|nt-form|21 ; G5100|τις|X-NSM|nt-form|5	G5101|τίς|I-NSF|nt-form|21									
+32003009	Jonah.3.9	1	4	9	οἶδεν	G6063	εἴδω	V-RAI-3S	0.9513	model	32.57	b	several parses	οἶδεν	2	G6063|εἴδω|V-RAI-3S|nt-form|20 ; G6063|εἴδω|V-PAI-3S|nt-form|2	G6063|εἴδω|V-PAI-3S|nt-form|2									
+32003009	Jonah.3.9	2	10	12	εἰ	G1487	εἰ	COND	0.9965	unique	inf	a	one reading	εἰ	1	G1487|εἰ|COND|nt-form|439										
+32003009	Jonah.3.9	3	13	23	μετανοήσει	G3340	μετανοέω	V-FAI-3S	0.9298	model	74.68	b	several parses	μετανοήσει	3	G3340|μετανοέω|V-FAI-3S|analyser|1 ; G3340|μετανοέω|V-FDI-2S|analyser|0.5 ; G3340|μετανοέω|V-FMI-2S|analyser|0.5	G3340|μετανοέω|V-FDI-2S|analyser|0.5									
+32003009	Jonah.3.9	4	24	25	ὁ	G3588	ὁ	T-NSM	0.9940	model	158.5	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32003009	Jonah.3.9	5	26	30	Θεὸς	G2316	θεός	N-NSM-T	0.9982	model	190.8	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32003009	Jonah.3.9	6	32	35	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003009	Jonah.3.9	7	36	46	ἀποστρέψει	G654	ἀποστρέφω	V-FAI-3S	0.9965	unique	inf	a	one reading	ἀποστρέψει	1	G654|ἀποστρέφω|V-FAI-3S|nt-form|1										
+32003009	Jonah.3.9	8	47	49	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+32003009	Jonah.3.9	9	50	55	ὀργῆς	G3709	ὀργή	N-GSF	0.9965	unique	inf	a	one reading	ὀργῆσ	1	G3709|ὀργή|N-GSF|nt-form|14										
+32003009	Jonah.3.9	10	56	61	θυμοῦ	G2372	θυμός	N-GSM	0.9965	unique	inf	a	one reading	θυμοῦ	1	G2372|θυμός|N-GSM|nt-form|10										
+32003009	Jonah.3.9	11	62	67	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	30.27	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32003009	Jonah.3.9	12	69	72	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003009	Jonah.3.9	13	73	75	οὐ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐ	1	G3756|οὐ|PRT-N|nt-form|687										
+32003009	Jonah.3.9	14	76	78	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+32003009	Jonah.3.9	15	79	88	ἀπολώμεθα	G622	ἀπολλύω	V-2AMS-1P	0.8713	model	20.02	b	several parses	ἀπολώμεθα	2	G622|ἀπολλύω|V-2AMS-1P|analyser|1 ; G622|ἀπολλύω|V-2ADS-1P|analyser|0.06	G622|ἀπολλύω|V-2ADS-1P|analyser|0.06									
+32003010	Jonah.3.10	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003010	Jonah.3.10	1	4	9	εἶδεν	G1492	εἴδω	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶδεν	1	G1492|εἴδω|V-2AAI-3S|nt-form|43										
+32003010	Jonah.3.10	2	10	11	ὁ	G3588	ὁ	T-NSM	0.9940	model	151.9	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32003010	Jonah.3.10	3	12	16	Θεὸς	G2316	θεός	N-NSM-T	0.9940	model	166.5	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32003010	Jonah.3.10	4	17	19	τὰ	G3588	ὁ	T-APN	0.9941	model	181.9	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-NPN|nt-form|230									
+32003010	Jonah.3.10	5	20	24	ἔργα	G2041	ἔργον	N-APN	0.9585	model	166.6	b	several parses	ἔργα	3	G2041|ἔργον|N-APN|nt-form|46 ; G2041|ἔργον|N-NPN|nt-form|16 ; G2041|ἔργον|N-VPN|nt-form+paradigm|0	G2041|ἔργον|N-NPN|nt-form|16									
+32003010	Jonah.3.10	6	25	30	αὐτῶν	G846	αὐτός	P-GPM	0.7607	model	19.61	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32003010	Jonah.3.10	7	32	35	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32003010	Jonah.3.10	8	36	46	ἀπέστρεψαν	G654	ἀποστρέφω	V-AAI-3P	0.9208	model	21.38	b	several parses	ἀπέστρεψαν	2	G654|ἀποστρέφω|V-AAI-3P|analyser|1 ; G654|ἀποστρέφω|V-2AAI-3P|analyser|0.4921	G654|ἀποστρέφω|V-2AAI-3P|analyser|0.4921									
+32003010	Jonah.3.10	9	47	50	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32003010	Jonah.3.10	10	51	54	τῶν	G3588	ὁ	T-GPF	0.8462	model	44.39	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+32003010	Jonah.3.10	11	55	59	ὁδῶν	G3598	ὁδός	N-GPF	0.9965	unique	inf	a	one reading	ὁδῶν	1	G3598|ὁδός|N-GPF|nt-form|1										
+32003010	Jonah.3.10	12	60	65	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	27.59	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32003010	Jonah.3.10	13	66	69	τῶν	G3588	ὁ	T-GPM	0.5960	model	5.365	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPN|nt-form|264									
+32003010	Jonah.3.10	14	70	77	πονηρῶν	G4190	πονηρός	A-GPM	0.7052	model	5.365	b	several parses	πονηρῶν	2	G4190|πονηρός|A-GPN|nt-form|4 ; G4190|πονηρός|A-GPM|nt-form|2	G4190|πονηρός|A-GPN|nt-form|4									
+32003010	Jonah.3.10	15	79	82	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003010	Jonah.3.10	16	83	93	μετενόησεν	G3340	μετανοέω	V-AAI-3S	0.9744	unique	inf	a	one reading	μετενόησεν	1	G3340|μετανοέω|V-AAI-3S|analyser|1										
+32003010	Jonah.3.10	17	94	95	ὁ	G3588	ὁ	T-NSM	0.9982	model	187.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32003010	Jonah.3.10	18	96	100	Θεὸς	G2316	θεός	N-NSM-T	0.9982	model	216.3	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32003010	Jonah.3.10	19	101	104	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32003010	Jonah.3.10	20	105	107	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32003010	Jonah.3.10	21	108	113	κακίᾳ	G2549	κακία	N-DSF	0.9965	unique	inf	a	one reading	κακίᾳ	1	G2549|κακία|N-DSF|nt-form|4										
+32003010	Jonah.3.10	22	115	116	ᾗ	G3739	ὅς, ἥ	R-DSF	0.8944	model	27.44	b	several parses	ᾗ	2	G3739|ὅς, ἥ|R-DSF|nt-form|38 ; G3739|ὅς, ἥ|R-NSF|nt-form|1	G3739|ὅς, ἥ|R-NSF|nt-form|1									
+32003010	Jonah.3.10	23	117	124	ἐλάλησε	G2980	λαλέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐλάλησε	1	G2980|λαλέω|V-AAI-3S|nt-form:movable-nu|31										
+32003010	Jonah.3.10	24	125	128	τοῦ	G3588	ὁ	T-GSN	0.9420	model	30.98	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32003010	Jonah.3.10	25	129	136	ποιῆσαι	G4160	ποιέω	V-AAN	0.9965	unique	inf	a	one reading	ποιῆσαι	1	G4160|ποιέω|V-AAN|nt-form|49										
+32003010	Jonah.3.10	26	137	143	αὐτοῖς	G846	αὐτός	P-DPM	0.8944	model	27.29	b	several parses	αὐτοῖσ	2	G846|αὐτός|P-DPM|nt-form|564 ; G846|αὐτός|P-DPN|nt-form|20	G846|αὐτός|P-DPN|nt-form|20									
+32003010	Jonah.3.10	27	145	148	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32003010	Jonah.3.10	28	149	152	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+32003010	Jonah.3.10	29	153	160	ἐποίησε	G4160	ποιέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐποίησε	1	G4160|ποιέω|V-AAI-3S|nt-form:movable-nu|77										
+32004001	Jonah.4.1	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004001	Jonah.4.1	1	4	11	ἐλυπήθη	G3076	λυπέω	V-API-3S	0.9965	unique	inf	a	one reading	ἐλυπήθη	1	G3076|λυπέω|V-API-3S|nt-form|1										
+32004001	Jonah.4.1	2	12	17	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32004001	Jonah.4.1	3	18	23	λύπην	G3077	λύπη	N-ASF	0.9965	unique	inf	a	one reading	λύπην	1	G3077|λύπη|N-ASF|nt-form|5										
+32004001	Jonah.4.1	4	24	31	μεγάλην	G3173	μέγας	A-ASF	0.9965	unique	inf	a	one reading	μεγάλην	1	G3173|μέγας|A-ASF|nt-form|20										
+32004001	Jonah.4.1	5	33	36	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004001	Jonah.4.1	6	37	45	συνεχύθη	G4797	συγχέω	V-API-3S	0.9965	unique	inf	a	one reading	συνεχύθη	1	G4797|συγχέω|V-API-3S|nt-form|1										
+32004002	Jonah.4.2	0	0	3	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004002	Jonah.4.2	1	4	14	προσεύξατο	G4336	προσεύχομαι	V-ADI-3S	0.9744	unique	inf	a	one reading	προσεύξατο	1	G4336|προσεύχομαι|V-ADI-3S|analyser|1										
+32004002	Jonah.4.2	2	15	19	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32004002	Jonah.4.2	3	20	26	Κύριον	G2962	κύριος	N-ASM-T	0.9965	unique	inf	a	one reading	κύριον	1	G2962|κύριος|N-ASM-T|nt-form|64		G2962|κύριος|N-ASM|nt-form|4|capitalised mid-sentence: a name or title								
+32004002	Jonah.4.2	4	28	31	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004002	Jonah.4.2	5	32	37	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32004002	Jonah.4.2	6	39	44	Κύριε	G2962	κύριος	N-VSM-T	0.8944	model	19.5	b	several parses	κύριε	2	G2962|κύριος|N-VSM-T|nt-form|100 ; G2962|κύριος|N-VSM|nt-form|27	G2962|κύριος|N-VSM|nt-form|27									
+32004002	Jonah.4.2	7	46	49	οὐχ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐχ	1	G3756|οὐ|PRT-N|nt-form|108										
+32004002	Jonah.4.2	8	50	55	οὗτοι	G3778	οὗτος	D-NPM	0.9965	unique	inf	a	one reading	οὗτοι	1	G3778|οὗτος|D-NPM|nt-form|75										
+32004002	Jonah.4.2	9	56	58	οἱ	G3588	ὁ	T-NPM	0.9982	model	178.2	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+32004002	Jonah.4.2	10	59	64	λόγοι	G3056	λόγος	N-NPM	0.9899	model	135.4	b	several parses	λόγοι	2	G3056|λόγος|N-NPM|nt-form|10 ; G3056|λόγος|N-VPM|nt-form+paradigm|0	G3056|λόγος|N-VPM|nt-form+paradigm|0									
+32004002	Jonah.4.2	11	65	68	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32004002	Jonah.4.2	12	70	73	ἔτι	G2089	ἔτι	ADV	0.9965	unique	inf	a	one reading	ἔτι	1	G2089|ἔτι|ADV|nt-form|95										
+32004002	Jonah.4.2	13	74	79	ὄντος	G1510	εἰμί	V-PAP-GSM	0.7052	model	16.37	b	several parses	ὄντοσ	2	G1510|εἰμί|V-PAP-GSM|nt-form|14 ; G1510|εἰμί|V-PAP-GSN|nt-form|1	G1510|εἰμί|V-PAP-GSN|nt-form|1									
+32004002	Jonah.4.2	14	80	83	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32004002	Jonah.4.2	15	84	86	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32004002	Jonah.4.2	16	87	89	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32004002	Jonah.4.2	17	90	92	γῇ	G1093	γῆ	N-DSF	0.9965	unique	inf	a	one reading	γῇ	1	G1093|γῆ|N-DSF|nt-form|14										
+32004002	Jonah.4.2	18	93	96	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32004002	Jonah.4.2	19	98	101	δια	G1223	διά	PREP	0.9965	unique	inf	a	one reading	διά	1	G1223|διά|PREP|nt-form|535			1/2							
+32004002	Jonah.4.2	20	101	106	τοῦτο	G3778	οὗτος	D-ASN	0.9982	model	1091	b	several parses	τοῦτο	2	G3778|οὗτος|D-ASN|nt-form|242 ; G3778|οὗτος|D-NSN|nt-form|83	G3778|οὗτος|D-NSN|nt-form|83		2/2							
+32004002	Jonah.4.2	21	107	116	προέφθασα	G4399	προφθάνω	V-AAI-1S	0.9744	unique	inf	a	one reading	προέφθασα	1	G4399|προφθάνω|V-AAI-1S|analyser|1										
+32004002	Jonah.4.2	22	117	120	τοῦ	G3588	ὁ	T-GSN	0.9420	model	29.94	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32004002	Jonah.4.2	23	121	127	φυγεῖν	G5343	φεύγω	V-2AAN	0.9965	unique	inf	a	one reading	φυγεῖν	1	G5343|φεύγω|V-2AAN|nt-form|3										
+32004002	Jonah.4.2	24	128	131	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+32004002	Jonah.4.2	25	132	138	Θαρσὶς	H8659	Θαρσίς		0.9950	hebrew-verse	14.7161	d	name-like: only common readings	θαρσίσ	0			G7642|θαρσείς|N-NSF|analyser|0.8|capitalised mid-sentence: a name or title ; G7642|θαρσείς|N-VSF|analyser|0.8|capitalised mid-sentence: a name or title		32004002#18 H8659H תַּרְשִׁ֑ישָׁ Tarshish	14.72	N-???-L	tahot			transliterates
+32004002	Jonah.4.2	26	140	145	διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+32004002	Jonah.4.2	27	146	151	ἔγνων	G1097	γινώσκω	V-2AAI-1S	0.9965	unique	inf	a	one reading	ἔγνων	1	G1097|γινώσκω|V-2AAI-1S|nt-form|6										
+32004002	Jonah.4.2	28	152	155	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32004002	Jonah.4.2	29	156	158	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32004002	Jonah.4.2	30	159	166	ἐλεήμων	G1655	ἐλεήμων	A-NSM	0.9965	unique	inf	a	one reading	ἐλεήμων	1	G1655|ἐλεήμων|A-NSM|nt-form|1										
+32004002	Jonah.4.2	31	167	170	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004002	Jonah.4.2	32	171	180	οἰκτίρμων	G3629	οἰκτίρμων	A-NSM	0.9965	unique	inf	a	one reading	οἰκτίρμων	1	G3629|οἰκτίρμων|A-NSM|nt-form|2										
+32004002	Jonah.4.2	33	182	192	μακρόθυμος	G8235	μακρόθυμος	A-NSM	0.9188	model	45.99	b	several parses	μακρόθυμοσ	3	G8235|μακρόθυμος|A-NSM|analyser|1 ; G8235|μακρόθυμος|A-VSM|analyser|0.2 ; G8235|μακρόθυμος|A-NSF|analyser|0.15	G8235|μακρόθυμος|A-NSF|analyser|0.15									
+32004002	Jonah.4.2	34	193	196	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004002	Jonah.4.2	35	197	206	πολυέλεος	G8849	πολυέλεος	A-NSM	0.9735	model	117.3	b	several parses	πολυέλεοσ	2	G8849|πολυέλεος|A-NSM|analyser|1 ; G8849|πολυέλεος|A-VSM|analyser|0.2	G8849|πολυέλεος|A-VSM|analyser|0.2									
+32004002	Jonah.4.2	36	208	211	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004002	Jonah.4.2	37	212	220	μετανοῶν	G3340	μετανοέω	V-PAP-NSM	0.9735	model	114.9	b	several parses	μετανοῶν	2	G3340|μετανοέω|V-PAP-NSM|analyser|1 ; G3340|μετανοέω|V-PAP-VSM|analyser|1	G3340|μετανοέω|V-PAP-VSM|analyser|1									
+32004002	Jonah.4.2	38	221	224	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32004002	Jonah.4.2	39	225	229	ταῖς	G3588	ὁ	T-DPF	0.9965	unique	inf	a	one reading	ταῖσ	1	G3588|ὁ|T-DPF|nt-form|206										
+32004002	Jonah.4.2	40	230	237	κακίαις	G2549	κακία	N-DPF	0.9744	unique	inf	a	one reading	κακίαισ	1	G2549|κακία|N-DPF|analyser|1										
+32004003	Jonah.4.3	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004003	Jonah.4.3	1	4	7	νῦν	G3568	νῦν	ADV	0.9965	unique	inf	a	one reading	νῦν	1	G3568|νῦν|ADV|nt-form|149										
+32004003	Jonah.4.3	2	9	16	δέσποτα	G1203	δεσπότης	N-VSM	0.9965	unique	inf	a	one reading	δέσποτα	1	G1203|δεσπότης|N-VSM|nt-form|2										
+32004003	Jonah.4.3	3	17	22	Κύριε	G2962	κύριος	N-VSM-T	0.9965	unique	inf	a	one reading	κύριε	1	G2962|κύριος|N-VSM-T|nt-form|100		G2962|κύριος|N-VSM|nt-form|27|capitalised mid-sentence: a name or title								
+32004003	Jonah.4.3	4	24	28	λάβε	G2983	λαμβάνω	V-2AAM-2S	0.9965	unique	inf	a	one reading	λάβε	1	G2983|λαμβάνω|V-2AAM-2S|nt-form|2										
+32004003	Jonah.4.3	5	29	32	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32004003	Jonah.4.3	6	33	38	ψυχήν	G5590	ψυχή	N-ASF	0.9965	unique	inf	a	one reading	ψυχήν	1	G5590|ψυχή|N-ASF|nt-form|41										
+32004003	Jonah.4.3	7	39	42	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+32004003	Jonah.4.3	8	43	46	ἀπʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπ’	1	G575|ἀπό|PREP|nt-form|134										
+32004003	Jonah.4.3	9	47	51	ἐμοῦ	G1473	ἐγώ	S-1SGSN	0.9735	model	25.87	c	several words	ἐμοῦ	2	G1473|ἐγώ|S-1SGSN|nt-form|111 ; G1473|ἐμός|S-1SGSN|nt-form|3	G1473|ἐμός|S-1SGSN|nt-form|3									
+32004003	Jonah.4.3	10	53	56	ὅτι	G3754	ὅτι	CONJ	0.9965	unique	inf	a	one reading	ὅτι	1	G3754|ὅτι|CONJ|nt-form|1331										
+32004003	Jonah.4.3	11	57	62	καλὸν	G2570	καλός	A-NSN	0.6386	model	23.58	b	several parses	καλόν	4	G2570|καλός|A-NSN|nt-form|28 ; G2570|καλός|A-ASN|nt-form|16 ; G2570|καλός|A-ASM|nt-form|11 ; G2570|καλός|A-VSN|nt-form+paradigm|0	G2570|καλός|A-ASN|nt-form|16									
+32004003	Jonah.4.3	12	63	65	τὸ	G3588	ὁ	T-ASN	0.8462	model	39.39	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+32004003	Jonah.4.3	13	66	75	ἀποθανεῖν	G599	ἀποθνήσκω	V-2AAN	0.9965	unique	inf	a	one reading	ἀποθανεῖν	1	G599|ἀποθνήσκω|V-2AAN|nt-form|16										
+32004003	Jonah.4.3	14	76	78	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32004003	Jonah.4.3	15	79	80	ἢ	G2228	ἤ	CONJ	0.9965	unique	inf	a	one reading	ἤ	1	G2228|ἤ|CONJ|nt-form|366										
+32004003	Jonah.4.3	16	81	84	ζῇν	G20489	ζῆ	N-ASF	0.9371	model	58.14	c	several words	ζῇν	2	G20489|ζῆ|N-ASF|analyser|1 ; G2198|ζάω|V-PAN|analyser|0.8878	G2198|ζάω|V-PAN|analyser|0.8878									
+32004003	Jonah.4.3	17	85	87	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32004004	Jonah.4.4	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004004	Jonah.4.4	1	4	8	εἶπε	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.8944	model	19.27	b	several parses	εἶπε	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|2 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1									
+32004004	Jonah.4.4	2	9	15	Κύριος	G2962	κύριος	N-NSM-T	0.9637	model	46.92	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32004004	Jonah.4.4	3	16	20	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32004004	Jonah.4.4	4	21	26	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32004005#2 H3124 יוֹנָה֙ Jonah	19.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32004004	Jonah.4.4	5	28	30	εἰ	G1487	εἰ	COND	0.9965	unique	inf	a	one reading	εἰ	1	G1487|εἰ|COND|nt-form|439										
+32004004	Jonah.4.4	6	31	37	σφόδρα	G4970	σφόδρα	ADV	0.9965	unique	inf	a	one reading	σφόδρα	1	G4970|σφόδρα|ADV|nt-form|11										
+32004004	Jonah.4.4	7	38	47	λελύπησαι	G3076	λυπέω	V-RPI-2S	0.9208	model	24.27	b	several parses	λελύπησαι	2	G3076|λυπέω|V-RPI-2S|analyser|1 ; G3076|λυπέω|V-RMI-2S|analyser|0.0778	G3076|λυπέω|V-RMI-2S|analyser|0.0778									
+32004004	Jonah.4.4	8	48	50	σύ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32004005	Jonah.4.5	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004005	Jonah.4.5	1	4	11	ἐξῆλθεν	G1831	ἐξέρχομαι	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἐξῆλθεν	1	G1831|ἐξέρχομαι|V-2AAI-3S|nt-form|68										
+32004005	Jonah.4.5	2	12	17	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32004005	Jonah.4.5	3	18	20	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+32004005	Jonah.4.5	4	21	24	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004005	Jonah.4.5	5	25	31	πόλεως	G4172	πόλις	N-GSF	0.9965	unique	inf	a	one reading	πόλεωσ	1	G4172|πόλις|N-GSF|nt-form|36										
+32004005	Jonah.4.5	6	33	36	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004005	Jonah.4.5	7	37	45	ἐκάθισεν	G2523	καθίζω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐκάθισεν	1	G2523|καθίζω|V-AAI-3S|nt-form|13										
+32004005	Jonah.4.5	8	46	54	ἀπέναντι	G561	ἀπέναντι	PREP	0.9965	unique	inf	a	one reading	ἀπέναντι	1	G561|ἀπέναντι|PREP|nt-form|5										
+32004005	Jonah.4.5	9	55	58	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004005	Jonah.4.5	10	59	65	πόλεως	G4172	πόλις	N-GSF	0.9965	unique	inf	a	one reading	πόλεωσ	1	G4172|πόλις|N-GSF|nt-form|36										
+32004005	Jonah.4.5	11	67	70	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004005	Jonah.4.5	12	71	79	ἐποίησεν	G4160	ποιέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐποίησεν	1	G4160|ποιέω|V-AAI-3S|nt-form|77										
+32004005	Jonah.4.5	13	80	84	αὐτῷ	G846	αὐτός	P-DSM	0.7052	model	15.44	b	several parses	αὐτῷ	2	G846|αὐτός|P-DSM|nt-form|875 ; G846|αὐτός|P-DSN|nt-form|22	G846|αὐτός|P-DSN|nt-form|22									
+32004005	Jonah.4.5	14	85	89	ἐκεῖ	G1563	ἐκεῖ	ADV	0.9965	unique	inf	a	one reading	ἐκεῖ	1	G1563|ἐκεῖ|ADV|nt-form|100										
+32004005	Jonah.4.5	15	90	96	σκηνὴν	G4633	σκηνή	N-ASF	0.9965	unique	inf	a	one reading	σκηνήν	1	G4633|σκηνή|N-ASF|nt-form|6										
+32004005	Jonah.4.5	16	98	101	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004005	Jonah.4.5	17	102	109	ἐκάθητο	G2521	κάθημαι	V-INI-3S	0.9965	unique	inf	a	one reading	ἐκάθητο	1	G2521|κάθημαι|V-INI-3S|nt-form|11										
+32004005	Jonah.4.5	18	110	117	ὑποκάτω	G5270	ὑποκάτω	PREP	0.9965	unique	inf	a	one reading	ὑποκάτω	1	G5270|ὑποκάτω|PREP|nt-form|11										
+32004005	Jonah.4.5	19	118	123	αὐτῆς	G846	αὐτός	P-GSF	0.9965	unique	inf	a	one reading	αὐτῆσ	1	G846|αὐτός|P-GSF|nt-form|176										
+32004005	Jonah.4.5	20	125	128	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+32004005	Jonah.4.5	21	129	131	οὗ	G3739	ὅς, ἥ	R-GSM	0.6705	model	14.79	c	several words	οὗ	3	G3739|ὅς, ἥ|R-GSM|nt-form|101 ; G3757|οὗ|ADV|nt-form|25 ; G3739|ὅς, ἥ|R-GSN|nt-form|18	G3739|ὅς, ἥ|R-GSN|nt-form|18									
+32004005	Jonah.4.5	22	132	137	ἀπίδῃ	G542	ἀπεῖδον	V-2AAS-3S	0.9208	model	25.36	b	several parses	ἀπίδῃ	2	G542|ἀπεῖδον|V-2AAS-3S|analyser|1 ; G542|ἀπεῖδον|V-2AMS-2S|analyser|1	G542|ἀπεῖδον|V-2AMS-2S|analyser|1									
+32004005	Jonah.4.5	23	138	140	τί	G5101	τίς	I-NSN	0.7245	model	7.228	c	several words	τί	4	G5101|τίς|I-ASN|nt-form|269 ; G5101|τίς|I-NSN|nt-form|80 ; G5100|τις|X-NSN|nt-form|4 ; G5100|τις|X-ASN|nt-form|1	G5101|τίς|I-ASN|nt-form|269									
+32004005	Jonah.4.5	24	141	146	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+32004005	Jonah.4.5	25	147	149	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32004005	Jonah.4.5	26	150	155	πόλει	G4172	πόλις	N-DSF	0.9965	unique	inf	a	one reading	πόλει	1	G4172|πόλις|N-DSF|nt-form|22										
+32004006	Jonah.4.6	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004006	Jonah.4.6	1	4	13	προσέταξε	G4367	προστάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	προσέταξε	1	G4367|προστάσσω|V-AAI-3S|nt-form:movable-nu|5										
+32004006	Jonah.4.6	2	14	20	Κύριος	G2962	κύριος	N-NSM-T	0.9982	model	195.3	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32004006	Jonah.4.6	3	21	22	ὁ	G3588	ὁ	T-NSM	0.9982	model	187.5	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32004006	Jonah.4.6	4	23	27	Θεὸς	G2316	θεός	N-NSM-T	0.9982	model	206.6	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32004006	Jonah.4.6	5	28	37	κολοκύνθῃ	G8057	κολοκύνθη	N-DSF	0.5978	model	9.706	b	several parses	κολοκύνθῃ	3	G8057|κολοκύνθη|N-DSF|analyser|1 ; G8057|κολοκύνθη|N-NSF|analyser|0.8 ; G8057|κολοκύνθη|N-VSF|analyser|0.8	G8057|κολοκύνθη|N-NSF|analyser|0.8									
+32004006	Jonah.4.6	6	39	42	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004006	Jonah.4.6	7	43	48	ἀνέβη	G305	ἀναβαίνω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἀνέβη	1	G305|ἀναβαίνω|V-2AAI-3S|nt-form|22										
+32004006	Jonah.4.6	8	49	53	ὑπὲρ	G5228	ὑπέρ	PREP	0.9965	unique	inf	a	one reading	ὑπέρ	1	G5228|ὑπέρ|PREP|nt-form|153										
+32004006	Jonah.4.6	9	54	61	κεφαλῆς	G2776	κεφαλή	N-GSF	0.9965	unique	inf	a	one reading	κεφαλῆσ	1	G2776|κεφαλή|N-GSF|nt-form|16										
+32004006	Jonah.4.6	10	62	65	τοῦ	G3588	ὁ	T-GSM	0.9945	model	75.03	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32004006	Jonah.4.6	11	66	70	Ἰωνᾶ	G2495	Ἰωνᾶς	N-GSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶ	1	G2495|Ἰωνᾶς|N-GSM-P|nt-form|7										
+32004006	Jonah.4.6	12	72	75	τοῦ	G3588	ὁ	T-GSM	0.7245	model	10.33	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32004006	Jonah.4.6	13	76	81	εἶναι	G1511	εἰμί	V-PAN	0.9965	unique	inf	a	one reading	εἶναι	1	G1511|εἰμί|V-PAN|nt-form|127										
+32004006	Jonah.4.6	14	82	87	σκιὰν	G4639	σκιά	N-ASF	0.9965	unique	inf	a	one reading	σκιάν	1	G4639|σκιά|N-ASF|nt-form|2										
+32004006	Jonah.4.6	15	88	95	ὑπεράνω	G5231	ὑπεράνω	PREP	0.9965	unique	inf	a	one reading	ὑπεράνω	1	G5231|ὑπεράνω|PREP|nt-form|3										
+32004006	Jonah.4.6	16	96	99	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004006	Jonah.4.6	17	100	107	κεφαλῆς	G2776	κεφαλή	N-GSF	0.9965	unique	inf	a	one reading	κεφαλῆσ	1	G2776|κεφαλή|N-GSF|nt-form|16										
+32004006	Jonah.4.6	18	108	113	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	28.04	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32004006	Jonah.4.6	19	115	118	τοῦ	G3588	ὁ	T-GSN	0.9420	model	23.71	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+32004006	Jonah.4.6	20	119	127	σκιάζειν	G9106	σκιάζω	V-PAN	0.9744	unique	inf	a	one reading	σκιάζειν	1	G9106|σκιάζω|V-PAN|analyser|1										
+32004006	Jonah.4.6	21	128	132	αὐτῷ	G846	αὐτός	P-DSM	0.9513	model	39.02	b	several parses	αὐτῷ	2	G846|αὐτός|P-DSM|nt-form|875 ; G846|αὐτός|P-DSN|nt-form|22	G846|αὐτός|P-DSN|nt-form|22									
+32004006	Jonah.4.6	22	133	136	ἀπὸ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀπό	1	G575|ἀπό|PREP|nt-form|507										
+32004006	Jonah.4.6	23	137	140	τῶν	G3588	ὁ	T-GPN	0.7607	model	15.05	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+32004006	Jonah.4.6	24	141	146	κακῶν	G2556	κακός	A-GPN	0.7052	model	15.05	b	several parses	κακῶν	2	G2556|κακός|A-GPN|nt-form|4 ; G2556|κακός|A-GPM|nt-form+paradigm|0	G2556|κακός|A-GPM|nt-form+paradigm|0									
+32004006	Jonah.4.6	25	147	152	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	29.14	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32004006	Jonah.4.6	26	154	157	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004006	Jonah.4.6	27	158	163	ἐχάρη	G5463	χαίρω	V-2AOI-3S	0.9965	unique	inf	a	one reading	ἐχάρη	1	G5463|χαίρω|V-2AOI-3S|nt-form|3										
+32004006	Jonah.4.6	28	164	169	Ἰωνᾶς	G2495	Ἰωνᾶς	N-NSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶσ	1	G2495|Ἰωνᾶς|N-NSM-P|nt-form|2										
+32004006	Jonah.4.6	29	170	173	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32004006	Jonah.4.6	30	174	176	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32004006	Jonah.4.6	31	177	186	κολοκύνθῃ	G8057	κολοκύνθη	N-DSF	0.9298	model	97.59	b	several parses	κολοκύνθῃ	3	G8057|κολοκύνθη|N-DSF|analyser|1 ; G8057|κολοκύνθη|N-NSF|analyser|0.8 ; G8057|κολοκύνθη|N-VSF|analyser|0.8	G8057|κολοκύνθη|N-NSF|analyser|0.8									
+32004006	Jonah.4.6	32	187	192	χαρὰν	G5479	χαρά	N-ASF	0.9965	unique	inf	a	one reading	χαράν	1	G5479|χαρά|N-ASF|nt-form|14										
+32004006	Jonah.4.6	33	193	200	μεγάλην	G3173	μέγας	A-ASF	0.9965	unique	inf	a	one reading	μεγάλην	1	G3173|μέγας|A-ASF|nt-form|20										
+32004007	Jonah.4.7	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004007	Jonah.4.7	1	4	14	προσέταξεν	G4367	προστάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	προσέταξεν	1	G4367|προστάσσω|V-AAI-3S|nt-form|5										
+32004007	Jonah.4.7	2	15	16	ὁ	G3588	ὁ	T-NSM	0.9982	model	190.1	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32004007	Jonah.4.7	3	17	21	Θεὸς	G2316	θεός	N-NSM-T	0.9982	model	213.8	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32004007	Jonah.4.7	4	22	29	σκώληκι	G4663	σκώληξ	N-DSM	0.9744	unique	inf	a	one reading	σκώληκι	1	G4663|σκώληξ|N-DSM|analyser|1										
+32004007	Jonah.4.7	5	30	36	ἑωθινῇ	G7595	ἑωθινός	A-DSF	0.9744	unique	inf	a	one reading	ἑωθινῇ	1	G7595|ἑωθινός|A-DSF|analyser|1										
+32004007	Jonah.4.7	6	37	39	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32004007	Jonah.4.7	7	40	48	ἐπαυρίον	G1887	ἐπαύριον	ADV	0.9333	tolerant	inf	u	tolerant match only	ἐπαυρίον	1	G1887|ἐπαύριον|ADV|nt-tolerant|17										
+32004007	Jonah.4.7	8	50	53	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004007	Jonah.4.7	9	54	61	ἐπάταξε	G3960	πατάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐπάταξε	1	G3960|πατάσσω|V-AAI-3S|nt-form:movable-nu|2										
+32004007	Jonah.4.7	10	62	65	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32004007	Jonah.4.7	11	66	76	κολόκυνθαν							e	no candidate	κολόκυνθαν	0											
+32004007	Jonah.4.7	12	78	81	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004007	Jonah.4.7	13	82	92	ἀπεξηράνθη	G6462	ἀποξηραίνω	V-API-3S	0.9744	unique	inf	a	one reading	ἀπεξηράνθη	1	G6462|ἀποξηραίνω|V-API-3S|analyser|1										
+32004008	Jonah.4.8	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	1	4	11	ἐγένετο	G1096	γίνομαι	V-2ADI-3S	0.9965	unique	inf	a	one reading	ἐγένετο	1	G1096|γίνομαι|V-2ADI-3S|nt-form|206										
+32004008	Jonah.4.8	2	12	15	ἅμα	G260	ἅμα	ADV	0.9965	unique	inf	a	one reading	ἅμα	1	G260|ἅμα|ADV|nt-form|10										
+32004008	Jonah.4.8	3	16	18	τῷ	G3588	ὁ	T-DSN	0.7052	model	13.83	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSM|nt-form|863									
+32004008	Jonah.4.8	4	19	28	ἀνατεῖλαι	G393	ἀνατέλλω	V-AAN	0.9744	unique	inf	a	one reading	ἀνατεῖλαι	1	G393|ἀνατέλλω|V-AAN|analyser|1										
+32004008	Jonah.4.8	5	29	32	τὸν	G3588	ὁ	T-ASM	0.9940	model	154.4	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+32004008	Jonah.4.8	6	33	38	ἥλιον	G2246	ἥλιος	N-ASM	0.9965	unique	inf	a	one reading	ἥλιον	1	G2246|ἥλιος|N-ASM|nt-form|4										
+32004008	Jonah.4.8	7	40	43	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	8	44	54	προσέταξεν	G4367	προστάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	προσέταξεν	1	G4367|προστάσσω|V-AAI-3S|nt-form|5										
+32004008	Jonah.4.8	9	55	56	ὁ	G3588	ὁ	T-NSM	0.9982	model	184.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32004008	Jonah.4.8	10	57	61	Θεὸς	G2316	θεός	N-NSM-T	0.9982	model	199.7	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32004008	Jonah.4.8	11	62	70	πνεύματι	G4151	πνεῦμα	N-DSN	0.9965	unique	inf	a	one reading	πνεύματι	1	G4151|πνεῦμα|N-DSN|nt-form|94										
+32004008	Jonah.4.8	12	71	78	καύσωνι	G2742	καύσων	N-DSM	0.9965	unique	inf	a	one reading	καύσωνι	1	G2742|καύσων|N-DSM|nt-form|1										
+32004008	Jonah.4.8	13	79	89	συγκαίοντι	G9221	συγκαίω	V-PAP-DSM	0.9441	model	42.93	b	several parses	συγκαίοντι	2	G9221|συγκαίω|V-PAP-DSM|analyser|1 ; G9221|συγκαίω|V-PAP-DSN|analyser|1	G9221|συγκαίω|V-PAP-DSN|analyser|1									
+32004008	Jonah.4.8	14	91	94	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	15	95	103	ἐπάταξεν	G3960	πατάσσω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐπάταξεν	1	G3960|πατάσσω|V-AAI-3S|nt-form|2										
+32004008	Jonah.4.8	16	104	105	ὁ	G3588	ὁ	T-NSM	0.9982	model	179.5	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32004008	Jonah.4.8	17	106	111	ἥλιος	G2246	ἥλιος	N-NSM	0.9965	unique	inf	a	one reading	ἥλιοσ	1	G2246|ἥλιος|N-NSM|nt-form|14										
+32004008	Jonah.4.8	18	112	115	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32004008	Jonah.4.8	19	116	119	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32004008	Jonah.4.8	20	120	127	κεφαλὴν	G2776	κεφαλή	N-ASF	0.9965	unique	inf	a	one reading	κεφαλήν	1	G2776|κεφαλή|N-ASF|nt-form|28										
+32004008	Jonah.4.8	21	128	131	τοῦ	G3588	ὁ	T-GSM	0.9972	model	75.85	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+32004008	Jonah.4.8	22	132	136	Ἰωνᾶ	G2495	Ἰωνᾶς	N-GSM-P	0.9965	unique	inf	a	one reading	ἰωνᾶ	1	G2495|Ἰωνᾶς|N-GSM-P|nt-form|7										
+32004008	Jonah.4.8	23	138	141	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	24	142	153	ὠλιγοψύχησε	G8485	ὀλιγοψυχέω	V-AAI-3S	0.9744	unique	inf	a	one reading	ὠλιγοψύχησε	1	G8485|ὀλιγοψυχέω|V-AAI-3S|analyser|1										
+32004008	Jonah.4.8	25	155	158	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	26	159	168	ἀπελέγετο	G6455	ἀπολέγω	V-INI-3S	0.5978	model	0.114	b	several parses	ἀπελέγετο	3	G6455|ἀπολέγω|V-IPI-3S|analyser|1 ; G6455|ἀπολέγω|V-INI-3S|analyser|0.2143 ; G6455|ἀπολέγω|V-IMI-3S|analyser|0.0924	G6455|ἀπολέγω|V-IPI-3S|analyser|1									
+32004008	Jonah.4.8	27	169	172	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+32004008	Jonah.4.8	28	173	178	ψυχὴν	G5590	ψυχή	N-ASF	0.9965	unique	inf	a	one reading	ψυχήν	1	G5590|ψυχή|N-ASF|nt-form|41										
+32004008	Jonah.4.8	29	179	184	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	23.73	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+32004008	Jonah.4.8	30	186	189	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004008	Jonah.4.8	31	190	194	εἶπε	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9513	model	40.81	b	several parses	εἶπε	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|2 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1									
+32004008	Jonah.4.8	32	196	201	καλόν	G2570	καλός	A-NSN	0.9157	model	54.52	b	several parses	καλόν	4	G2570|καλός|A-NSN|nt-form|28 ; G2570|καλός|A-ASN|nt-form|16 ; G2570|καλός|A-ASM|nt-form|11 ; G2570|καλός|A-VSN|nt-form+paradigm|0	G2570|καλός|A-ASM|nt-form|11									
+32004008	Jonah.4.8	33	202	205	μοι	G3165	ἐγώ	P-1DS	0.9965	unique	inf	a	one reading	μοι	1	G3165|ἐγώ|P-1DS|nt-form|235										
+32004008	Jonah.4.8	34	206	215	ἀποθανεῖν	G599	ἀποθνήσκω	V-2AAN	0.9965	unique	inf	a	one reading	ἀποθανεῖν	1	G599|ἀποθνήσκω|V-2AAN|nt-form|16										
+32004008	Jonah.4.8	35	216	218	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+32004008	Jonah.4.8	36	219	220	ἢ	G2228	ἤ	CONJ	0.9965	unique	inf	a	one reading	ἤ	1	G2228|ἤ|CONJ|nt-form|366										
+32004008	Jonah.4.8	37	221	224	ζῇν	G20489	ζῆ	N-ASF	0.8171	model	23.28	c	several words	ζῇν	2	G20489|ζῆ|N-ASF|analyser|1 ; G2198|ζάω|V-PAN|analyser|0.8878	G2198|ζάω|V-PAN|analyser|0.8878									
+32004009	Jonah.4.9	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004009	Jonah.4.9	1	4	9	εἶπεν	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.9965	unique	inf	a	one reading	εἶπεν	1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|626										
+32004009	Jonah.4.9	2	10	11	ὁ	G3588	ὁ	T-NSM	0.9899	model	131.8	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+32004009	Jonah.4.9	3	12	16	Θεὸς	G2316	θεός	N-NSM-T	0.9899	model	135.2	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+32004009	Jonah.4.9	4	17	21	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+32004009	Jonah.4.9	5	22	27	Ἰωνᾶν	G2494	Ἰωνάν		0.9333	tolerant	inf	u	tolerant match only	ἰωνᾶν	1	G2494|Ἰωνάν||tbesg-tolerant|1				32004009#4 H3124 יוֹנָ֔ה Jonah	20.00			the Hebrew suggests H3124 Jonah; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+32004009	Jonah.4.9	6	29	31	εἰ	G1487	εἰ	COND	0.9965	unique	inf	a	one reading	εἰ	1	G1487|εἰ|COND|nt-form|439										
+32004009	Jonah.4.9	7	32	38	σφόδρα	G4970	σφόδρα	ADV	0.9965	unique	inf	a	one reading	σφόδρα	1	G4970|σφόδρα|ADV|nt-form|11										
+32004009	Jonah.4.9	8	39	48	λελύπησαι	G3076	λυπέω	V-RPI-2S	0.9208	model	24.27	b	several parses	λελύπησαι	2	G3076|λυπέω|V-RPI-2S|analyser|1 ; G3076|λυπέω|V-RMI-2S|analyser|0.0778	G3076|λυπέω|V-RMI-2S|analyser|0.0778									
+32004009	Jonah.4.9	9	49	51	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32004009	Jonah.4.9	10	52	55	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+32004009	Jonah.4.9	11	56	58	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+32004009	Jonah.4.9	12	59	68	κολοκύνθῃ	G8057	κολοκύνθη	N-DSF	0.9503	model	128.8	b	several parses	κολοκύνθῃ	3	G8057|κολοκύνθη|N-DSF|analyser|1 ; G8057|κολοκύνθη|N-NSF|analyser|0.8 ; G8057|κολοκύνθη|N-VSF|analyser|0.8	G8057|κολοκύνθη|N-NSF|analyser|0.8									
+32004009	Jonah.4.9	13	70	73	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004009	Jonah.4.9	14	74	78	εἶπε	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.7052	model	11.94	b	several parses	εἶπε	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|2 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1									
+32004009	Jonah.4.9	15	80	86	σφόδρα	G4970	σφόδρα	ADV	0.9965	unique	inf	a	one reading	σφόδρα	1	G4970|σφόδρα|ADV|nt-form|11										
+32004009	Jonah.4.9	16	87	96	λελύπημαι	G3076	λυπέω	V-RPI-1S	0.9208	model	20.69	b	several parses	λελύπημαι	2	G3076|λυπέω|V-RPI-1S|analyser|1 ; G3076|λυπέω|V-RMI-1S|analyser|0.0778	G3076|λυπέω|V-RMI-1S|analyser|0.0778									
+32004009	Jonah.4.9	17	97	100	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32004009	Jonah.4.9	18	101	104	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+32004009	Jonah.4.9	19	105	112	θανάτου	G2288	θάνατος	N-GSM	0.9965	unique	inf	a	one reading	θανάτου	1	G2288|θάνατος|N-GSM|nt-form|53										
+32004010	Jonah.4.10	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004010	Jonah.4.10	1	4	8	εἶπε	G2036	ἔπω, ἐρῶ, εἶπον	V-2AAI-3S	0.8944	model	22.8	b	several parses	εἶπε	2	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAI-3S|nt-form|2 ; G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1	G2036|ἔπω, ἐρῶ, εἶπον|V-2AAM-2S|nt-form|1									
+32004010	Jonah.4.10	2	9	15	Κύριος	G2962	κύριος	N-NSM-T	0.8944	model	22.8	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+32004010	Jonah.4.10	3	17	19	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+32004010	Jonah.4.10	4	20	26	ἐφείσω	G5339	φείδομαι	V-ADI-2S	0.9744	unique	inf	a	one reading	ἐφείσω	1	G5339|φείδομαι|V-ADI-2S|analyser|1										
+32004010	Jonah.4.10	5	27	31	ὑπὲρ	G5228	ὑπέρ	PREP	0.9965	unique	inf	a	one reading	ὑπέρ	1	G5228|ὑπέρ|PREP|nt-form|153										
+32004010	Jonah.4.10	6	32	35	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004010	Jonah.4.10	7	36	46	κολοκύνθης	G8057	κολοκύνθη	N-GSF	0.9744	unique	inf	a	one reading	κολοκύνθησ	1	G8057|κολοκύνθη|N-GSF|analyser|1										
+32004010	Jonah.4.10	8	48	52	ὑπὲρ	G5228	ὑπέρ	PREP	0.9965	unique	inf	a	one reading	ὑπέρ	1	G5228|ὑπέρ|PREP|nt-form|153										
+32004010	Jonah.4.10	9	53	55	ἧς	G3739	ὅς, ἥ	R-GSF	0.9965	unique	inf	a	one reading	ἧσ	1	G3739|ὅς, ἥ|R-GSF|nt-form|49										
+32004010	Jonah.4.10	10	56	59	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+32004010	Jonah.4.10	11	60	72	ἐκακοπάθησας	G2553	κακοπαθέω	V-AAI-2S	0.9744	unique	inf	a	one reading	ἐκακοπάθησασ	1	G2553|κακοπαθέω|V-AAI-2S|analyser|1										
+32004010	Jonah.4.10	12	73	76	ἐπʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπ’	1	G1909|ἐπί|PREP|nt-form|150										
+32004010	Jonah.4.10	13	77	82	αὐτὴν	G846	αὐτός	P-ASF	0.9894	model	59.26	c	several words	αὐτήν	2	G846|αὐτός|P-ASF|nt-form|142 ; G1438|ἑαυτοῦ|F-3ASF|nt-form|1	G1438|ἑαυτοῦ|F-3ASF|nt-form|1									
+32004010	Jonah.4.10	14	84	87	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004010	Jonah.4.10	15	88	92	οὐδὲ	G3761	οὐδέ	CONJ-N	0.9965	unique	inf	a	one reading	οὐδέ	1	G3761|οὐδέ|CONJ-N|nt-form|136										
+32004010	Jonah.4.10	16	93	102	ἐξέθρεψας	G1625	ἐκτρέφω	V-AAI-2S	0.9744	unique	inf	a	one reading	ἐξέθρεψασ	1	G1625|ἐκτρέφω|V-AAI-2S|analyser|1										
+32004010	Jonah.4.10	17	103	108	αὐτὴν	G846	αὐτός	P-ASF	0.9735	model	54.37	c	several words	αὐτήν	2	G846|αὐτός|P-ASF|nt-form|142 ; G1438|ἑαυτοῦ|F-3ASF|nt-form|1	G1438|ἑαυτοῦ|F-3ASF|nt-form|1									
+32004010	Jonah.4.10	18	110	111	ἣ	G3739	ὅς, ἥ	R-NSF	0.9735	model	57.83	c	several words	ἥ	2	G3588|ὁ|T-NSF|nt-form|5 ; G3739|ὅς, ἥ|R-NSF|nt-form|4	G3588|ὁ|T-NSF|nt-form|5									
+32004010	Jonah.4.10	19	112	119	ἐγενήθη	G1096	γίνομαι	V-2AOI-3S	0.9965	unique	inf	a	one reading	ἐγενήθη	1	G1096|γίνομαι|V-2AOI-3S|nt-form|12										
+32004010	Jonah.4.10	20	120	123	ὑπὸ	G5259	ὑπό	PREP	0.9965	unique	inf	a	one reading	ὑπό	1	G5259|ὑπό|PREP|nt-form|191										
+32004010	Jonah.4.10	21	124	129	νύκτα	G3571	νύξ	N-ASF	0.9965	unique	inf	a	one reading	νύκτα	1	G3571|νύξ|N-ASF|nt-form|4										
+32004010	Jonah.4.10	22	131	134	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004010	Jonah.4.10	23	135	138	ὑπὸ	G5259	ὑπό	PREP	0.9965	unique	inf	a	one reading	ὑπό	1	G5259|ὑπό|PREP|nt-form|191										
+32004010	Jonah.4.10	24	139	144	νύκτα	G3571	νύξ	N-ASF	0.9965	unique	inf	a	one reading	νύκτα	1	G3571|νύξ|N-ASF|nt-form|4										
+32004010	Jonah.4.10	25	145	152	ἀπώλετο	G622	ἀπολλύω	V-2AMI-3S	0.9965	unique	inf	a	one reading	ἀπώλετο	1	G622|ἀπολλύω|V-2AMI-3S|nt-form|5										
+32004011	Jonah.4.11	0	0	3	ἐγὼ	G1473	ἐγώ	P-1NS	0.9965	unique	inf	a	one reading	ἐγώ	1	G1473|ἐγώ|P-1NS|nt-form|366										
+32004011	Jonah.4.11	1	4	6	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+32004011	Jonah.4.11	2	7	9	οὐ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐ	1	G3756|οὐ|PRT-N|nt-form|687										
+32004011	Jonah.4.11	3	10	18	φείσομαι	G5339	φείδομαι	V-FDI-1S	0.9965	unique	inf	a	one reading	φείσομαι	1	G5339|φείδομαι|V-FDI-1S|nt-form|1										
+32004011	Jonah.4.11	4	19	23	ὑπὲρ	G5228	ὑπέρ	PREP	0.9965	unique	inf	a	one reading	ὑπέρ	1	G5228|ὑπέρ|PREP|nt-form|153										
+32004011	Jonah.4.11	5	24	30	Νινευὴ	G3535	Νινευΐ		0.9950	hebrew-verse	20	d	name-like: no candidate	νινευή	0					32004011#5 H5210 נִינְוֵ֖ה Nineveh	20.00	N-???-L	tbesg			transliterates
+32004011	Jonah.4.11	6	31	34	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004011	Jonah.4.11	7	35	41	πόλεως	G4172	πόλις	N-GSF	0.9965	unique	inf	a	one reading	πόλεωσ	1	G4172|πόλις|N-GSF|nt-form|36										
+32004011	Jonah.4.11	8	42	45	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+32004011	Jonah.4.11	9	46	53	μεγάλης	G3173	μέγας	A-GSF	0.9965	unique	inf	a	one reading	μεγάλησ	1	G3173|μέγας|A-GSF|nt-form|16										
+32004011	Jonah.4.11	10	55	57	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+32004011	Jonah.4.11	11	58	59	ᾗ	G3739	ὅς, ἥ	R-DSF	0.9982	model	1086	b	several parses	ᾗ	2	G3739|ὅς, ἥ|R-DSF|nt-form|38 ; G3739|ὅς, ἥ|R-NSF|nt-form|1	G3739|ὅς, ἥ|R-NSF|nt-form|1									
+32004011	Jonah.4.11	12	60	70	κατοικοῦσι	G2730	κατοικέω	V-PAP-DPM	0.8944	model	28.16	b	several parses	κατοικοῦσι	2	G2730|κατοικέω|V-PAP-DPM|nt-form:movable-nu|6 ; G2730|κατοικέω|V-PAP-DPN|nt-form:movable-nu+paradigm|0	G2730|κατοικέω|V-PAP-DPN|nt-form:movable-nu+paradigm|0									
+32004011	Jonah.4.11	13	71	78	πλείους	G4183	πολύς	A-NPM-C	0.6386	model	11.59	b	several parses	πλείουσ	4	G4183|πολύς|A-APF-C|nt-form|4 ; G4183|πολύς|A-NPM-C|nt-form|4 ; G4183|πολύς|A-NPF-C|nt-form|1 ; G4183|πολύς|A-VPM-C|nt-form+paradigm|0	G4183|πολύς|A-NPF-C|nt-form|1									
+32004011	Jonah.4.11	14	79	80	ἢ	G2228	ἤ	CONJ	0.9965	unique	inf	a	one reading	ἤ	1	G2228|ἤ|CONJ|nt-form|366										
+32004011	Jonah.4.11	15	81	87	δώδεκα	G1427	δώδεκα	A-NUI	0.9965	unique	inf	a	one reading	δώδεκα	1	G1427|δώδεκα|A-NUI|nt-form|77										
+32004011	Jonah.4.11	16	88	96	μυριάδες	G3461	μυριάς	N-NPF	0.9862	model	103.4	b	several parses	μυριάδεσ	2	G3461|μυριάς|N-NPF|nt-form|2 ; G3461|μυριάς|N-VPF|nt-form+paradigm|0	G3461|μυριάς|N-VPF|nt-form+paradigm|0									
+32004011	Jonah.4.11	17	97	105	ἀνθρώπων	G444	ἄνθρωπος	N-GPM	0.9965	unique	inf	a	one reading	ἀνθρώπων	1	G444|ἄνθρωπος|N-GPM|nt-form|100										
+32004011	Jonah.4.11	18	107	114	οἵτινες	G3748	ὅστις	R-NPM	0.9965	unique	inf	a	one reading	οἵτινεσ	1	G3748|ὅστις|R-NPM|nt-form|60										
+32004011	Jonah.4.11	19	115	118	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+32004011	Jonah.4.11	20	119	126	ἔγνωσαν	G1097	γινώσκω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἔγνωσαν	1	G1097|γινώσκω|V-2AAI-3P|nt-form|17										
+32004011	Jonah.4.11	21	127	133	δεξιὰν	G1188	δεξιός	A-ASF	0.9965	unique	inf	a	one reading	δεξιάν	1	G1188|δεξιός|A-ASF|nt-form|4										
+32004011	Jonah.4.11	22	134	139	αὐτῶν	G846	αὐτός	P-GPM	0.5960	model	10.36	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32004011	Jonah.4.11	23	140	141	ἢ	G2228	ἤ	CONJ	0.9965	unique	inf	a	one reading	ἤ	1	G2228|ἤ|CONJ|nt-form|366										
+32004011	Jonah.4.11	24	142	151	ἀριστερὰν	G710	ἀριστερός	A-ASF	0.9744	unique	inf	a	one reading	ἀριστεράν	1	G710|ἀριστερός|A-ASF|analyser|1										
+32004011	Jonah.4.11	25	152	157	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	25.01	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+32004011	Jonah.4.11	26	159	162	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+32004011	Jonah.4.11	27	163	168	κτήνη	G2934	κτῆνος	N-APN	0.7607	model	21.33	b	several parses	κτήνη	3	G2934|κτῆνος|N-APN|nt-form|2 ; G2934|κτῆνος|N-NPN|nt-form+paradigm|0 ; G2934|κτῆνος|N-VPN|nt-form+paradigm|0	G2934|κτῆνος|N-NPN|nt-form+paradigm|0									
+32004011	Jonah.4.11	28	169	174	πολλά	G4183	πολύς	A-APN	0.7607	model	21.33	b	several parses	πολλά	3	G4183|πολύς|A-APN|nt-form|53 ; G4183|πολύς|A-NPN|nt-form|14 ; G4183|πολύς|A-VPN|nt-form+paradigm|0	G4183|πολύς|A-NPN|nt-form|14									

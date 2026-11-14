@@ -1,0 +1,5495 @@
+{
+ "byBook": {
+  "1Chr": {
+   "tagged": 16127,
+   "taggedPercent": 98.67,
+   "tiers": {
+    "a": 9385,
+    "b": 3860,
+    "c": 943,
+    "d": 1932,
+    "e": 167,
+    "u": 58
+   },
+   "tokens": 16345
+  },
+  "1Kgs": {
+   "tagged": 20656,
+   "taggedPercent": 99.17,
+   "tiers": {
+    "a": 13826,
+    "b": 4831,
+    "c": 1268,
+    "d": 724,
+    "e": 71,
+    "u": 108
+   },
+   "tokens": 20828
+  },
+  "1Sam": {
+   "tagged": 19990,
+   "taggedPercent": 99.27,
+   "tiers": {
+    "a": 13810,
+    "b": 4608,
+    "c": 1050,
+    "d": 579,
+    "e": 52,
+    "u": 37
+   },
+   "tokens": 20136
+  },
+  "2Chr": {
+   "tagged": 21396,
+   "taggedPercent": 99.61,
+   "tiers": {
+    "a": 14332,
+    "b": 5034,
+    "c": 1335,
+    "d": 677,
+    "e": 48,
+    "u": 53
+   },
+   "tokens": 21479
+  },
+  "2Kgs": {
+   "tagged": 18655,
+   "taggedPercent": 99.32,
+   "tiers": {
+    "a": 12397,
+    "b": 4277,
+    "c": 1073,
+    "d": 867,
+    "e": 72,
+    "u": 96
+   },
+   "tokens": 18782
+  },
+  "2Sam": {
+   "tagged": 17861,
+   "taggedPercent": 99.24,
+   "tiers": {
+    "a": 11903,
+    "b": 3934,
+    "c": 1091,
+    "d": 971,
+    "e": 53,
+    "u": 45
+   },
+   "tokens": 17997
+  },
+  "Amos": {
+   "tagged": 3199,
+   "taggedPercent": 99.72,
+   "tiers": {
+    "a": 2076,
+    "b": 918,
+    "c": 151,
+    "d": 54,
+    "e": 7,
+    "u": 2
+   },
+   "tokens": 3208
+  },
+  "Dan": {
+   "tagged": 10279,
+   "taggedPercent": 99.46,
+   "tiers": {
+    "a": 6609,
+    "b": 2767,
+    "c": 742,
+    "d": 168,
+    "e": 36,
+    "u": 13
+   },
+   "tokens": 10335
+  },
+  "Deut": {
+   "tagged": 22764,
+   "taggedPercent": 99.57,
+   "tiers": {
+    "a": 15321,
+    "b": 6034,
+    "c": 1101,
+    "d": 282,
+    "e": 76,
+    "u": 49
+   },
+   "tokens": 22863
+  },
+  "Eccl": {
+   "tagged": 4525,
+   "taggedPercent": 99.8,
+   "tiers": {
+    "a": 2859,
+    "b": 1297,
+    "c": 369,
+    "d": 0,
+    "e": 9,
+    "u": 0
+   },
+   "tokens": 4534
+  },
+  "Esth": {
+   "tagged": 5668,
+   "taggedPercent": 97.56,
+   "tiers": {
+    "a": 3660,
+    "b": 1501,
+    "c": 276,
+    "d": 288,
+    "e": 70,
+    "u": 15
+   },
+   "tokens": 5810
+  },
+  "Exod": {
+   "tagged": 24748,
+   "taggedPercent": 99.62,
+   "tiers": {
+    "a": 16275,
+    "b": 6930,
+    "c": 1301,
+    "d": 191,
+    "e": 82,
+    "u": 64
+   },
+   "tokens": 24843
+  },
+  "Ezek": {
+   "tagged": 29279,
+   "taggedPercent": 99.45,
+   "tiers": {
+    "a": 19561,
+    "b": 8018,
+    "c": 1514,
+    "d": 207,
+    "e": 123,
+    "u": 18
+   },
+   "tokens": 29441
+  },
+  "Ezra": {
+   "tagged": 13089,
+   "taggedPercent": 98.81,
+   "tiers": {
+    "a": 8021,
+    "b": 3344,
+    "c": 725,
+    "d": 963,
+    "e": 158,
+    "u": 35
+   },
+   "tokens": 13246
+  },
+  "Gen": {
+   "tagged": 32660,
+   "taggedPercent": 99.57,
+   "tiers": {
+    "a": 21707,
+    "b": 7971,
+    "c": 1987,
+    "d": 976,
+    "e": 84,
+    "u": 77
+   },
+   "tokens": 32802
+  },
+  "Hab": {
+   "tagged": 1085,
+   "taggedPercent": 99.36,
+   "tiers": {
+    "a": 683,
+    "b": 322,
+    "c": 72,
+    "d": 6,
+    "e": 7,
+    "u": 2
+   },
+   "tokens": 1092
+  },
+  "Hag": {
+   "tagged": 947,
+   "taggedPercent": 99.79,
+   "tiers": {
+    "a": 580,
+    "b": 292,
+    "c": 58,
+    "d": 17,
+    "e": 2,
+    "u": 0
+   },
+   "tokens": 949
+  },
+  "Hos": {
+   "tagged": 3904,
+   "taggedPercent": 99.41,
+   "tiers": {
+    "a": 2587,
+    "b": 1050,
+    "c": 222,
+    "d": 53,
+    "e": 12,
+    "u": 3
+   },
+   "tokens": 3927
+  },
+  "Isa": {
+   "tagged": 26968,
+   "taggedPercent": 99.4,
+   "tiers": {
+    "a": 17659,
+    "b": 7814,
+    "c": 1244,
+    "d": 265,
+    "e": 111,
+    "u": 39
+   },
+   "tokens": 27132
+  },
+  "Jer": {
+   "tagged": 28809,
+   "taggedPercent": 99.55,
+   "tiers": {
+    "a": 19526,
+    "b": 7359,
+    "c": 1307,
+    "d": 578,
+    "e": 89,
+    "u": 80
+   },
+   "tokens": 28939
+  },
+  "Job": {
+   "tagged": 13421,
+   "taggedPercent": 98.98,
+   "tiers": {
+    "a": 8956,
+    "b": 3582,
+    "c": 825,
+    "d": 74,
+    "e": 111,
+    "u": 11
+   },
+   "tokens": 13559
+  },
+  "Joel": {
+   "tagged": 1576,
+   "taggedPercent": 99.81,
+   "tiers": {
+    "a": 1013,
+    "b": 474,
+    "c": 88,
+    "d": 1,
+    "e": 3,
+    "u": 0
+   },
+   "tokens": 1579
+  },
+  "Jonah": {
+   "tagged": 1083,
+   "taggedPercent": 99.91,
+   "tiers": {
+    "a": 753,
+    "b": 250,
+    "c": 57,
+    "d": 14,
+    "e": 1,
+    "u": 9
+   },
+   "tokens": 1084
+  },
+  "Josh": {
+   "tagged": 14583,
+   "taggedPercent": 98.06,
+   "tiers": {
+    "a": 9673,
+    "b": 3533,
+    "c": 595,
+    "d": 983,
+    "e": 44,
+    "u": 44
+   },
+   "tokens": 14872
+  },
+  "Judg": {
+   "tagged": 15522,
+   "taggedPercent": 99.35,
+   "tiers": {
+    "a": 10655,
+    "b": 3367,
+    "c": 804,
+    "d": 742,
+    "e": 35,
+    "u": 21
+   },
+   "tokens": 15624
+  },
+  "Lam": {
+   "tagged": 2490,
+   "taggedPercent": 99.48,
+   "tiers": {
+    "a": 1684,
+    "b": 672,
+    "c": 127,
+    "d": 3,
+    "e": 12,
+    "u": 5
+   },
+   "tokens": 2503
+  },
+  "Lev": {
+   "tagged": 19112,
+   "taggedPercent": 99.74,
+   "tiers": {
+    "a": 12065,
+    "b": 5786,
+    "c": 1227,
+    "d": 18,
+    "e": 45,
+    "u": 20
+   },
+   "tokens": 19161
+  },
+  "Mal": {
+   "tagged": 1410,
+   "taggedPercent": 99.72,
+   "tiers": {
+    "a": 921,
+    "b": 430,
+    "c": 58,
+    "d": 2,
+    "e": 2,
+    "u": 1
+   },
+   "tokens": 1414
+  },
+  "Mic": {
+   "tagged": 2342,
+   "taggedPercent": 99.7,
+   "tiers": {
+    "a": 1542,
+    "b": 665,
+    "c": 113,
+    "d": 23,
+    "e": 4,
+    "u": 2
+   },
+   "tokens": 2349
+  },
+  "Nah": {
+   "tagged": 931,
+   "taggedPercent": 99.68,
+   "tiers": {
+    "a": 563,
+    "b": 302,
+    "c": 56,
+    "d": 11,
+    "e": 2,
+    "u": 0
+   },
+   "tokens": 934
+  },
+  "Num": {
+   "tagged": 24868,
+   "taggedPercent": 99.08,
+   "tiers": {
+    "a": 16123,
+    "b": 6860,
+    "c": 1150,
+    "d": 794,
+    "e": 102,
+    "u": 69
+   },
+   "tokens": 25098
+  },
+  "Obad": {
+   "tagged": 458,
+   "taggedPercent": 99.35,
+   "tiers": {
+    "a": 300,
+    "b": 131,
+    "c": 19,
+    "d": 6,
+    "e": 3,
+    "u": 2
+   },
+   "tokens": 461
+  },
+  "Prov": {
+   "tagged": 11033,
+   "taggedPercent": 99.35,
+   "tiers": {
+    "a": 6926,
+    "b": 3590,
+    "c": 510,
+    "d": 6,
+    "e": 67,
+    "u": 6
+   },
+   "tokens": 11105
+  },
+  "Ps": {
+   "tagged": 34738,
+   "taggedPercent": 99.68,
+   "tiers": {
+    "a": 22475,
+    "b": 10091,
+    "c": 2054,
+    "d": 100,
+    "e": 88,
+    "u": 43
+   },
+   "tokens": 34851
+  },
+  "Ruth": {
+   "tagged": 2084,
+   "taggedPercent": 99.81,
+   "tiers": {
+    "a": 1459,
+    "b": 445,
+    "c": 122,
+    "d": 53,
+    "e": 4,
+    "u": 5
+   },
+   "tokens": 2088
+  },
+  "Song": {
+   "tagged": 1987,
+   "taggedPercent": 98.61,
+   "tiers": {
+    "a": 1312,
+    "b": 516,
+    "c": 141,
+    "d": 21,
+    "e": 25,
+    "u": 0
+   },
+   "tokens": 2015
+  },
+  "Zech": {
+   "tagged": 4949,
+   "taggedPercent": 99.88,
+   "tiers": {
+    "a": 3205,
+    "b": 1432,
+    "c": 272,
+    "d": 38,
+    "e": 4,
+    "u": 4
+   },
+   "tokens": 4955
+  },
+  "Zeph": {
+   "tagged": 1218,
+   "taggedPercent": 99.27,
+   "tiers": {
+    "a": 800,
+    "b": 342,
+    "c": 59,
+    "d": 18,
+    "e": 6,
+    "u": 2
+   },
+   "tokens": 1227
+  }
+ },
+ "capitalisedCommonWords": {
+  "description": "tier-d words the name stage found no Hebrew name for, tagged from their lower-case readings (capitals.py)",
+  "forms": {
+   "Βοῤῥᾶ": 62,
+   "Βοῤῥᾶν": 57,
+   "Βοῤῥᾷ": 3,
+   "Γραμμάτων": 5,
+   "Ζωή": 1,
+   "Λίβα": 27,
+   "Λιβός": 5,
+   "Λιβὸς": 10,
+   "Μάν": 1,
+   "Μετὰ": 1,
+   "Νότον": 49,
+   "Νότου": 24,
+   "Νότῳ": 5,
+   "Οὐαί": 3,
+   "Οὐαὶ": 28,
+   "Οὐκ": 1,
+   "Πολυάνδριον": 2,
+   "Σαρδίου": 1,
+   "Σκηνὴ": 1,
+   "Σχοίνισμα": 2,
+   "Φοινίκων": 2,
+   "Ἄγγελοι": 1,
+   "Ἄγγελον": 1,
+   "Ἄγγελος": 7,
+   "Ἐκκλησιαστὴς": 4,
+   "Ἑωσφόρος": 3,
+   "Ἑωσφόρου": 2,
+   "Ὅρκου": 1,
+   "Ὢν": 1,
+   "Ὤν": 1
+  },
+  "tokens": 367
+ },
+ "chooser": {
+  "features": 78571,
+  "key": "ac8413cffa6848d06448",
+  "settings": {
+   "analyser": true,
+   "beam": 8,
+   "epochs": 6,
+   "folds": 5,
+   "format": 1,
+   "paradigm": true,
+   "seed": 0,
+   "window": 3
+  }
+ },
+ "confidenceBands": {
+  "all": {
+   "0.5-0.8": 20792,
+   "0.8-0.9": 29026,
+   "0.9-0.95": 31972,
+   "0.95-0.99": 77653,
+   "<0.5": 2122,
+   ">=0.99": 314849
+  },
+  "method:hebrew-association": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 0,
+   "0.9-0.95": 0,
+   "0.95-0.99": 0,
+   "<0.5": 0,
+   ">=0.99": 38
+  },
+  "method:hebrew-consistency": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 0,
+   "0.9-0.95": 231,
+   "0.95-0.99": 0,
+   "<0.5": 0,
+   ">=0.99": 0
+  },
+  "method:hebrew-nearby": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 0,
+   "0.9-0.95": 0,
+   "0.95-0.99": 286,
+   "<0.5": 0,
+   ">=0.99": 0
+  },
+  "method:hebrew-order": {
+   "0.5-0.8": 203,
+   "0.8-0.9": 0,
+   "0.9-0.95": 0,
+   "0.95-0.99": 0,
+   "<0.5": 0,
+   ">=0.99": 0
+  },
+  "method:hebrew-verse": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 2249,
+   "0.9-0.95": 2356,
+   "0.95-0.99": 0,
+   "<0.5": 0,
+   ">=0.99": 6129
+  },
+  "method:model": {
+   "0.5-0.8": 20580,
+   "0.8-0.9": 26777,
+   "0.9-0.95": 26677,
+   "0.95-0.99": 50574,
+   "<0.5": 1826,
+   ">=0.99": 24302
+  },
+  "method:tolerant": {
+   "0.5-0.8": 9,
+   "0.8-0.9": 0,
+   "0.9-0.95": 430,
+   "0.95-0.99": 202,
+   "<0.5": 296,
+   ">=0.99": 28
+  },
+  "method:tolerant-mismatch": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 0,
+   "0.9-0.95": 0,
+   "0.95-0.99": 20,
+   "<0.5": 0,
+   ">=0.99": 0
+  },
+  "method:unique": {
+   "0.5-0.8": 0,
+   "0.8-0.9": 0,
+   "0.9-0.95": 2278,
+   "0.95-0.99": 26571,
+   "<0.5": 0,
+   ">=0.99": 284352
+  },
+  "tier:a": {
+   "0.5-0.8": 1,
+   "0.8-0.9": 0,
+   "0.9-0.95": 2278,
+   "0.95-0.99": 26571,
+   "<0.5": 0,
+   ">=0.99": 284352
+  },
+  "tier:b": {
+   "0.5-0.8": 17901,
+   "0.8-0.9": 24704,
+   "0.9-0.95": 18131,
+   "0.95-0.99": 42120,
+   "<0.5": 518,
+   ">=0.99": 21255
+  },
+  "tier:c": {
+   "0.5-0.8": 2678,
+   "0.8-0.9": 2073,
+   "0.9-0.95": 8546,
+   "0.95-0.99": 8454,
+   "<0.5": 1308,
+   ">=0.99": 3047
+  },
+  "tier:d": {
+   "0.5-0.8": 195,
+   "0.8-0.9": 2167,
+   "0.9-0.95": 2516,
+   "0.95-0.99": 277,
+   "<0.5": 0,
+   ">=0.99": 6041
+  },
+  "tier:e": {
+   "0.5-0.8": 8,
+   "0.8-0.9": 76,
+   "0.9-0.95": 63,
+   "0.95-0.99": 9,
+   "<0.5": 0,
+   ">=0.99": 125
+  },
+  "tier:u": {
+   "0.5-0.8": 9,
+   "0.8-0.9": 6,
+   "0.9-0.95": 438,
+   "0.95-0.99": 222,
+   "<0.5": 296,
+   ">=0.99": 29
+  }
+ },
+ "misprints": {
+  "description": "printed forms read as another word because text.MISPRINT_TABLE lists them as misprints of the digitised text; the text itself is unchanged",
+  "table": [
+   {
+    "intended": "υἱοὶ",
+    "printed": "γἱοὶ",
+    "readIn": "Gen 46:9, 1 Chr 23:8 and 36 more",
+    "tokens": 38
+   },
+   {
+    "intended": "Λέγει",
+    "printed": "Δέγει",
+    "readIn": "Gen 15:2",
+    "tokens": 1
+   },
+   {
+    "intended": "λέγει",
+    "printed": "λέλει",
+    "readIn": "2 Kgs 7:1, Ezek 28:2",
+    "tokens": 2
+   },
+   {
+    "intended": "Ἀποκριθεὶς",
+    "printed": "Ἀποκοιθεὶς",
+    "readIn": "Gen 27:39",
+    "tokens": 1
+   },
+   {
+    "intended": "μου",
+    "printed": "μον",
+    "readIn": "Gen 38:17, Lev 19:30",
+    "tokens": 3
+   },
+   {
+    "intended": "τῶν",
+    "printed": "τῶς",
+    "readIn": "Exod 28:11, 28:12",
+    "tokens": 3
+   },
+   {
+    "intended": "θυγάτηρ",
+    "printed": "θυλάτηρ",
+    "readIn": "2 Kgs 9:34, 22:1",
+    "tokens": 2
+   },
+   {
+    "intended": "τεσσαράκοντα",
+    "printed": "τεσσράκοντα",
+    "readIn": "1 Chr 29:27, Job 42:16",
+    "tokens": 2
+   },
+   {
+    "intended": "εἶπεν",
+    "printed": "εἶπν",
+    "readIn": "Esth 6:4, 7:8",
+    "tokens": 2
+   },
+   {
+    "intended": "ἑπτακόσια",
+    "printed": "ἑπτκόσια",
+    "readIn": "Gen 5:10",
+    "tokens": 1
+   },
+   {
+    "intended": "αὐτοὺς",
+    "printed": "αὐτοὺδ",
+    "readIn": "Gen 13:6",
+    "tokens": 1
+   },
+   {
+    "intended": "ὑπήκουσεν",
+    "printed": "ὑπήκουσελ",
+    "readIn": "Gen 16:2",
+    "tokens": 1
+   },
+   {
+    "intended": "ἐπιδών",
+    "printed": "ἐτιδών",
+    "readIn": "Gen 16:13",
+    "tokens": 1
+   },
+   {
+    "intended": "ἐρχομένην",
+    "printed": "ἐρχομενεην",
+    "readIn": "Gen 18:21",
+    "tokens": 1
+   },
+   {
+    "intended": "ἀδελφή",
+    "printed": "ἀδφή",
+    "readIn": "Gen 20:5",
+    "tokens": 1
+   },
+   {
+    "intended": "ἐναντίον",
+    "printed": "ἐνατίον",
+    "readIn": "Gen 21:11",
+    "tokens": 1
+   },
+   {
+    "intended": "ἀγαπητοῦ",
+    "printed": "ἀγαπτοῦ",
+    "readIn": "Gen 22:16",
+    "tokens": 1
+   },
+   {
+    "intended": "σφόδρα",
+    "printed": "σφάδρα",
+    "readIn": "Gen 29:17",
+    "tokens": 1
+   },
+   {
+    "intended": "σφόδρα",
+    "printed": "σφόδπα",
+    "readIn": "Exod 1:20",
+    "tokens": 1
+   },
+   {
+    "intended": "ἑαυτοῦ",
+    "printed": "ἑαντοῦ",
+    "readIn": "Gen 31:23",
+    "tokens": 1
+   },
+   {
+    "intended": "ἀπηγγέλη",
+    "printed": "ἀπηγγέλε",
+    "readIn": "Gen 38:13",
+    "tokens": 1
+   },
+   {
+    "intended": "εὐώδου",
+    "printed": "εὐώδο",
+    "readIn": "Gen 39:23",
+    "tokens": 1
+   },
+   {
+    "intended": "συνέκρινεν",
+    "printed": "συνέκριεν",
+    "readIn": "Gen 40:16",
+    "tokens": 1
+   },
+   {
+    "intended": "τερέβινθον",
+    "printed": "τερέινθον",
+    "readIn": "Gen 43:11",
+    "tokens": 1
+   },
+   {
+    "intended": "κατέβημεν",
+    "printed": "κατέβηεν",
+    "readIn": "Gen 43:20",
+    "tokens": 1
+   },
+   {
+    "intended": "θάψατέ",
+    "printed": "θάψτέ",
+    "readIn": "Gen 49:29",
+    "tokens": 1
+   },
+   {
+    "intended": "ἐσκέπασαν",
+    "printed": "ἐσπέπασαν",
+    "readIn": "Exod 2:2",
+    "tokens": 1
+   },
+   {
+    "intended": "δευτέρου",
+    "printed": "δετέρου",
+    "readIn": "Exod 4:8",
+    "tokens": 1
+   },
+   {
+    "intended": "ἀλλ’",
+    "printed": "ἀλλ",
+    "readIn": "Exod 5:7",
+    "tokens": 1
+   },
+   {
+    "intended": "πάσῃ",
+    "printed": "πάσηῃ",
+    "readIn": "Exod 10:15",
+    "tokens": 1
+   },
+   {
+    "intended": "αὐτοῦ",
+    "printed": "ἀτοῦ",
+    "readIn": "Exod 11:3",
+    "tokens": 1
+   },
+   {
+    "intended": "θαλάσσης",
+    "printed": "θαλάσοης",
+    "readIn": "Exod 14:27",
+    "tokens": 1
+   },
+   {
+    "intended": "σήμερον",
+    "printed": "αήμερον",
+    "readIn": "Exod 16:25",
+    "tokens": 1
+   },
+   {
+    "intended": "γῆς",
+    "printed": "γνς",
+    "readIn": "Exod 23:19",
+    "tokens": 1
+   },
+   {
+    "intended": "ποιήσεις",
+    "printed": "ποιήεις",
+    "readIn": "Exod 25:8",
+    "tokens": 1
+   },
+   {
+    "intended": "περὶ",
+    "printed": "πεπὶ",
+    "readIn": "Exod 28:12",
+    "tokens": 1
+   },
+   {
+    "intended": "Ἰσραήλ",
+    "printed": "Ἰσρσήλ",
+    "readIn": "Exod 28:11",
+    "tokens": 1
+   },
+   {
+    "intended": "τρεῖς",
+    "printed": "τρεῖν",
+    "readIn": "Num 12:5",
+    "tokens": 1
+   },
+   {
+    "intended": "εἰς",
+    "printed": "εἰν",
+    "readIn": "Num 12:5, 2 Sam 11:25",
+    "tokens": 2
+   },
+   {
+    "intended": "ἐπ’",
+    "printed": "ἐπ",
+    "readIn": "Ps 77:27, Jer 14:17",
+    "tokens": 3
+   },
+   {
+    "intended": "Θυμὸς",
+    "printed": "Θυμὸ",
+    "readIn": "Prov 16:14",
+    "tokens": 1
+   },
+   {
+    "intended": "Ὅτι",
+    "printed": "Ὅτ",
+    "readIn": "Eccl 11:8",
+    "tokens": 1
+   }
+  ]
+ },
+ "names": {
+  "calibration": {
+   "hebrew-association": [
+    {
+     "confidence": 0.9981,
+     "fromScore": 0.0
+    }
+   ],
+   "hebrew-consistency": [
+    {
+     "confidence": 0.9395,
+     "fromScore": 0.0
+    }
+   ],
+   "hebrew-nearby": [
+    {
+     "confidence": 0.9895,
+     "fromScore": 12.0
+    },
+    {
+     "confidence": 0.9895,
+     "fromScore": 15.0
+    }
+   ],
+   "hebrew-order": [
+    {
+     "confidence": 0.7906,
+     "fromScore": 0.0
+    }
+   ],
+   "hebrew-verse": [
+    {
+     "confidence": 0.8406,
+     "fromScore": 6.0
+    },
+    {
+     "confidence": 0.932,
+     "fromScore": 9.0
+    },
+    {
+     "confidence": 0.995,
+     "fromScore": 12.0
+    },
+    {
+     "confidence": 0.995,
+     "fromScore": 15.0
+    },
+    {
+     "confidence": 0.995,
+     "fromScore": 20.0
+    }
+   ]
+  },
+  "consistency": {
+   "forms": 3237,
+   "largestWithSeveral": [
+    {
+     "form": "Μωάβ",
+     "numbers": {
+      "H4124": 160,
+      "H6355": 6
+     },
+     "tokens": 166
+    },
+    {
+     "form": "Ἰωάβ",
+     "numbers": {
+      "H3097": 152,
+      "H3098": 1,
+      "H5854": 1
+     },
+     "tokens": 154
+    },
+    {
+     "form": "Ἰωνάθαν",
+     "numbers": {
+      "H3076": 1,
+      "H3083": 80,
+      "H3129": 40,
+      "H494": 1
+     },
+     "tokens": 122
+    },
+    {
+     "form": "Γαλαάδ",
+     "numbers": {
+      "H1568": 113,
+      "H1569": 1
+     },
+     "tokens": 114
+    },
+    {
+     "form": "Ἱεροβοάμ",
+     "numbers": {
+      "H3379": 91,
+      "H3395": 2
+     },
+     "tokens": 93
+    },
+    {
+     "form": "Ἀμμών",
+     "numbers": {
+      "H528": 2,
+      "H5983": 90,
+      "H5984": 1
+     },
+     "tokens": 93
+    },
+    {
+     "form": "Ἀβιμέλεχ",
+     "numbers": {
+      "H288": 10,
+      "H40": 67
+     },
+     "tokens": 77
+    },
+    {
+     "form": "Χεβρών",
+     "numbers": {
+      "H2275": 71,
+      "H2276": 1
+     },
+     "tokens": 72
+    },
+    {
+     "form": "Δάν",
+     "numbers": {
+      "H1835": 60,
+      "H1839": 2,
+      "H4265": 2
+     },
+     "tokens": 64
+    },
+    {
+     "form": "Ἰωάς",
+     "numbers": {
+      "H3060": 14,
+      "H3098": 3,
+      "H3101": 43,
+      "H3135": 2,
+      "H3266": 1
+     },
+     "tokens": 63
+    },
+    {
+     "form": "Ναβουχοδονόσορ",
+     "numbers": {
+      "H5019": 35,
+      "H5020": 27
+     },
+     "tokens": 62
+    },
+    {
+     "form": "Ἰωδαέ",
+     "numbers": {
+      "H3048": 2,
+      "H3063": 1,
+      "H3077": 53,
+      "H3111": 2
+     },
+     "tokens": 58
+    },
+    {
+     "form": "Ἀμαλήκ",
+     "numbers": {
+      "H6002": 37,
+      "H6003": 7
+     },
+     "tokens": 44
+    },
+    {
+     "form": "Ἰσμαήλ",
+     "numbers": {
+      "H3450": 1,
+      "H3458": 41
+     },
+     "tokens": 42
+    },
+    {
+     "form": "Καάθ",
+     "numbers": {
+      "H6955": 29,
+      "H6956": 11,
+      "H7079": 1
+     },
+     "tokens": 41
+    }
+   ],
+   "oneNumber": 2944,
+   "severalNumbers": 293
+  },
+  "keyMode": "hebrew",
+  "learntFromOwnMatches": 2754,
+  "methods": {
+   "hebrew-association": "the Hebrew name the verses of an untagged Greek form nearly always have and no other Greek word of them accounts for (names no transliteration finds)",
+   "hebrew-consistency": "the number the same Greek form takes everywhere it is matched",
+   "hebrew-nearby": "matched to a name of a neighbouring Hebrew verse, or of the same chapter",
+   "hebrew-order": "placed by a list's order between matched names of that verse",
+   "hebrew-verse": "matched to a name of the Hebrew verse the Septuagint's verse corresponds to"
+  },
+  "relations": {
+   "description": "transliterates: the Greek word reads as the Hebrew name it is tagged with; stands-for: the Septuagint prints another name at that position and the tag says which Hebrew name it stands for: found by association, or a reading below the verse threshold that is very poor or that another name of the chapter reads better, or a form that elsewhere renders another Hebrew name it reads better (names.name_relations)",
+   "stands-for": 174,
+   "standsForByMethod": {
+    "hebrew-association": 38,
+    "hebrew-nearby": 1,
+    "hebrew-order": 56,
+    "hebrew-verse": 79
+   },
+   "transliterates": 11318
+  },
+  "settings": {
+   "chapter_margin": 6.0,
+   "chapter_threshold": 12.0,
+   "common_margin": 0.0,
+   "confident": 6.0,
+   "consistency_min": 2,
+   "consistency_share": 0.9,
+   "iterations": 8,
+   "margin": 3.0,
+   "nearby_margin": 4.0,
+   "nearby_threshold": 9.0,
+   "offset_cost": 1.0,
+   "order_floor": 0.0,
+   "rounds": 2,
+   "threshold": 3.0,
+   "window": 2
+  },
+  "sourceNote": "Proper names the New Testament does not use are identified from STEPBible's tagged Hebrew Old Testament (TAHOT and TBESH, CC BY 4.0): each carries the Strong's number of the Hebrew name it renders in the same verse.",
+  "tagged": {
+   "byKey": {
+    "NT name's Greek number (TBESG relation)": 628,
+    "hebrew (TAHOT)": 10864
+   },
+   "byMethod": {
+    "hebrew-association": 38,
+    "hebrew-consistency": 231,
+    "hebrew-nearby": 286,
+    "hebrew-order": 203,
+    "hebrew-verse": 10734
+   },
+   "byScoreBand": {
+    "hebrew-association": {
+     "0-3": 38
+    },
+    "hebrew-consistency": {
+     "12-15": 37,
+     "15-20": 20,
+     "6-9": 51,
+     "9-12": 114,
+     ">=20": 9
+    },
+    "hebrew-nearby": {
+     "12-15": 126,
+     "15-20": 69,
+     "9-12": 62,
+     ">=20": 29
+    },
+    "hebrew-order": {
+     "0-3": 203
+    },
+    "hebrew-verse": {
+     "12-15": 3168,
+     "15-20": 1896,
+     "3-6": 649,
+     "6-9": 1600,
+     "9-12": 2356,
+     ">=20": 1065
+    }
+   },
+   "fromTierD": 11477,
+   "tokens": 11492
+  },
+  "tierD": {
+   "after": {
+    "forms": 1172,
+    "tokens": 1951
+   },
+   "before": {
+    "forms": 4105,
+    "tokens": 13428
+   },
+   "note": "candidates include capitalised tier-e words (see tierE)"
+  },
+  "tierE": {
+   "candidates": 356,
+   "tagged": 281
+  },
+  "tolerantNameTags": {
+   "checked": 748,
+   "confirmed": 576,
+   "kept, TBESG gives it no Hebrew name": 77,
+   "kept, no Hebrew name": 66,
+   "kept, not sure": 14,
+   "replaced": 15
+  },
+  "untagged": {
+   "Hebrew name taken by another Greek name": {
+    "forms": 55,
+    "tokens": 58,
+    "top": [
+     {
+      "form": "Χαβραθά",
+      "tokens": 2
+     },
+     {
+      "form": "Ἀβεσσαλώμ",
+      "tokens": 2
+     },
+     {
+      "form": "Ἐσεβών",
+      "tokens": 2
+     },
+     {
+      "form": "Βαιθά",
+      "tokens": 1
+     },
+     {
+      "form": "Βαιθάρ",
+      "tokens": 1
+     },
+     {
+      "form": "Βαιθανάχ",
+      "tokens": 1
+     },
+     {
+      "form": "Βαιών",
+      "tokens": 1
+     },
+     {
+      "form": "Βαράδ",
+      "tokens": 1
+     },
+     {
+      "form": "Βεζέκ",
+      "tokens": 1
+     },
+     {
+      "form": "Βερθαίθ",
+      "tokens": 1
+     },
+     {
+      "form": "Βηθανάν",
+      "tokens": 1
+     },
+     {
+      "form": "Γαβέρ",
+      "tokens": 1
+     },
+     {
+      "form": "Γαζαίῳ",
+      "tokens": 1
+     },
+     {
+      "form": "Γεθαῖοι",
+      "tokens": 1
+     },
+     {
+      "form": "Δάν",
+      "tokens": 1
+     }
+    ]
+   },
+   "a Greek word Brenton capitalises (a common reading was set aside), no Hebrew name": {
+    "forms": 91,
+    "tokens": 162,
+    "top": [
+     {
+      "form": "Κύρου",
+      "tokens": 14
+     },
+     {
+      "form": "Ὁ",
+      "tokens": 11
+     },
+     {
+      "form": "Γαί",
+      "tokens": 7
+     },
+     {
+      "form": "Ὦν",
+      "tokens": 6
+     },
+     {
+      "form": "Μεσσάβ",
+      "tokens": 5
+     },
+     {
+      "form": "Φρουραί",
+      "tokens": 5
+     },
+     {
+      "form": "Ἡλιουπόλεως",
+      "tokens": 5
+     },
+     {
+      "form": "Ἀνώ",
+      "tokens": 4
+     },
+     {
+      "form": "Σίκιμα",
+      "tokens": 3
+     },
+     {
+      "form": "Ἀμάν",
+      "tokens": 3
+     },
+     {
+      "form": "Ἰαμίν",
+      "tokens": 3
+     },
+     {
+      "form": "Ἰού",
+      "tokens": 3
+     },
+     {
+      "form": "Αἰλάμ",
+      "tokens": 2
+     },
+     {
+      "form": "Βαλέ",
+      "tokens": 2
+     },
+     {
+      "form": "Θαρσίς",
+      "tokens": 2
+     }
+    ]
+   },
+   "a common word Brenton capitalises: tagged from its lower-case readings (no Hebrew name for it)": {
+    "forms": 80,
+    "tokens": 367,
+    "top": [
+     {
+      "form": "Βορρᾶ",
+      "tokens": 63
+     },
+     {
+      "form": "Βορρᾶν",
+      "tokens": 57
+     },
+     {
+      "form": "Νότον",
+      "tokens": 49
+     },
+     {
+      "form": "Οὐαί",
+      "tokens": 31
+     },
+     {
+      "form": "Λίβα",
+      "tokens": 27
+     },
+     {
+      "form": "Νότου",
+      "tokens": 24
+     },
+     {
+      "form": "Λιβός",
+      "tokens": 15
+     },
+     {
+      "form": "Ἄγγελος",
+      "tokens": 7
+     },
+     {
+      "form": "Γραμμάτων",
+      "tokens": 5
+     },
+     {
+      "form": "Νότῳ",
+      "tokens": 5
+     },
+     {
+      "form": "Ἐκκλησιαστής",
+      "tokens": 5
+     },
+     {
+      "form": "Βορρᾷ",
+      "tokens": 3
+     },
+     {
+      "form": "Ἑωσφόρος",
+      "tokens": 3
+     },
+     {
+      "form": "Ναί",
+      "tokens": 2
+     },
+     {
+      "form": "Πολυάνδριον",
+      "tokens": 2
+     }
+    ]
+   },
+   "ambiguous between Hebrew names": {
+    "forms": 106,
+    "tokens": 151,
+    "top": [
+     {
+      "form": "Ἰεβοσθέ",
+      "tokens": 11
+     },
+     {
+      "form": "Ἰωάς",
+      "tokens": 6
+     },
+     {
+      "form": "Σαβά",
+      "tokens": 5
+     },
+     {
+      "form": "Ἰειήλ",
+      "tokens": 5
+     },
+     {
+      "form": "Βαλαδάν",
+      "tokens": 4
+     },
+     {
+      "form": "Καάθ",
+      "tokens": 3
+     },
+     {
+      "form": "Αἰλώμ",
+      "tokens": 2
+     },
+     {
+      "form": "Γαυνί",
+      "tokens": 2
+     },
+     {
+      "form": "Γεσιρί",
+      "tokens": 2
+     },
+     {
+      "form": "Γεφάρ",
+      "tokens": 2
+     },
+     {
+      "form": "Δάν",
+      "tokens": 2
+     },
+     {
+      "form": "Δησών",
+      "tokens": 2
+     },
+     {
+      "form": "Μεραρί",
+      "tokens": 2
+     },
+     {
+      "form": "Σαμαίας",
+      "tokens": 2
+     },
+     {
+      "form": "Σηών",
+      "tokens": 2
+     }
+    ]
+   },
+   "no Hebrew name in the verse": {
+    "forms": 138,
+    "tokens": 192,
+    "top": [
+     {
+      "form": "Βααλίμ",
+      "tokens": 9
+     },
+     {
+      "form": "Σαριρά",
+      "tokens": 7
+     },
+     {
+      "form": "Σουσακίμ",
+      "tokens": 6
+     },
+     {
+      "form": "Βααλείμ",
+      "tokens": 4
+     },
+     {
+      "form": "Ἄδερ",
+      "tokens": 4
+     },
+     {
+      "form": "Βαμᾶ",
+      "tokens": 3
+     },
+     {
+      "form": "Λάβαν",
+      "tokens": 3
+     },
+     {
+      "form": "Ἀραβίας",
+      "tokens": 3
+     },
+     {
+      "form": "Ἔσδρας",
+      "tokens": 3
+     },
+     {
+      "form": "Βηρσαβεέ",
+      "tokens": 2
+     },
+     {
+      "form": "Βορέας",
+      "tokens": 2
+     },
+     {
+      "form": "Γαβαά",
+      "tokens": 2
+     },
+     {
+      "form": "Γαιβάλ",
+      "tokens": 2
+     },
+     {
+      "form": "Γαλαάδ",
+      "tokens": 2
+     },
+     {
+      "form": "Δάν",
+      "tokens": 2
+     }
+    ]
+   },
+   "no Hebrew verse": {
+    "forms": 5,
+    "tokens": 8,
+    "top": [
+     {
+      "form": "Ἄδερ",
+      "tokens": 4
+     },
+     {
+      "form": "Γολιάδ",
+      "tokens": 1
+     },
+     {
+      "form": "Λευῖται",
+      "tokens": 1
+     },
+     {
+      "form": "Ναθινίμ",
+      "tokens": 1
+     },
+     {
+      "form": "Σαμαίας",
+      "tokens": 1
+     }
+    ]
+   },
+   "no matching Hebrew name": {
+    "forms": 766,
+    "tokens": 991,
+    "top": [
+     {
+      "form": "Ναθινίμ",
+      "tokens": 10
+     },
+     {
+      "form": "Αἰθιοπίας",
+      "tokens": 9
+     },
+     {
+      "form": "Ἀρταξέρξου",
+      "tokens": 9
+     },
+     {
+      "form": "Ἄδερ",
+      "tokens": 9
+     },
+     {
+      "form": "Ἰδουμαίαν",
+      "tokens": 8
+     },
+     {
+      "form": "Λίβυες",
+      "tokens": 7
+     },
+     {
+      "form": "Μελχόλ",
+      "tokens": 7
+     },
+     {
+      "form": "Ἀρταξέρξης",
+      "tokens": 7
+     },
+     {
+      "form": "Αἰθίοπες",
+      "tokens": 6
+     },
+     {
+      "form": "Δάν",
+      "tokens": 6
+     },
+     {
+      "form": "Ἰεβοσθέ",
+      "tokens": 6
+     },
+     {
+      "form": "Γαλαάδ",
+      "tokens": 5
+     },
+     {
+      "form": "Νασίβ",
+      "tokens": 5
+     },
+     {
+      "form": "Περσῶν",
+      "tokens": 5
+     },
+     {
+      "form": "Ἀρμαθαίμ",
+      "tokens": 5
+     }
+    ]
+   },
+   "transliterates a common Hebrew word": {
+    "forms": 17,
+    "tokens": 22,
+    "top": [
+     {
+      "form": "Σηλώμ",
+      "tokens": 5
+     },
+     {
+      "form": "Θαιμάν",
+      "tokens": 2
+     },
+     {
+      "form": "Βανί",
+      "tokens": 1
+     },
+     {
+      "form": "Γαιθάν",
+      "tokens": 1
+     },
+     {
+      "form": "Μήδων",
+      "tokens": 1
+     },
+     {
+      "form": "Μασφάρ",
+      "tokens": 1
+     },
+     {
+      "form": "Μεινών",
+      "tokens": 1
+     },
+     {
+      "form": "Μιχαίας",
+      "tokens": 1
+     },
+     {
+      "form": "Μονί",
+      "tokens": 1
+     },
+     {
+      "form": "Ναγέβ",
+      "tokens": 1
+     },
+     {
+      "form": "Σαμμούς",
+      "tokens": 1
+     },
+     {
+      "form": "Σεβεέ",
+      "tokens": 1
+     },
+     {
+      "form": "Σουέ",
+      "tokens": 1
+     },
+     {
+      "form": "Σωφείρ",
+      "tokens": 1
+     },
+     {
+      "form": "Ἀσκάλωνος",
+      "tokens": 1
+     }
+    ]
+   }
+  },
+  "validation": {
+   "byMethod": {
+    "hebrew-association": {
+     "correct": 537,
+     "distinctForms": 5,
+     "distinctFormsCorrect": 5,
+     "matched": 537,
+     "precisionPercent": 100.0
+    },
+    "hebrew-consistency": {
+     "correct": 24,
+     "distinctForms": 7,
+     "distinctFormsCorrect": 7,
+     "matched": 24,
+     "precisionPercent": 100.0
+    },
+    "hebrew-nearby": {
+     "correct": 144,
+     "distinctForms": 16,
+     "distinctFormsCorrect": 15,
+     "matched": 145,
+     "precisionPercent": 99.31
+    },
+    "hebrew-order": {
+     "correct": 0,
+     "distinctForms": 1,
+     "distinctFormsCorrect": 0,
+     "matched": 1,
+     "precisionPercent": 0.0
+    },
+    "hebrew-verse": {
+     "correct": 2352,
+     "distinctForms": 67,
+     "distinctFormsCorrect": 49,
+     "matched": 2402,
+     "precisionPercent": 97.92
+    }
+   },
+   "byScoreBand": {
+    "hebrew-association": {
+     "0-3": {
+      "correct": 528,
+      "matched": 528
+     },
+     "12-15": {
+      "correct": 4,
+      "matched": 4
+     },
+     "15-20": {
+      "correct": 5,
+      "matched": 5
+     }
+    },
+    "hebrew-consistency": {
+     "12-15": {
+      "correct": 4,
+      "matched": 4
+     },
+     "15-20": {
+      "correct": 10,
+      "matched": 10
+     },
+     "9-12": {
+      "correct": 10,
+      "matched": 10
+     }
+    },
+    "hebrew-nearby": {
+     "12-15": {
+      "correct": 93,
+      "matched": 93
+     },
+     "15-20": {
+      "correct": 33,
+      "matched": 33
+     },
+     "9-12": {
+      "correct": 18,
+      "matched": 19
+     }
+    },
+    "hebrew-order": {
+     "0-3": {
+      "matched": 1
+     }
+    },
+    "hebrew-verse": {
+     "12-15": {
+      "correct": 596,
+      "matched": 598
+     },
+     "15-20": {
+      "correct": 1309,
+      "matched": 1321
+     },
+     "3-6": {
+      "correct": 1,
+      "matched": 1
+     },
+     "6-9": {
+      "correct": 57,
+      "matched": 67
+     },
+     "9-12": {
+      "correct": 369,
+      "matched": 395
+     },
+     ">=20": {
+      "correct": 20,
+      "matched": 20
+     }
+    }
+   },
+   "ceiling": 3083,
+   "ceilingPercent": 95.42,
+   "commonestErrors": [
+    {
+     "greek": "Ἀμὼς",
+     "matched": "H531 Amoz",
+     "tbesg": "H526",
+     "tokens": 10
+    },
+    {
+     "greek": "Ἀμιναδὰβ",
+     "matched": "H41 Abinadab",
+     "tbesg": "H5992",
+     "tokens": 7
+    },
+    {
+     "greek": "Ῥαὰβ",
+     "matched": "H7340 Rehob",
+     "tbesg": "H7343",
+     "tokens": 4
+    },
+    {
+     "greek": "Ἀμὼς",
+     "matched": "H5986 Amos",
+     "tbesg": "H526",
+     "tokens": 4
+    },
+    {
+     "greek": "Βαλαὰμ",
+     "matched": "H1092 Bilhan",
+     "tbesg": "H1109",
+     "tokens": 2
+    },
+    {
+     "greek": "Συχὲμ",
+     "matched": "H7928 Shechem",
+     "tbesg": "H7927",
+     "tokens": 2
+    },
+    {
+     "greek": "ʼΑμιναδὰβ",
+     "matched": "H41 Abinadab",
+     "tbesg": "H5992",
+     "tokens": 2
+    },
+    {
+     "greek": "Ἀμώς",
+     "matched": "H5986 Amos",
+     "tbesg": "H526",
+     "tokens": 2
+    },
+    {
+     "greek": "Ῥαάβ",
+     "matched": "H1050 Beth-rehob",
+     "tbesg": "H7343",
+     "tokens": 1
+    },
+    {
+     "greek": "Ναχώρ",
+     "matched": "H5225 Nacon",
+     "tbesg": "H5152",
+     "tokens": 1
+    },
+    {
+     "greek": "Ἀμώς",
+     "matched": "H531 Amoz",
+     "tbesg": "H526",
+     "tokens": 1
+    },
+    {
+     "greek": "Ναθὰν",
+     "matched": "H5419 Nathan-melech",
+     "tbesg": "H5416",
+     "tokens": 1
+    },
+    {
+     "greek": "Φαλὲκ",
+     "matched": "H6404 Pelet",
+     "tbesg": "H6389",
+     "tokens": 1
+    },
+    {
+     "greek": "Ἰωὴλ",
+     "matched": "H3273 Jeiel",
+     "tbesg": "H3100",
+     "tokens": 1
+    },
+    {
+     "greek": "Ναχὼρ",
+     "matched": "H5171 Naharai",
+     "tbesg": "H5152",
+     "tokens": 1
+    },
+    {
+     "greek": "Ἰωὴλ",
+     "matched": "H3149 Jeziel",
+     "tbesg": "H3100",
+     "tokens": 1
+    },
+    {
+     "greek": "Ἀμιναδάβ",
+     "matched": "H41 Abinadab",
+     "tbesg": "H5992",
+     "tokens": 1
+    },
+    {
+     "greek": "Νάθαν",
+     "matched": "H5418 Nethaniah",
+     "tbesg": "H5416",
+     "tokens": 1
+    },
+    {
+     "greek": "Οὐρίου",
+     "matched": "H221 Uri",
+     "tbesg": "H223",
+     "tokens": 1
+    },
+    {
+     "greek": "Βενιαμὶν",
+     "matched": "H4509 Miniamin",
+     "tbesg": "H1144",
+     "tokens": 1
+    },
+    {
+     "greek": "Δανιήλ",
+     "matched": "H1841 Daniel",
+     "tbesg": "H1840",
+     "tokens": 1
+    },
+    {
+     "greek": "Δανιὴλ",
+     "matched": "H1841 Daniel",
+     "tbesg": "H1840",
+     "tokens": 1
+    },
+    {
+     "greek": "Ῥαὰβ",
+     "matched": "H7293 Rahab",
+     "tbesg": "H7343",
+     "tokens": 1
+    },
+    {
+     "greek": "ἈΜΩΣ",
+     "matched": "H531 Amoz",
+     "tbesg": "H526",
+     "tokens": 1
+    },
+    {
+     "greek": "Νάθαν",
+     "matched": "H4977 Mattan",
+     "tbesg": "H5416",
+     "tokens": 1
+    }
+   ],
+   "correct": 3057,
+   "coveragePercent": 96.22,
+   "heldOutNames": 50,
+   "matched": 3109,
+   "precisionPercent": 98.33,
+   "tokens": 3231,
+   "transliteratedNames": {
+    "correct": 2162,
+    "coveragePercent": 98.62,
+    "matched": 2213,
+    "precisionPercent": 97.7,
+    "tokens": 2244
+   }
+  }
+ },
+ "normalisationRules": {
+  "apostrophe-breathing": 105,
+  "case": 58378,
+  "crasis-subscript": 80,
+  "diaeresis": 899,
+  "editorial-marks": 1,
+  "elision": 3771,
+  "enclitic-accent": 5041,
+  "grave": 149070,
+  "grave-tis": 4,
+  "joined": 1724,
+  "misprint": 90,
+  "rho-breathing": 2626
+ },
+ "providers": [
+  "nt-forms",
+  "tbesg",
+  "analyser",
+  "nt-tolerant",
+  "tbesg-tolerant"
+ ],
+ "source": "data/source/LXX.json",
+ "tagged": 476414,
+ "taggedByMethod": {
+  "hebrew-association": 38,
+  "hebrew-consistency": 231,
+  "hebrew-nearby": 286,
+  "hebrew-order": 203,
+  "hebrew-verse": 10734,
+  "model": 150736,
+  "tolerant": 965,
+  "tolerant-mismatch": 20,
+  "unique": 313201
+ },
+ "taggedBySource": {
+  "analyser": 58659,
+  "nt-caps": 203,
+  "nt-caps:name-breathing": 9,
+  "nt-compound": 241,
+  "nt-compound+paradigm": 15,
+  "nt-form": 394878,
+  "nt-form+paradigm": 1271,
+  "nt-form:infinitive-subscript": 26,
+  "nt-form:lemps": 142,
+  "nt-form:movable-nu": 5925,
+  "nt-form:name-breathing": 285,
+  "nt-tolerant": 692,
+  "nt-tolerant+name-parse": 180,
+  "tahot-name": 11492,
+  "tbesg": 2283,
+  "tbesg-tolerant": 113
+ },
+ "taggedByTier": {
+  "a": 313202,
+  "b": 124629,
+  "c": 26106,
+  "d": 11196,
+  "e": 281,
+  "u": 1000
+ },
+ "taggedPercent": 99.34,
+ "taggedWithoutMorphology": 24091,
+ "tierDescriptions": {
+  "a": "one reading: tagged",
+  "b": "one Strong's number and lemma, several parses",
+  "c": "several Strong's numbers or lemmas",
+  "d": "looks like a name, no acceptable candidate",
+  "e": "no candidate",
+  "u": "unconfirmed: tolerant match only, or names for a lower-case word"
+ },
+ "tiers": {
+  "a": {
+   "percent": 65.31,
+   "tokens": 313202
+  },
+  "b": {
+   "percent": 25.99,
+   "tokens": 124629
+  },
+  "c": {
+   "percent": 5.44,
+   "tokens": 26106
+  },
+  "d": {
+   "percent": 2.65,
+   "tokens": 12705
+  },
+  "e": {
+   "percent": 0.39,
+   "tokens": 1887
+  },
+  "u": {
+   "percent": 0.22,
+   "tokens": 1038
+  }
+ },
+ "tokens": 479567,
+ "tolerantNameParses": {
+  "byRule": {
+   "apposition": 9,
+   "article": 77,
+   "contradicted": 56,
+   "ending": 78,
+   "kinship": 97,
+   "preposition": 28,
+   "subscript": 67,
+   "unknown": 240
+  },
+  "description": "names tagged from a loose match with an NT name: the rule that read their case from the Septuagint word (name_parse.py), or unknown (the NT form's parse kept, its confidence capped)"
+ },
+ "untaggedForms": [
+  {
+   "key": "ἄδερ",
+   "readings": [],
+   "surfaces": [
+    "Ἄδερ"
+   ],
+   "tiers": {
+    "d": 19
+   },
+   "tokens": 19
+  },
+  {
+   "key": "ἰεβοσθέ",
+   "readings": [],
+   "surfaces": [
+    "Ἰεβοσθὲ",
+    "Ἰεβοσθέ"
+   ],
+   "tiers": {
+    "d": 17
+   },
+   "tokens": 17
+  },
+  {
+   "key": "κύρου",
+   "readings": [],
+   "surfaces": [
+    "Κύρου"
+   ],
+   "tiers": {
+    "d": 14
+   },
+   "tokens": 14
+  },
+  {
+   "key": "δαβίρ",
+   "readings": [],
+   "surfaces": [
+    "δαβὶρ",
+    "δαβίρ"
+   ],
+   "tiers": {
+    "e": 13
+   },
+   "tokens": 13
+  },
+  {
+   "key": "ναθινίμ",
+   "readings": [],
+   "surfaces": [
+    "Ναθινὶμ"
+   ],
+   "tiers": {
+    "d": 12
+   },
+   "tokens": 12
+  },
+  {
+   "key": "βααλίμ",
+   "readings": [],
+   "surfaces": [
+    "Βααλὶμ",
+    "Βααλίμ"
+   ],
+   "tiers": {
+    "d": 11
+   },
+   "tokens": 11
+  },
+  {
+   "key": "δάν",
+   "readings": [],
+   "surfaces": [
+    "Δὰν"
+   ],
+   "tiers": {
+    "d": 11
+   },
+   "tokens": 11
+  },
+  {
+   "key": "ἴν",
+   "readings": [],
+   "surfaces": [
+    "ἴν"
+   ],
+   "tiers": {
+    "e": 11
+   },
+   "tokens": 11
+  },
+  {
+   "key": "ὁ",
+   "readings": [],
+   "surfaces": [
+    "Ὁ"
+   ],
+   "tiers": {
+    "d": 11
+   },
+   "tokens": 11
+  },
+  {
+   "key": "αἰλεῦ",
+   "readings": [],
+   "surfaces": [
+    "αἰλεῦ"
+   ],
+   "tiers": {
+    "e": 10
+   },
+   "tokens": 10
+  },
+  {
+   "key": "αἰθιοπίασ",
+   "readings": [],
+   "surfaces": [
+    "Αἰθιοπίας"
+   ],
+   "tiers": {
+    "d": 9
+   },
+   "tokens": 9
+  },
+  {
+   "key": "σηλώμ",
+   "readings": [],
+   "surfaces": [
+    "Σηλὼμ",
+    "Σηλώμ"
+   ],
+   "tiers": {
+    "d": 9
+   },
+   "tokens": 9
+  },
+  {
+   "key": "σῖτα",
+   "readings": [],
+   "surfaces": [
+    "σῖτα",
+    "σῖτά"
+   ],
+   "tiers": {
+    "e": 9
+   },
+   "tokens": 9
+  },
+  {
+   "key": "ἀρταξέρξου",
+   "readings": [],
+   "surfaces": [
+    "Ἀρταξέρξου"
+   ],
+   "tiers": {
+    "d": 9
+   },
+   "tokens": 9
+  },
+  {
+   "key": "ἰωάσ",
+   "readings": [],
+   "surfaces": [
+    "Ἰωὰς"
+   ],
+   "tiers": {
+    "d": 9
+   },
+   "tokens": 9
+  },
+  {
+   "key": "εἴν",
+   "readings": [],
+   "surfaces": [
+    "εἲν",
+    "εἴν"
+   ],
+   "tiers": {
+    "e": 8
+   },
+   "tokens": 8
+  },
+  {
+   "key": "φύλαξ",
+   "readings": [],
+   "surfaces": [
+    "φύλαξ"
+   ],
+   "tiers": {
+    "e": 8
+   },
+   "tokens": 8
+  },
+  {
+   "key": "ἐσωτέρασ",
+   "readings": [],
+   "surfaces": [
+    "ἐσωτέρας"
+   ],
+   "tiers": {
+    "e": 8
+   },
+   "tokens": 8
+  },
+  {
+   "key": "ἰδουμαίαν",
+   "readings": [],
+   "surfaces": [
+    "Ἰδουμαίαν"
+   ],
+   "tiers": {
+    "d": 8
+   },
+   "tokens": 8
+  },
+  {
+   "key": "αἰθίοπεσ",
+   "readings": [],
+   "surfaces": [
+    "Αἰθίοπες"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "γαί",
+   "readings": [],
+   "surfaces": [
+    "Γαὶ",
+    "Γαῒ"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "γαλαάδ",
+   "readings": [],
+   "surfaces": [
+    "Γαλαάδ",
+    "Γαλαὰδ"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "λίβυεσ",
+   "readings": [],
+   "surfaces": [
+    "Λίβυες"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "μελχόλ",
+   "readings": [],
+   "surfaces": [
+    "Μελχὸλ"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "πεντηκονταετοῦσ",
+   "readings": [],
+   "surfaces": [
+    "πεντηκονταετοῦς"
+   ],
+   "tiers": {
+    "e": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "σαριρά",
+   "readings": [],
+   "surfaces": [
+    "Σαριρὰ"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "σουσακίμ",
+   "readings": [],
+   "surfaces": [
+    "Σουσακὶμ"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "ἀραβίασ",
+   "readings": [],
+   "surfaces": [
+    "Ἀραβίας"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "ἀρταξέρξησ",
+   "readings": [],
+   "surfaces": [
+    "Ἀρταξέρξης"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "ἔσδρασ",
+   "readings": [],
+   "surfaces": [
+    "Ἔσδρας"
+   ],
+   "tiers": {
+    "d": 7
+   },
+   "tokens": 7
+  },
+  {
+   "key": "ζῆθι",
+   "readings": [],
+   "surfaces": [
+    "ζῆθι"
+   ],
+   "tiers": {
+    "e": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "θεραφίν",
+   "readings": [],
+   "surfaces": [
+    "θεραφὶν"
+   ],
+   "tiers": {
+    "e": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "πρεσβυτέρα",
+   "readings": [],
+   "surfaces": [
+    "πρεσβυτέρα"
+   ],
+   "tiers": {
+    "e": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "ἀσηδώθ",
+   "readings": [],
+   "surfaces": [
+    "Ἀσηδὼθ"
+   ],
+   "tiers": {
+    "d": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "ἔνθα",
+   "readings": [],
+   "surfaces": [
+    "ἔνθα"
+   ],
+   "tiers": {
+    "e": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "ἰειήλ",
+   "readings": [],
+   "surfaces": [
+    "Ἰεϊὴλ"
+   ],
+   "tiers": {
+    "d": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "ὦν",
+   "readings": [],
+   "surfaces": [
+    "Ὦν"
+   ],
+   "tiers": {
+    "d": 6
+   },
+   "tokens": 6
+  },
+  {
+   "key": "γαβαά",
+   "readings": [],
+   "surfaces": [
+    "Γαβαὰ",
+    "Γαβαά"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "θαιμάν",
+   "readings": [],
+   "surfaces": [
+    "Θαιμὰν",
+    "θαιμὰν"
+   ],
+   "tiers": {
+    "d": 4,
+    "e": 1
+   },
+   "tokens": 5
+  },
+  {
+   "key": "κανῷ",
+   "readings": [],
+   "surfaces": [
+    "κανῷ"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "κατασκοπεῦσαι",
+   "readings": [],
+   "surfaces": [
+    "κατασκοπεῦσαι"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "κλημακτῆρεσ",
+   "readings": [],
+   "surfaces": [
+    "κλημακτῆρες"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "λεπταί",
+   "readings": [],
+   "surfaces": [
+    "λεπταὶ"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "μεσσάβ",
+   "readings": [],
+   "surfaces": [
+    "Μεσσὰβ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "μισώρ",
+   "readings": [],
+   "surfaces": [
+    "Μισὼρ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ναγέβ",
+   "readings": [],
+   "surfaces": [
+    "ναγὲβ",
+    "Ναγὲβ",
+    "ναγέβ"
+   ],
+   "tiers": {
+    "d": 1,
+    "e": 4
+   },
+   "tokens": 5
+  },
+  {
+   "key": "νασίβ",
+   "readings": [],
+   "surfaces": [
+    "Νασὶβ",
+    "Νασίβ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "περσῶν",
+   "readings": [],
+   "surfaces": [
+    "Περσῶν"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ρώσ",
+   "readings": [],
+   "surfaces": [
+    "Ῥὼς"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "σαβά",
+   "readings": [],
+   "surfaces": [
+    "Σαβὰ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "σηών",
+   "readings": [],
+   "surfaces": [
+    "Σηὼν"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "φρουραί",
+   "readings": [],
+   "surfaces": [
+    "Φρουραί",
+    "Φρουραὶ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ἀλσώδουσ",
+   "readings": [],
+   "surfaces": [
+    "ἀλσώδους"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ἀρμαθαίμ",
+   "readings": [],
+   "surfaces": [
+    "ʼΑρμαθαίμ",
+    "Ἀρμαθαὶμ",
+    "ʼΑρμαθαὶμ"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ἐφώδ",
+   "readings": [],
+   "surfaces": [
+    "ἐφὼδ"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ἔγγιστα",
+   "readings": [],
+   "surfaces": [
+    "ἔγγιστα",
+    "ἔγγιστά"
+   ],
+   "tiers": {
+    "e": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "ἡλιουπόλεωσ",
+   "readings": [],
+   "surfaces": [
+    "Ἡλιουπόλεως"
+   ],
+   "tiers": {
+    "d": 5
+   },
+   "tokens": 5
+  },
+  {
+   "key": "αἰλώμ",
+   "readings": [],
+   "surfaces": [
+    "Αἰλὼμ",
+    "Αἰλώμ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βααλείμ",
+   "readings": [],
+   "surfaces": [
+    "Βααλεὶμ",
+    "Βααλείμ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βαλαδάν",
+   "readings": [],
+   "surfaces": [
+    "Βαλαδὰν"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βαλτάμ",
+   "readings": [],
+   "surfaces": [
+    "βαλτὰμ"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βαμά",
+   "readings": [],
+   "surfaces": [
+    "Βαμὰ",
+    "βαμὰ"
+   ],
+   "tiers": {
+    "d": 2,
+    "e": 2
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βαμᾶ",
+   "readings": [],
+   "surfaces": [
+    "Βαμᾶ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "βηλά",
+   "readings": [],
+   "surfaces": [
+    "Βηλὰ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "διακοπήν",
+   "readings": [],
+   "surfaces": [
+    "διακοπὴν"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "κάδησ",
+   "readings": [],
+   "surfaces": [
+    "Κάδης"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "κανοῦ",
+   "readings": [],
+   "surfaces": [
+    "κανοῦ"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "καταράκτην",
+   "readings": [],
+   "surfaces": [
+    "καταράκτην"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "κατεναντίον",
+   "readings": [],
+   "surfaces": [
+    "κατεναντίον"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "κεκράξατε",
+   "readings": [],
+   "surfaces": [
+    "κεκράξατε"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "μαχίρ",
+   "readings": [],
+   "surfaces": [
+    "Μαχὶρ",
+    "Μαχίρ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ναυή",
+   "readings": [],
+   "surfaces": [
+    "Ναυή",
+    "Ναυὴ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ναυῆ",
+   "readings": [],
+   "surfaces": [
+    "Ναυῆ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "νῶτοι",
+   "readings": [],
+   "surfaces": [
+    "νῶτοι"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "οὐβάλ",
+   "readings": [],
+   "surfaces": [
+    "Οὐβάλ",
+    "Οὐβὰλ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "παραλίαν",
+   "readings": [],
+   "surfaces": [
+    "παραλίαν"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ραββάθ",
+   "readings": [],
+   "surfaces": [
+    "Ῥαββὰθ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ραβσάκησ",
+   "readings": [],
+   "surfaces": [
+    "Ῥαβσάκης"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ραψάκησ",
+   "readings": [],
+   "surfaces": [
+    "Ῥαψάκης"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "σαμαίασ",
+   "readings": [],
+   "surfaces": [
+    "Σαμαΐας",
+    "Σαμαίας"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "σειρήνων",
+   "readings": [],
+   "surfaces": [
+    "σειρήνων"
+   ],
+   "tiers": {
+    "u": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "συριστί",
+   "readings": [],
+   "surfaces": [
+    "Συριστὶ",
+    "Συριστί"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "τάνεωσ",
+   "readings": [],
+   "surfaces": [
+    "Τάνεως"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "τόδε",
+   "readings": [],
+   "surfaces": [
+    "τόδε"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "χέρμελ",
+   "readings": [],
+   "surfaces": [
+    "Χέρμελ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "χλόησ",
+   "readings": [],
+   "surfaces": [
+    "χλόης"
+   ],
+   "tiers": {
+    "u": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "χνοῦσ",
+   "readings": [],
+   "surfaces": [
+    "χνοῦς"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἀνώ",
+   "readings": [],
+   "surfaces": [
+    "Ἀνὼ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἀσχά",
+   "readings": [],
+   "surfaces": [
+    "Ἀσχὰ",
+    "Ἀσχά"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἀώδ",
+   "readings": [],
+   "surfaces": [
+    "Ἀὼδ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἐπεμαρτυράμην",
+   "readings": [],
+   "surfaces": [
+    "ἐπεμαρτυράμην"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἐργῶνται",
+   "readings": [],
+   "surfaces": [
+    "ἐργῶνται"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἐσεβών",
+   "readings": [],
+   "surfaces": [
+    "Ἐσεβὼν"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἰαμίν",
+   "readings": [],
+   "surfaces": [
+    "Ἰαμὶν"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἰνδικῆσ",
+   "readings": [],
+   "surfaces": [
+    "Ἰνδικῆς"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ἰοθόρ",
+   "readings": [],
+   "surfaces": [
+    "Ἰοθόρ",
+    "Ἰοθὸρ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ὤρ",
+   "readings": [],
+   "surfaces": [
+    "Ὢρ"
+   ],
+   "tiers": {
+    "d": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "ὦπται",
+   "readings": [],
+   "surfaces": [
+    "ὦπταί",
+    "ὦπται"
+   ],
+   "tiers": {
+    "e": 4
+   },
+   "tokens": 4
+  },
+  {
+   "key": "αὐνάν",
+   "readings": [],
+   "surfaces": [
+    "Αὐνὰν",
+    "Αὐνάν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "βαράδ",
+   "readings": [],
+   "surfaces": [
+    "Βαρὰδ",
+    "Βαράδ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "βηθμααλώ",
+   "readings": [],
+   "surfaces": [
+    "Βηθμααλὼ",
+    "Βηθμααλώ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "βηρσαβεέ",
+   "readings": [],
+   "surfaces": [
+    "Βηρσαβεὲ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "γεργεσαίων",
+   "readings": [],
+   "surfaces": [
+    "Γεργεσαίων",
+    "Γεργεσαὶων"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "δορκάδα",
+   "readings": [],
+   "surfaces": [
+    "δορκάδα"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "δορκάσ",
+   "readings": [],
+   "surfaces": [
+    "δορκὰς"
+   ],
+   "tiers": {
+    "u": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "εἴρ",
+   "readings": [],
+   "surfaces": [
+    "εἲρ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "εὐαῖοι",
+   "readings": [],
+   "surfaces": [
+    "Εὐαῖοι"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "εὐφρανθείητε",
+   "readings": [],
+   "surfaces": [
+    "εὐφρανθείητε"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "θεείμ",
+   "readings": [],
+   "surfaces": [
+    "θεεὶμ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "καάθ",
+   "readings": [],
+   "surfaces": [
+    "Καὰθ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "κατεπόντισε",
+   "readings": [],
+   "surfaces": [
+    "κατεπόντισε",
+    "κατεπόντισέ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "κεδέμ",
+   "readings": [],
+   "surfaces": [
+    "Κεδὲμ",
+    "Κεδέμ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "κεχρισμένα",
+   "readings": [],
+   "surfaces": [
+    "κεχρισμένα"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "κρωσσούσ",
+   "readings": [],
+   "surfaces": [
+    "κρωσσοὺς",
+    "κρωσσούς"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "λάβαν",
+   "readings": [],
+   "surfaces": [
+    "Λάβαν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "μαάν",
+   "readings": [],
+   "surfaces": [
+    "Μαὰν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ματθαναί",
+   "readings": [],
+   "surfaces": [
+    "Ματθαναΐ",
+    "Ματθαναῒ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "μεμιασμένη",
+   "readings": [],
+   "surfaces": [
+    "μεμιασμένη"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "μιχαίασ",
+   "readings": [],
+   "surfaces": [
+    "Μιχαίας"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "μόλιβοσ",
+   "readings": [],
+   "surfaces": [
+    "μόλιβος"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "νεομηνία",
+   "readings": [],
+   "surfaces": [
+    "νεομηνία"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "νοσσοῖσ",
+   "readings": [],
+   "surfaces": [
+    "νοσσοῖς"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "περίχωρα",
+   "readings": [],
+   "surfaces": [
+    "περίχωρα"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "πρίασθαι",
+   "readings": [],
+   "surfaces": [
+    "πρίασθαι"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ρῖνα",
+   "readings": [],
+   "surfaces": [
+    "ῥῖνα",
+    "ῥῖνά"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "σίκιμα",
+   "readings": [],
+   "surfaces": [
+    "Σίκιμα"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "σαυτοῦ",
+   "readings": [],
+   "surfaces": [
+    "σαυτοῦ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "σεφηλά",
+   "readings": [],
+   "surfaces": [
+    "σεφηλὰ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "συμοών",
+   "readings": [],
+   "surfaces": [
+    "Συμοὼν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "τρήσει",
+   "readings": [],
+   "surfaces": [
+    "τρήσει"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "χερουβείμ",
+   "readings": [],
+   "surfaces": [
+    "χερουβείμ",
+    "χερουβεὶμ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "χωθάρ",
+   "readings": [],
+   "surfaces": [
+    "χωθὰρ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "χωθαρέθ",
+   "readings": [],
+   "surfaces": [
+    "χωθαρὲθ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀγγαί",
+   "readings": [],
+   "surfaces": [
+    "Ἀγγαί",
+    "Ἀγγαὶ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀδωναί",
+   "readings": [],
+   "surfaces": [
+    "ἀδωναῒ",
+    "Ἀδωναῒ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀμάν",
+   "readings": [],
+   "surfaces": [
+    "Ἀμὰν",
+    "Ἀμάν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀμαλήκ",
+   "readings": [],
+   "surfaces": [
+    "Ἀμαλὴκ",
+    "ʼΑμαλήκ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀνάν",
+   "readings": [],
+   "surfaces": [
+    "Ἀνὰν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀντιλήμπτωρ",
+   "readings": [],
+   "surfaces": [
+    "ἀντιλήμπτωρ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀσκάλωνα",
+   "readings": [],
+   "surfaces": [
+    "Ἀσκάλωνα"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἀχραθαῖον",
+   "readings": [],
+   "surfaces": [
+    "Ἀχραθαῖον"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἄραβα",
+   "readings": [],
+   "surfaces": [
+    "Ἄραβα",
+    "ἄραβα"
+   ],
+   "tiers": {
+    "d": 2,
+    "e": 1
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἐνάκ",
+   "readings": [],
+   "surfaces": [
+    "Ἐνάκ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἐνεπάγησαν",
+   "readings": [],
+   "surfaces": [
+    "Ἐνεπάγησαν",
+    "ἐνεπάγησάν"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἐσδρί",
+   "readings": [],
+   "surfaces": [
+    "Ἐσδρί"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἐσεφίμ",
+   "readings": [],
+   "surfaces": [
+    "Ἐσεφὶμ",
+    "Ἐσεφίμ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἐσωτέρᾳ",
+   "readings": [],
+   "surfaces": [
+    "ἐσωτέρᾳ"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἔλθοισαν",
+   "readings": [],
+   "surfaces": [
+    "ἔλθοισαν",
+    "Ἔλθοισαν"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἡττηθήσονται",
+   "readings": [],
+   "surfaces": [
+    "ἡττηθήσονται"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἡττᾶσθε",
+   "readings": [],
+   "surfaces": [
+    "ἡττᾶσθε"
+   ],
+   "tiers": {
+    "e": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἰδιθούν",
+   "readings": [],
+   "surfaces": [
+    "Ἰδιθοὺν"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἰεβούσ",
+   "readings": [],
+   "surfaces": [
+    "Ἰεβοὺς",
+    "Ἰεβούς"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ἰού",
+   "readings": [],
+   "surfaces": [
+    "Ἰοὺ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "ὀφέρ",
+   "readings": [],
+   "surfaces": [
+    "Ὀφὲρ"
+   ],
+   "tiers": {
+    "d": 3
+   },
+   "tokens": 3
+  },
+  {
+   "key": "αἰθιοπίαν",
+   "readings": [],
+   "surfaces": [
+    "Αἰθιοπίαν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αἰλάμ",
+   "readings": [],
+   "surfaces": [
+    "Αἰλὰμ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αἰνάν",
+   "readings": [],
+   "surfaces": [
+    "Αἰνὰν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αἰσθητική",
+   "readings": [],
+   "surfaces": [
+    "αἰσθητική",
+    "αἰσθητικὴ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αἴλ",
+   "readings": [],
+   "surfaces": [
+    "αἲλ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αὐσή",
+   "readings": [],
+   "surfaces": [
+    "Αὐσὴ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "αὐτῶσ",
+   "readings": [],
+   "surfaces": [
+    "αὐτῶς"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαβυλωνίασ",
+   "readings": [],
+   "surfaces": [
+    "Βαβυλωνίας"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαιθήλ",
+   "readings": [],
+   "surfaces": [
+    "Βαιθήλ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαιθακάθ",
+   "readings": [],
+   "surfaces": [
+    "βαιθακὰθ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαιών",
+   "readings": [],
+   "surfaces": [
+    "Βαιὼν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαλέ",
+   "readings": [],
+   "surfaces": [
+    "Βαλὲ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαμᾷ",
+   "readings": [],
+   "surfaces": [
+    "Βαμᾷ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βαρκηνίμ",
+   "readings": [],
+   "surfaces": [
+    "Βαρκηνίμ",
+    "Βαρκηνὶμ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βεβηλωμένην",
+   "readings": [],
+   "surfaces": [
+    "βεβηλωμένην"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βενεννόμ",
+   "readings": [],
+   "surfaces": [
+    "Βενεννόμ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βορέασ",
+   "readings": [],
+   "surfaces": [
+    "Βορέας"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "βραχήσεται",
+   "readings": [],
+   "surfaces": [
+    "βραχήσεται"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γαιβάλ",
+   "readings": [],
+   "surfaces": [
+    "Γαιβὰλ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γαιθάν",
+   "readings": [],
+   "surfaces": [
+    "Γαιθὰν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γαυνί",
+   "readings": [],
+   "surfaces": [
+    "Γαυνί",
+    "Γαυνὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γεθαίμ",
+   "readings": [],
+   "surfaces": [
+    "Γεθαίμ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γεσιρί",
+   "readings": [],
+   "surfaces": [
+    "Γεσιρὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γεφάρ",
+   "readings": [],
+   "surfaces": [
+    "Γεφὰρ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γολιάδ",
+   "readings": [],
+   "surfaces": [
+    "Γολιάδ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γοναιθλάν",
+   "readings": [],
+   "surfaces": [
+    "Γοναιθλὰν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "γόμορ",
+   "readings": [],
+   "surfaces": [
+    "γόμορ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δέδειχα",
+   "readings": [],
+   "surfaces": [
+    "δέδειχά",
+    "δέδειχα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δέεσθαι",
+   "readings": [],
+   "surfaces": [
+    "δέεσθαί"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δίδραγμα",
+   "readings": [],
+   "surfaces": [
+    "δίδραγμα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δίδυμα",
+   "readings": [],
+   "surfaces": [
+    "δίδυμα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δίδυμοι",
+   "readings": [],
+   "surfaces": [
+    "δίδυμοι"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δαδαί",
+   "readings": [],
+   "surfaces": [
+    "Δαδαί",
+    "Δαδαὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δεδοικώσ",
+   "readings": [],
+   "surfaces": [
+    "δεδοικὼς"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δεκατριῶν",
+   "readings": [],
+   "surfaces": [
+    "δεκατριῶν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δησών",
+   "readings": [],
+   "surfaces": [
+    "Δησὼν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "διέφαυσε",
+   "readings": [],
+   "surfaces": [
+    "διέφαυσε"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "διακεχρισμένα",
+   "readings": [],
+   "surfaces": [
+    "διακεχρισμένα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "διακοπῶν",
+   "readings": [],
+   "surfaces": [
+    "διακοπῶν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "διοσπόλει",
+   "readings": [],
+   "surfaces": [
+    "Διοσπόλει"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δορκάδι",
+   "readings": [],
+   "surfaces": [
+    "δορκάδι"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δορκάδοσ",
+   "readings": [],
+   "surfaces": [
+    "δορκάδος"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δορκάδων",
+   "readings": [],
+   "surfaces": [
+    "δορκάδων"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δωμανά",
+   "readings": [],
+   "surfaces": [
+    "Δωμανά"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "δῴησ",
+   "readings": [],
+   "surfaces": [
+    "δῴης"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "εἴτοι",
+   "readings": [],
+   "surfaces": [
+    "εἴτοι"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "εὐώδωκε",
+   "readings": [],
+   "surfaces": [
+    "εὐώδωκε"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ζαφωίν",
+   "readings": [],
+   "surfaces": [
+    "Ζαφωΐν",
+    "Ζαφωίν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ηὐξημένοσ",
+   "readings": [],
+   "surfaces": [
+    "ηὐξημένος"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "θαμνασαχάρ",
+   "readings": [],
+   "surfaces": [
+    "Θαμνασαχάρ",
+    "Θαμνασαχὰρ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "θαρσίσ",
+   "readings": [],
+   "surfaces": [
+    "Θαρσίς",
+    "Θαρσὶς"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "θιμωνία",
+   "readings": [],
+   "surfaces": [
+    "θιμωνία"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κανᾶ",
+   "readings": [],
+   "surfaces": [
+    "κανᾶ"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "καρμήλου",
+   "readings": [],
+   "surfaces": [
+    "Καρμήλου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "καρμήλῳ",
+   "readings": [],
+   "surfaces": [
+    "Καρμήλῳ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "καρυίνην",
+   "readings": [],
+   "surfaces": [
+    "καρυΐνην"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "καρχηδόνιοι",
+   "readings": [],
+   "surfaces": [
+    "Καρχηδόνιοι"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κατέσθουσα",
+   "readings": [],
+   "surfaces": [
+    "κατέσθουσα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "καταράκτασ",
+   "readings": [],
+   "surfaces": [
+    "καταράκτας"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κατεπόντισεν",
+   "readings": [],
+   "surfaces": [
+    "κατεπόντισεν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κειράδασ",
+   "readings": [],
+   "surfaces": [
+    "κειράδας"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κεκαρμένων",
+   "readings": [],
+   "surfaces": [
+    "κεκαρμένων"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κεκατήρανται",
+   "readings": [],
+   "surfaces": [
+    "κεκατήρανται"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κεκλήσεται",
+   "readings": [],
+   "surfaces": [
+    "κεκλήσεται"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κναφέωσ",
+   "readings": [],
+   "surfaces": [
+    "κναφέως"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κυνομυίησ",
+   "readings": [],
+   "surfaces": [
+    "κυνομυίης"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "κύρῳ",
+   "readings": [],
+   "surfaces": [
+    "Κύρῳ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "λέληθε",
+   "readings": [],
+   "surfaces": [
+    "Λέληθε",
+    "λέληθε"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "λεπτῆσ",
+   "readings": [],
+   "surfaces": [
+    "λεπτῆς"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μέλισσαι",
+   "readings": [],
+   "surfaces": [
+    "μέλισσαι"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μήδων",
+   "readings": [],
+   "surfaces": [
+    "Μήδων"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μαασαίου",
+   "readings": [],
+   "surfaces": [
+    "Μαασαίου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μασφάρ",
+   "readings": [],
+   "surfaces": [
+    "Μασφὰρ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μεραρί",
+   "readings": [],
+   "surfaces": [
+    "Μεραρί",
+    "Μεραρὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μιναίουσ",
+   "readings": [],
+   "surfaces": [
+    "Μιναίους"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μιναίων",
+   "readings": [],
+   "surfaces": [
+    "Μιναίων"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μολίβῳ",
+   "readings": [],
+   "surfaces": [
+    "μολίβῳ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "μωαβιτῶν",
+   "readings": [],
+   "surfaces": [
+    "Μωαβιτῶν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "νάβαλ",
+   "readings": [],
+   "surfaces": [
+    "Νάβαλ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ναβάτ",
+   "readings": [],
+   "surfaces": [
+    "Ναβὰτ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ναβαύ",
+   "readings": [],
+   "surfaces": [
+    "Ναβαὺ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ναβδεήλ",
+   "readings": [],
+   "surfaces": [
+    "Ναβδεὴλ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "νεομηνίαισ",
+   "readings": [],
+   "surfaces": [
+    "νεομηνίαις"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "νοεμάν",
+   "readings": [],
+   "surfaces": [
+    "Νοεμάν",
+    "Νοεμὰν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "νοσσῶν",
+   "readings": [],
+   "surfaces": [
+    "νοσσῶν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "νῶτοσ",
+   "readings": [],
+   "surfaces": [
+    "νῶτος"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πέρα",
+   "readings": [],
+   "surfaces": [
+    "πέρα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πέταται",
+   "readings": [],
+   "surfaces": [
+    "πέταται"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "παρασυνεβλήθη",
+   "readings": [],
+   "surfaces": [
+    "παρασυνεβλήθη"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πεπληθυμμένη",
+   "readings": [],
+   "surfaces": [
+    "πεπληθυμμένη"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πρίασθε",
+   "readings": [],
+   "surfaces": [
+    "πρίασθε"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πρεσβυτέραν",
+   "readings": [],
+   "surfaces": [
+    "πρεσβυτέραν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "πτολεμαίου",
+   "readings": [],
+   "surfaces": [
+    "Πτολεμαίου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ραβσάκου",
+   "readings": [],
+   "surfaces": [
+    "Ῥαβσάκου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ρασίμ",
+   "readings": [],
+   "surfaces": [
+    "Ῥασίμ",
+    "Ῥασὶμ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ραφίσ",
+   "readings": [],
+   "surfaces": [
+    "Ῥαφὶς"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ραψάκην",
+   "readings": [],
+   "surfaces": [
+    "Ῥαψάκην"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ραψάκου",
+   "readings": [],
+   "surfaces": [
+    "Ῥαψάκου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ρηχάβ",
+   "readings": [],
+   "surfaces": [
+    "Ῥηχὰβ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ρινί",
+   "readings": [],
+   "surfaces": [
+    "ῥινὶ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ρισών",
+   "readings": [],
+   "surfaces": [
+    "Ῥισών"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ρόδιοι",
+   "readings": [],
+   "surfaces": [
+    "Ῥόδιοι",
+    "Ῥόδὶοι"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαβαχά",
+   "readings": [],
+   "surfaces": [
+    "σαβαχά",
+    "σαβαχὰ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαββατίσαι",
+   "readings": [],
+   "surfaces": [
+    "σαββατίσαι"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαββατιεῖ",
+   "readings": [],
+   "surfaces": [
+    "σαββατιεῖ"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαλαμίν",
+   "readings": [],
+   "surfaces": [
+    "Σαλαμίν",
+    "Σαλαμὶν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαμαίαν",
+   "readings": [],
+   "surfaces": [
+    "Σαμαίαν"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαμεί",
+   "readings": [],
+   "surfaces": [
+    "Σαμεΐ",
+    "Σαμεῒ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σατάν",
+   "readings": [],
+   "surfaces": [
+    "σατὰν"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σαυτῷ",
+   "readings": [],
+   "surfaces": [
+    "σαυτῷ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σειρῆνεσ",
+   "readings": [],
+   "surfaces": [
+    "σειρῆνες"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σηλώ",
+   "readings": [],
+   "surfaces": [
+    "Σηλὼ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σοκχώθ",
+   "readings": [],
+   "surfaces": [
+    "Σοκχὼθ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σουθαλά",
+   "readings": [],
+   "surfaces": [
+    "Σουθαλά",
+    "Σουθαλὰ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σουνί",
+   "readings": [],
+   "surfaces": [
+    "Σουνί",
+    "Σουνὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σπινθῆρεσ",
+   "readings": [],
+   "surfaces": [
+    "σπινθῆρες"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "συναντιλήψονται",
+   "readings": [],
+   "surfaces": [
+    "συναντιλήψονταί",
+    "συναντιλήψονται"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "συνεπεσκέπησαν",
+   "readings": [],
+   "surfaces": [
+    "συνεπεσκέπησαν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "συριγμόν",
+   "readings": [],
+   "surfaces": [
+    "συριγμὸν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σχοίη",
+   "readings": [],
+   "surfaces": [
+    "Σχοίη",
+    "σχοίη"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "σύρου",
+   "readings": [],
+   "surfaces": [
+    "Σύρου"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τέτοκα",
+   "readings": [],
+   "surfaces": [
+    "τέτοκα"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τέτοκασ",
+   "readings": [],
+   "surfaces": [
+    "τέτοκας",
+    "τέτοκασ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τέτοκε",
+   "readings": [],
+   "surfaces": [
+    "τέτοκε"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τίγρισ",
+   "readings": [],
+   "surfaces": [
+    "Τίγρις"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τεθλασμένην",
+   "readings": [],
+   "surfaces": [
+    "τεθλασμένην"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τερέμινθον",
+   "readings": [],
+   "surfaces": [
+    "τερέμινθον"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τετρωμένη",
+   "readings": [],
+   "surfaces": [
+    "τετρωμένη"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τιτάνων",
+   "readings": [],
+   "surfaces": [
+    "Τιτάνων"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τρίοσ",
+   "readings": [],
+   "surfaces": [
+    "τρίος"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τρώσῃ",
+   "readings": [],
+   "surfaces": [
+    "τρώσῃ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "τύραννοσ",
+   "readings": [],
+   "surfaces": [
+    "τύραννος"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "φασέχ",
+   "readings": [],
+   "surfaces": [
+    "φασὲχ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χαβραθά",
+   "readings": [],
+   "surfaces": [
+    "Χαβραθὰ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χαρμί",
+   "readings": [],
+   "surfaces": [
+    "Χαρμί",
+    "Χαρμὶ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χελχά",
+   "readings": [],
+   "surfaces": [
+    "Χελχὰ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χλόη",
+   "readings": [],
+   "surfaces": [
+    "χλόη"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χλόην",
+   "readings": [],
+   "surfaces": [
+    "χλόην"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χλόῃ",
+   "readings": [],
+   "surfaces": [
+    "χλόῃ"
+   ],
+   "tiers": {
+    "u": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χνοῦν",
+   "readings": [],
+   "surfaces": [
+    "χνοῦν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χριστῶν",
+   "readings": [],
+   "surfaces": [
+    "χριστῶν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χρώματοσ",
+   "readings": [],
+   "surfaces": [
+    "χρώματος"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χυτροκαύλουσ",
+   "readings": [],
+   "surfaces": [
+    "χυτροκαύλους"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "χωθωνώθ",
+   "readings": [],
+   "surfaces": [
+    "χωθωνὼθ"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ψηλαφήσαισαν",
+   "readings": [],
+   "surfaces": [
+    "Ψηλαφήσαισαν",
+    "ψηλαφήσαισαν"
+   ],
+   "tiers": {
+    "e": 2
+   },
+   "tokens": 2
+  },
+  {
+   "key": "ἀβαμά",
+   "readings": [],
+   "surfaces": [
+    "Ἀβαμὰ"
+   ],
+   "tiers": {
+    "d": 2
+   },
+   "tokens": 2
+  }
+ ],
+ "untaggedReasons": {
+  "lower case: only name readings": 38,
+  "name-like: no candidate": 1328,
+  "name-like: only common readings": 181,
+  "no candidate": 1606
+ }
+}

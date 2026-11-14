@@ -1,0 +1,462 @@
+ref	osis	token	start	end	surface	strongs	lemma	morph	confidence	method	margin	tier	reason	key	n_readings	candidates	runner_up	set_aside	part	name_hebrew	name_score	name_grammar	name_key	name_note	name_replaces	name_relation
+31001001	Obad.1.1	0	0	6	ὍΡΑΣΙΣ	G3706	ὅρασις	N-NSF	0.9677	model	89.64	b	several parses	ὅρασισ	2	G3706|ὅρασις|N-NSF|analyser|1 ; G3706|ὅρασις|N-VSF|analyser|0.2	G3706|ὅρασις|N-VSF|analyser|0.2									
+31001001	Obad.1.1	1	7	13	Ὀβδίου	H5662	Ὀβδίου		0.8406	hebrew-verse	8.07205	d	name-like: no candidate	ὀβδίου	0					31001001#2 H5662R עֹֽבַדְיָ֑ה Obadiah	8.07	N-?SM-P	tahot			transliterates
+31001001	Obad.1.1	2	15	19	Τάδε	G3592	ὅδε, ἥδε	D-APN	0.8944	model	28.18	b	several parses	τάδε	2	G3592|ὅδε, ἥδε|D-APN|nt-form|9 ; G3592|ὅδε, ἥδε|D-NPN|nt-form+paradigm|0	G3592|ὅδε, ἥδε|D-NPN|nt-form+paradigm|0									
+31001001	Obad.1.1	3	20	25	λέγει	G3004	λέγω	V-PAI-3S	0.9965	unique	inf	a	one reading	λέγει	1	G3004|λέγω|V-PAI-3S|nt-form|342										
+31001001	Obad.1.1	4	26	32	Κύριος	G2962	κύριος	N-NSM-T	0.9940	model	159	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+31001001	Obad.1.1	5	33	34	ὁ	G3588	ὁ	T-NSM	0.9940	model	146.1	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+31001001	Obad.1.1	6	35	39	Θεὸς	G2316	θεός	N-NSM-T	0.9940	model	146.1	b	several parses	θεόσ	2	G2316|θεός|N-NSM-T|nt-form|310 ; G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-VSM-T|nt-form|11	G2316|θεός|N-NSM|nt-form|1|capitalised mid-sentence: a name or title								
+31001001	Obad.1.1	7	40	42	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+31001001	Obad.1.1	8	43	51	Ἰδουμαίᾳ	G2401	Ἰδουμαία		0.9333	tolerant	inf	u	tolerant match only	ἰδουμαίᾳ	1	G2401|Ἰδουμαία||tbesg-tolerant|1				31001001#7 H0123G אֱד֗וֹם Edom	0.11			the Hebrew suggests H123 Edom; TBESG gives the tolerant match no Hebrew name to contradict, so it is kept		
+31001001	Obad.1.1	9	53	58	ἀκοὴν	G189	ἀκοή	N-ASF	0.9965	unique	inf	a	one reading	ἀκοήν	1	G189|ἀκοή|N-ASF|nt-form|3										
+31001001	Obad.1.1	10	59	65	ἤκουσα	G191	ἀκούω	V-AAI-1S	0.9965	unique	inf	a	one reading	ἤκουσα	1	G191|ἀκούω|V-AAI-1S|nt-form|35										
+31001001	Obad.1.1	11	66	70	παρὰ	G3844	παρά	PREP	0.9965	unique	inf	a	one reading	παρά	1	G3844|παρά|PREP|nt-form|135										
+31001001	Obad.1.1	12	71	77	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+31001001	Obad.1.1	13	79	82	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001001	Obad.1.1	14	83	91	περιοχὴν	G4042	περιοχή	N-ASF	0.9744	unique	inf	a	one reading	περιοχήν	1	G4042|περιοχή|N-ASF|analyser|1										
+31001001	Obad.1.1	15	92	95	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001001	Obad.1.1	16	96	98	τὰ	G3588	ὁ	T-APN	0.9941	model	1100	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-NPN|nt-form|230									
+31001001	Obad.1.1	17	99	103	ἔθνη	G1484	ἔθνος	N-APN	0.9234	model	124.5	b	several parses	ἔθνη	3	G1484|ἔθνος|N-APN|nt-form|26 ; G1484|ἔθνος|N-NPN|nt-form|26 ; G1484|ἔθνος|N-VPN|nt-form|2	G1484|ἔθνος|N-VPN|nt-form|2									
+31001001	Obad.1.1	18	104	116	ἐξαπέστειλεν	G1821	ἐξαποστέλλω	V-2AAI-3S	0.9965	unique	inf	a	one reading	ἐξαπέστειλεν	1	G1821|ἐξαποστέλλω|V-2AAI-3S|nt-form|6										
+31001001	Obad.1.1	19	118	126	ἀνάστητε	G450	ἀνίστημι	V-2AAM-2P	0.5324	model	5.868	b	several parses	ἀνάστητε	2	G450|ἀνίστημι|V-AAS-2P|analyser|1 ; G450|ἀνίστημι|V-2AAM-2P|analyser|0.95	G450|ἀνίστημι|V-AAS-2P|analyser|1									
+31001001	Obad.1.1	20	128	131	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001001	Obad.1.1	21	132	143	ἐξαναστῶμεν	G1817	ἐξανίστημι	V-2AAS-1P	0.9744	unique	inf	a	one reading	ἐξαναστῶμεν	1	G1817|ἐξανίστημι|V-2AAS-1P|analyser|1										
+31001001	Obad.1.1	22	144	147	ἐπʼ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπ’	1	G1909|ἐπί|PREP|nt-form|150										
+31001001	Obad.1.1	23	148	153	αὐτὴν	G846	αὐτός	P-ASF	0.9735	model	54.32	c	several words	αὐτήν	2	G846|αὐτός|P-ASF|nt-form|142 ; G1438|ἑαυτοῦ|F-3ASF|nt-form|1	G1438|ἑαυτοῦ|F-3ASF|nt-form|1									
+31001001	Obad.1.1	24	154	157	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001001	Obad.1.1	25	158	165	πόλεμον	G4171	πόλεμος	N-ASM	0.9965	unique	inf	a	one reading	πόλεμον	1	G4171|πόλεμος|N-ASM|nt-form|11										
+31001002	Obad.1.2	0	0	4	Ἰδοὺ	G2400	ἰδού	INJ	0.9965	unique	inf	a	one reading	ἰδού	1	G2400|ἰδού|INJ|nt-form|208										
+31001002	Obad.1.2	1	5	14	ὀλιγοστὸν	G8483	ὀλιγοστός	A-ASM	0.4695	model	5.735	b	several parses	ὀλιγοστόν	5	G8483|ὀλιγοστός|A-ASM|analyser|1 ; G8483|ὀλιγοστός|A-ASN|analyser|1 ; G8483|ὀλιγοστός|A-NSN|analyser|1 ; G8483|ὀλιγοστός|A-VSN|analyser|1 ; G8483|ὀλιγοστός|A-ASF|analyser|0.15	G8483|ὀλιγοστός|A-ASN|analyser|1									
+31001002	Obad.1.2	2	15	21	δέδωκά	G1325	δίδωμι	V-RAI-1S	0.9965	unique	inf	a	one reading	δέδωκα	1	G1325|δίδωμι|V-RAI-1S|nt-form|5										
+31001002	Obad.1.2	3	22	24	σε	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σε	1	G4771|σύ|P-2AS|nt-form|165										
+31001002	Obad.1.2	4	25	27	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001002	Obad.1.2	5	28	32	τοῖς	G3588	ὁ	T-DPN	0.9835	model	75.68	b	several parses	τοῖσ	2	G3588|ὁ|T-DPM|nt-form|472 ; G3588|ὁ|T-DPN|nt-form|167	G3588|ὁ|T-DPM|nt-form|472									
+31001002	Obad.1.2	6	33	40	ἔθνεσιν	G1484	ἔθνος	N-DPN	0.9965	unique	inf	a	one reading	ἔθνεσιν	1	G1484|ἔθνος|N-DPN|nt-form|32										
+31001002	Obad.1.2	7	42	52	ἠτιμωμένος	G821	ἀτιμόω	V-RPP-NSM	0.5324	model	3.961	b	several parses	ἠτιμωμένοσ	2	G821|ἀτιμόω|V-RPP-NSM|analyser|1 ; G821|ἀτιμόω|V-RMP-NSM|analyser|0.5	G821|ἀτιμόω|V-RMP-NSM|analyser|0.5									
+31001002	Obad.1.2	8	53	55	εἶ	G1510	εἰμί	V-PAI-2S	0.9965	unique	inf	a	one reading	εἶ	1	G1510|εἰμί|V-PAI-2S|nt-form|92										
+31001002	Obad.1.2	9	56	58	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+31001002	Obad.1.2	10	59	65	σφόδρα	G4970	σφόδρα	ADV	0.9965	unique	inf	a	one reading	σφόδρα	1	G4970|σφόδρα|ADV|nt-form|11										
+31001003	Obad.1.3	0	0	10	Ὑπερηφανία	G5243	ὑπερηφανία	N-NSF	0.9965	unique	inf	a	one reading	ὑπερηφανία	1	G5243|ὑπερηφανία|N-NSF|nt-form|1										
+31001003	Obad.1.3	1	11	14	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+31001003	Obad.1.3	2	15	22	καρδίας	G2588	καρδία	N-GSF	0.9835	model	74.84	b	several parses	καρδίασ	2	G2588|καρδία|N-GSF|nt-form|35 ; G2588|καρδία|N-APF|nt-form|25	G2588|καρδία|N-APF|nt-form|25									
+31001003	Obad.1.3	3	23	26	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001003	Obad.1.3	4	27	32	ἐπῇρέ	G1869	ἐπαίρω	V-AAI-3S	0.5324	model	6.697	b	several parses	ἐπῇρε	2	G1869|ἐπαίρω|V-AAI-3S|analyser|1 ; G1869|ἐπαίρω|V-IAI-3S|analyser|0.75	G1869|ἐπαίρω|V-IAI-3S|analyser|0.75									
+31001003	Obad.1.3	5	33	35	σε	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σε	1	G4771|σύ|P-2AS|nt-form|165										
+31001003	Obad.1.3	6	36	49	κατασκηνοῦντα	G2681	κατασκηνόω	V-PAP-ASM	0.9188	model	40.75	b	several parses	κατασκηνοῦντα	3	G2681|κατασκηνόω|V-PAP-APN|analyser|1 ; G2681|κατασκηνόω|V-PAP-ASM|analyser|1 ; G2681|κατασκηνόω|V-PAP-NPN|analyser|1	G2681|κατασκηνόω|V-PAP-APN|analyser|1									
+31001003	Obad.1.3	7	50	52	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001003	Obad.1.3	8	53	57	ταῖς	G3588	ὁ	T-DPF	0.9965	unique	inf	a	one reading	ταῖσ	1	G3588|ὁ|T-DPF|nt-form|206										
+31001003	Obad.1.3	9	58	63	ὀπαῖς	G3692	ὀπή	N-DPF	0.9965	unique	inf	a	one reading	ὀπαῖσ	1	G3692|ὀπή|N-DPF|nt-form|1										
+31001003	Obad.1.3	10	64	67	τῶν	G3588	ὁ	T-GPF	0.8828	model	50.33	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+31001003	Obad.1.3	11	68	74	πετρῶν	G4073	πέτρα	N-GPF	0.9744	unique	inf	a	one reading	πετρῶν	1	G4073|πέτρα|N-GPF|analyser|1										
+31001003	Obad.1.3	12	76	80	ὑψῶν	G5312	ὑψόω	V-PAP-NSM	0.9965	unique	inf	a	one reading	ὑψῶν	1	G5312|ὑψόω|V-PAP-NSM|nt-form|2										
+31001003	Obad.1.3	13	81	90	κατοικίαν	G2733	κατοικία	N-ASF	0.9744	unique	inf	a	one reading	κατοικίαν	1	G2733|κατοικία|N-ASF|analyser|1										
+31001003	Obad.1.3	14	91	96	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	28.81	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G1438|ἑαυτοῦ|F-3GSM|nt-form|1									
+31001003	Obad.1.3	15	98	103	λέγων	G3004	λέγω	V-PAP-NSM	0.9862	model	110.2	b	several parses	λέγων	2	G3004|λέγω|V-PAP-NSM|nt-form|189 ; G3004|λέγω|V-PAP-VSM|nt-form|1	G3004|λέγω|V-PAP-VSM|nt-form|1									
+31001003	Obad.1.3	16	104	106	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001003	Obad.1.3	17	107	113	καρδίᾳ	G2588	καρδία	N-DSF	0.9965	unique	inf	a	one reading	καρδίᾳ	1	G2588|καρδία|N-DSF|nt-form|35										
+31001003	Obad.1.3	18	114	119	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	27.67	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+31001003	Obad.1.3	19	121	124	τίς	G5101	τίς	I-NSM	0.6705	model	14.8	c	several words	τίσ	3	G5101|τίς|I-NSM|nt-form|129 ; G5101|τίς|I-NSF|nt-form|21 ; G5100|τις|X-NSM|nt-form|5	G5101|τίς|I-NSF|nt-form|21									
+31001003	Obad.1.3	20	125	132	κατάξει	G2609	κατάγω	V-FAI-3S	0.8505	model	20.26	c	several words	κατάξει	6	G2609|κατάγω|V-FAI-3S|analyser|1 ; G2609|κατάγω|V-FDI-2S|analyser|0.5 ; G2609|κατάγω|V-FMI-2S|analyser|0.5 ; G2608|κατάγνυμι|V-FAI-3S|analyser|0.1134 ; G2608|κατάγνυμι|V-FDI-2S|analyser|0.0567 ; G2608|κατάγνυμι|V-FMI-2S|analyser|0.0567	G2608|κατάγνυμι|V-FAI-3S|analyser|0.1134									
+31001003	Obad.1.3	21	133	135	με	G3165	ἐγώ	P-1AS	0.9965	unique	inf	a	one reading	με	1	G3165|ἐγώ|P-1AS|nt-form|297										
+31001003	Obad.1.3	22	136	139	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001003	Obad.1.3	23	140	143	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001003	Obad.1.3	24	144	147	γῆν	G1093	γῆ	N-ASF	0.9965	unique	inf	a	one reading	γῆν	1	G1093|γῆ|N-ASF|nt-form|79										
+31001004	Obad.1.4	0	0	3	Ἐὰν	G1437	ἐάν	COND	0.9965	unique	inf	a	one reading	ἐάν	1	G1437|ἐάν|COND|nt-form|342										
+31001004	Obad.1.4	1	4	15	μετεωρισθῇς	G3349	μετεωρίζω	V-APS-2S	0.5324	model	5.7	b	several parses	μετεωρισθῇσ	2	G3349|μετεωρίζω|V-APS-2S|analyser|1 ; G3349|μετεωρίζω|V-AOS-2S|analyser|0.2	G3349|μετεωρίζω|V-AOS-2S|analyser|0.2									
+31001004	Obad.1.4	2	17	19	ὡς	G5613	ὡς	PRT	0.9965	unique	inf	a	one reading	ὡσ	1	G5613|ὡς|PRT|nt-form|517										
+31001004	Obad.1.4	3	20	25	ἀετὸς	G105	ἀετός	N-NSM	0.9441	model	56.61	b	several parses	ἀετόσ	2	G105|ἀετός|N-NSM|analyser|1 ; G105|ἀετός|N-VSM|analyser|0.2	G105|ἀετός|N-VSM|analyser|0.2									
+31001004	Obad.1.4	4	27	30	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001004	Obad.1.4	5	31	34	ἐὰν	G1437	ἐάν	COND	0.9965	unique	inf	a	one reading	ἐάν	1	G1437|ἐάν|COND|nt-form|342										
+31001004	Obad.1.4	6	35	38	ἀνα	G303	ἀνά	PREP	0.9965	unique	inf	a	one reading	ἀνά	1	G303|ἀνά|PREP|nt-form|13			1/2							
+31001004	Obad.1.4	7	38	43	μέσον	G3319	μέσος	A-ASN	0.9234	model	104	b	several parses	μέσον	3	G3319|μέσος|A-ASN|nt-form|16 ; G3319|μέσος|A-NSN|nt-form+paradigm|0 ; G3319|μέσος|A-VSN|nt-form+paradigm|0	G3319|μέσος|A-NSN|nt-form+paradigm|0		2/2							
+31001004	Obad.1.4	8	44	47	τῶν	G3588	ὁ	T-GPN	0.9203	model	70.63	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+31001004	Obad.1.4	9	48	54	ἄστρων	G798	ἄστρον	N-GPN	0.9965	unique	inf	a	one reading	ἄστρων	1	G798|ἄστρον|N-GPN|nt-form|1										
+31001004	Obad.1.4	10	55	58	θῇς	G5087	τίθημι	V-2AAS-2S	0.9744	unique	inf	a	one reading	θῇσ	1	G5087|τίθημι|V-2AAS-2S|analyser|1										
+31001004	Obad.1.4	11	59	66	νοσσιάν	G3555	νοσσιά	N-ASF	0.9965	unique	inf	a	one reading	νοσσιάν	1	G3555|νοσσιά|N-ASF|nt-form|1										
+31001004	Obad.1.4	12	67	70	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001004	Obad.1.4	13	72	79	ἐκεῖθεν	G1564	ἐκεῖθεν	ADV	0.9965	unique	inf	a	one reading	ἐκεῖθεν	1	G1564|ἐκεῖθεν|ADV|nt-form|28										
+31001004	Obad.1.4	14	80	86	κατάξω	G2609	κατάγω	V-FAI-1S	0.8505	model	29.14	c	several words	κατάξω	4	G2609|κατάγω|V-FAI-1S|analyser|1 ; G2609|κατάγω|V-AAS-1S|analyser|0.9444 ; G2608|κατάγνυμι|V-2AAS-1S|analyser|0.3781 ; G2608|κατάγνυμι|V-FAI-1S|analyser|0.1134	G2608|κατάγνυμι|V-FAI-1S|analyser|0.1134									
+31001004	Obad.1.4	15	87	89	σε	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σε	1	G4771|σύ|P-2AS|nt-form|165										
+31001004	Obad.1.4	16	91	96	λέγει	G3004	λέγω	V-PAI-3S	0.9965	unique	inf	a	one reading	λέγει	1	G3004|λέγω|V-PAI-3S|nt-form|342										
+31001004	Obad.1.4	17	97	103	Κύριος	G2962	κύριος	N-NSM-T	0.9899	model	133.5	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+31001005	Obad.1.5	0	0	2	Εἰ	G1487	εἰ	COND	0.9965	unique	inf	a	one reading	εἰ	1	G1487|εἰ|COND|nt-form|439										
+31001005	Obad.1.5	1	3	10	κλέπται	G2812	κλέπτης	N-NPM	0.9835	model	82.84	b	several parses	κλέπται	2	G2812|κλέπτης|N-NPM|nt-form|4 ; G2812|κλέπτης|N-VPM|nt-form+paradigm|0	G2812|κλέπτης|N-VPM|nt-form+paradigm|0									
+31001005	Obad.1.5	2	11	19	εἰσῆλθον	G1525	εἰσέρχομαι	V-2AAI-3P	0.9835	model	86.78	b	several parses	εἰσῆλθον	2	G1525|εἰσέρχομαι|V-2AAI-3P|nt-form|10 ; G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2	G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2									
+31001005	Obad.1.5	3	20	24	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+31001005	Obad.1.5	4	25	27	σὲ	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σέ	1	G4771|σύ|P-2AS|nt-form|39										
+31001005	Obad.1.5	5	29	30	ἢ	G2228	ἤ	CONJ	0.9965	unique	inf	a	one reading	ἤ	1	G2228|ἤ|CONJ|nt-form|366										
+31001005	Obad.1.5	6	31	37	λῃσταὶ	G3027	λῃστής	N-NPM	0.9780	model	63	b	several parses	λῃσταί	2	G3027|λῃστής|N-NPM|nt-form|3 ; G3027|λῃστής|N-VPM|nt-form+paradigm|0	G3027|λῃστής|N-VPM|nt-form+paradigm|0									
+31001005	Obad.1.5	7	38	44	νυκτὸς	G3571	νύξ	N-GSF	0.9965	unique	inf	a	one reading	νυκτόσ	1	G3571|νύξ|N-GSF|nt-form|35										
+31001005	Obad.1.5	8	46	49	ποῦ	G4226	ποῦ	ADV-I	0.9965	unique	inf	a	one reading	ποῦ	1	G4226|ποῦ|ADV-I|nt-form|48										
+31001005	Obad.1.5	9	50	52	ἂν	G302	ἄν	PRT	0.9965	unique	inf	a	one reading	ἄν	1	G302|ἄν|PRT|nt-form|183										
+31001005	Obad.1.5	10	53	62	ἀπεῤῥίφης	G641	ἀπορρίπτω	V-2API-2S	0.8446	model	14.51	b	several parses	ἀπερρίφησ	2	G641|ἀπορρίπτω|V-2API-2S|analyser|1 ; G641|ἀπορρίπτω|V-RAS-2S|analyser|0.2667	G641|ἀπορρίπτω|V-RAS-2S|analyser|0.2667									
+31001005	Obad.1.5	11	64	67	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+31001005	Obad.1.5	12	68	70	ἂν	G302	ἄν	PRT	0.9965	unique	inf	a	one reading	ἄν	1	G302|ἄν|PRT|nt-form|183										
+31001005	Obad.1.5	13	71	78	ἔκλεψαν	G2813	κλέπτω	V-AAI-3P	0.9965	unique	inf	a	one reading	ἔκλεψαν	1	G2813|κλέπτω|V-AAI-3P|nt-form|1										
+31001005	Obad.1.5	14	79	81	τὰ	G3588	ὁ	T-APN	0.9203	model	81.05	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-NPN|nt-form|230									
+31001005	Obad.1.5	15	82	87	ἱκανὰ	G2425	ἱκανός	A-APN	0.9203	model	81.05	b	several parses	ἱκανά	3	G2425|ἱκανός|A-APN|nt-form|1 ; G2425|ἱκανός|A-NPN|nt-form+paradigm|0 ; G2425|ἱκανός|A-VPN|nt-form+paradigm|0	G2425|ἱκανός|A-NPN|nt-form+paradigm|0									
+31001005	Obad.1.5	16	88	95	ἑαυτοῖς	G1438	ἑαυτοῦ	F-3DPM	0.7607	model	21.44	b	several parses	ἑαυτοῖσ	3	G1438|ἑαυτοῦ|F-3DPM|nt-form|27 ; G1438|ἑαυτοῦ|F-2DPM|nt-form|21 ; G1438|ἑαυτοῦ|F-1DPM|nt-form|4	G1438|ἑαυτοῦ|F-2DPM|nt-form|21									
+31001005	Obad.1.5	17	97	100	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001005	Obad.1.5	18	101	103	εἰ	G1487	εἰ	COND	0.9965	unique	inf	a	one reading	εἰ	1	G1487|εἰ|COND|nt-form|439										
+31001005	Obad.1.5	19	104	112	τρυγηταὶ	G9505	τρυγητής	N-NPM	0.9735	model	118.1	b	several parses	τρυγηταί	2	G9505|τρυγητής|N-NPM|analyser|1 ; G9505|τρυγητής|N-VPM|analyser|1	G9505|τρυγητής|N-VPM|analyser|1									
+31001005	Obad.1.5	20	113	121	εἰσῆλθον	G1525	εἰσέρχομαι	V-2AAI-3P	0.9835	model	92.09	b	several parses	εἰσῆλθον	2	G1525|εἰσέρχομαι|V-2AAI-3P|nt-form|10 ; G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2	G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2									
+31001005	Obad.1.5	21	122	126	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+31001005	Obad.1.5	22	127	129	σὲ	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σέ	1	G4771|σύ|P-2AS|nt-form|39										
+31001005	Obad.1.5	23	131	134	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+31001005	Obad.1.5	24	135	137	ἂν	G302	ἄν	PRT	0.9965	unique	inf	a	one reading	ἄν	1	G302|ἄν|PRT|nt-form|183										
+31001005	Obad.1.5	25	138	149	ἐπελείποντο	G1952	ἐπιλείπω	V-IPI-3P	0.7353	model	8.265	b	several parses	ἐπελείποντο	2	G1952|ἐπιλείπω|V-IPI-3P|analyser|1 ; G1952|ἐπιλείπω|V-IMI-3P|analyser|0.375	G1952|ἐπιλείπω|V-IMI-3P|analyser|0.375									
+31001005	Obad.1.5	26	150	160	ἐπιφυλλίδα	G7470	ἐπιφυλλίς	N-ASF	0.9744	unique	inf	a	one reading	ἐπιφυλλίδα	1	G7470|ἐπιφυλλίς|N-ASF|analyser|1										
+31001006	Obad.1.6	0	0	3	Πῶς	G4459	πως	PRT-I	0.9965	unique	inf	a	one reading	πῶσ	1	G4459|πως|PRT-I|nt-form|105										
+31001006	Obad.1.6	1	4	14	ἐξηρευνήθη	G1830	ἐξερευνάω	V-API-3S	0.8713	model	20.38	b	several parses	ἐξηρευνήθη	2	G1830|ἐξερευνάω|V-API-3S|analyser|1 ; G1830|ἐξερευνάω|V-AOI-3S|analyser|0.2	G1830|ἐξερευνάω|V-AOI-3S|analyser|0.2									
+31001006	Obad.1.6	2	15	19	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001006	Obad.1.6	3	21	24	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001006	Obad.1.6	4	25	34	κατελήφθη	G2638	καταλαμβάνω	V-API-3S	0.5324	model	4.976	b	several parses	κατελήφθη	2	G2638|καταλαμβάνω|V-2API-3S|analyser|1 ; G2638|καταλαμβάνω|V-API-3S|analyser|1	G2638|καταλαμβάνω|V-2API-3S|analyser|1									
+31001006	Obad.1.6	5	35	37	τὰ	G3588	ὁ	T-NPN	0.9203	model	76.68	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+31001006	Obad.1.6	6	38	48	κεκρυμμένα	G2928	κρύπτω	V-RPP-NPN	0.9835	model	76.9	b	several parses	κεκρυμμένα	2	G2928|κρύπτω|V-RPP-APN|nt-form|1 ; G2928|κρύπτω|V-RPP-NPN|nt-form+paradigm|0	G2928|κρύπτω|V-RPP-APN|nt-form|1									
+31001006	Obad.1.6	7	49	54	αὐτοῦ	G846	αὐτός	P-GSM	0.9669	model	40.29	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+31001007	Obad.1.7	0	0	3	Ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+31001007	Obad.1.7	1	4	7	τῶν	G3588	ὁ	T-GPN	0.8828	model	60.89	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPM|nt-form|848									
+31001007	Obad.1.7	2	8	13	ὁρίων	G3725	ὅριον	N-GPN	0.9965	unique	inf	a	one reading	ὁρίων	1	G3725|ὅριον|N-GPN|nt-form|6										
+31001007	Obad.1.7	3	14	26	ἐξαπέστειλάν	G1821	ἐξαποστέλλω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἐξαπέστειλαν	1	G1821|ἐξαποστέλλω|V-2AAI-3P|nt-form|5										
+31001007	Obad.1.7	4	27	29	σε	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σε	1	G4771|σύ|P-2AS|nt-form|165										
+31001007	Obad.1.7	5	31	37	πάντες	G3956	πᾶς	A-NPM	0.9780	model	68.36	b	several parses	πάντεσ	2	G3956|πᾶς|A-NPM|nt-form|173 ; G3956|πᾶς|A-VPM|nt-form|7	G3956|πᾶς|A-VPM|nt-form|7									
+31001007	Obad.1.7	6	38	40	οἱ	G3588	ὁ	T-NPM	0.9940	model	164.9	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+31001007	Obad.1.7	7	41	47	ἄνδρες	G435	ἀνήρ	N-NPM	0.9862	model	114.1	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+31001007	Obad.1.7	8	48	51	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+31001007	Obad.1.7	9	52	60	διαθήκης	G1242	διαθήκη	N-GSF	0.9965	unique	inf	a	one reading	διαθήκησ	1	G1242|διαθήκη|N-GSF|nt-form|16										
+31001007	Obad.1.7	10	61	64	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001007	Obad.1.7	11	65	75	ἀντέστησάν	G436	ἀνθίστημι	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἀντέστησαν	1	G436|ἀνθίστημι|V-2AAI-3P|nt-form|1										
+31001007	Obad.1.7	12	76	79	σοι	G4771	σύ	P-2DS	0.9965	unique	inf	a	one reading	σοι	1	G4771|σύ|P-2DS|nt-form|168										
+31001007	Obad.1.7	13	81	92	ἠδυνάσθησαν	G1410	δύναμαι	V-AOI-3P	0.5324	model	2.689	b	several parses	ἠδυνάσθησαν	2	G1410|δύναμαι|V-AOI-3P|analyser|1 ; G1410|δύναμαι|V-API-3P|analyser|0.12	G1410|δύναμαι|V-API-3P|analyser|0.12									
+31001007	Obad.1.7	14	93	97	πρὸς	G4314	πρός	PREP	0.9965	unique	inf	a	one reading	πρόσ	1	G4314|πρός|PREP|nt-form|734										
+31001007	Obad.1.7	15	98	100	σὲ	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σέ	1	G4771|σύ|P-2AS|nt-form|39										
+31001007	Obad.1.7	16	101	107	ἄνδρες	G435	ἀνήρ	N-NPM	0.9862	model	105	b	several parses	ἄνδρεσ	2	G435|ἀνήρ|N-VPM|nt-form|32 ; G435|ἀνήρ|N-NPM|nt-form|31	G435|ἀνήρ|N-VPM|nt-form|32									
+31001007	Obad.1.7	17	108	117	εἰρηνικοί	G1516	εἰρηνικός	A-NPM	0.9854	model	196.9	b	several parses	εἰρηνικοί	2	G1516|εἰρηνικός|A-NPM|analyser|1 ; G1516|εἰρηνικός|A-VPM|analyser|1	G1516|εἰρηνικός|A-VPM|analyser|1									
+31001007	Obad.1.7	18	118	121	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001007	Obad.1.7	19	123	129	ἔθηκαν	G5087	τίθημι	V-AAI-3P	0.9965	unique	inf	a	one reading	ἔθηκαν	1	G5087|τίθημι|V-AAI-3P|nt-form|7										
+31001007	Obad.1.7	20	130	136	ἔνεδρα	G1749	ἔνεδρον	N-APN	0.9298	model	63.58	b	several parses	ἔνεδρα	3	G1749|ἔνεδρον|N-APN|analyser|1 ; G1749|ἔνεδρον|N-NPN|analyser|1 ; G1749|ἔνεδρον|N-VPN|analyser|1	G1749|ἔνεδρον|N-NPN|analyser|1									
+31001007	Obad.1.7	21	137	144	ὑποκάτω	G5270	ὑποκάτω	PREP	0.9965	unique	inf	a	one reading	ὑποκάτω	1	G5270|ὑποκάτω|PREP|nt-form|11										
+31001007	Obad.1.7	22	145	148	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001007	Obad.1.7	23	150	153	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+31001007	Obad.1.7	24	154	158	ἔστι	G1510	εἰμί	V-PAI-3S	0.9965	unique	inf	a	one reading	ἔστι	1	G1510|εἰμί|V-PAI-3S|nt-form:movable-nu|146										
+31001007	Obad.1.7	25	159	166	σύνεσις	G4907	σύνεσις	N-NSF	0.9735	model	126.7	b	several parses	σύνεσισ	2	G4907|σύνεσις|N-NSF|analyser|1 ; G4907|σύνεσις|N-VSF|analyser|0.2	G4907|σύνεσις|N-VSF|analyser|0.2									
+31001007	Obad.1.7	26	167	173	αὐτοῖς	G846	αὐτός	P-DPM	0.7052	model	10.78	b	several parses	αὐτοῖσ	2	G846|αὐτός|P-DPM|nt-form|564 ; G846|αὐτός|P-DPN|nt-form|20	G846|αὐτός|P-DPN|nt-form|20									
+31001008	Obad.1.8	0	0	2	Ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001008	Obad.1.8	1	3	5	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+31001008	Obad.1.8	2	6	11	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001008	Obad.1.8	3	12	18	ἐκείνῃ	G1565	ἐκεῖνος	D-DSF	0.9965	unique	inf	a	one reading	ἐκείνῃ	1	G1565|ἐκεῖνος|D-DSF|nt-form|39										
+31001008	Obad.1.8	4	20	25	λέγει	G3004	λέγω	V-PAI-3S	0.9965	unique	inf	a	one reading	λέγει	1	G3004|λέγω|V-PAI-3S|nt-form|342										
+31001008	Obad.1.8	5	26	32	Κύριος	G2962	κύριος	N-NSM-T	0.9899	model	128.3	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+31001008	Obad.1.8	6	34	39	ἀπολῶ	G622	ἀπολλύω	V-FAI-1S	0.9965	unique	inf	a	one reading	ἀπολῶ	1	G622|ἀπολλύω|V-FAI-1S|nt-form|1										
+31001008	Obad.1.8	7	40	46	σοφους	G4680	σοφός	A-APM	0.9744	unique	inf	a	one reading	σοφουσ	1	G4680|σοφός|A-APM|analyser|0.3										
+31001008	Obad.1.8	8	47	49	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+31001008	Obad.1.8	9	50	53	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+31001008	Obad.1.8	10	54	63	Ἰδουμαίας	G2401	Ἰδουμαία		0.9965	unique	inf	a	one reading	ἰδουμαίασ	1	G2401|Ἰδουμαία||nt-form|1										
+31001008	Obad.1.8	11	65	68	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001008	Obad.1.8	12	69	76	σύνεσιν	G4907	σύνεσις	N-ASF	0.9965	unique	inf	a	one reading	σύνεσιν	1	G4907|σύνεσις|N-ASF|nt-form|3										
+31001008	Obad.1.8	13	77	79	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+31001008	Obad.1.8	14	80	85	ὄρους	G3735	ὄρος	N-GSN	0.9965	unique	inf	a	one reading	ὄρουσ	1	G3735|ὄρος|N-GSN|nt-form|8		G3735|ὄρος||nt-form|4|lower case: not a name								
+31001008	Obad.1.8	15	86	90	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001009	Obad.1.9	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001009	Obad.1.9	1	4	16	πτοηθήσονται	G4422	πτοέω	V-FPI-3P	0.9744	unique	inf	a	one reading	πτοηθήσονται	1	G4422|πτοέω|V-FPI-3P|analyser|1										
+31001009	Obad.1.9	2	17	19	οἱ	G3588	ὁ	T-NPM	0.9982	model	208.1	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+31001009	Obad.1.9	3	20	27	μαχηταί	G8263	μαχητής	N-NPM	0.9854	model	185.5	b	several parses	μαχηταί	2	G8263|μαχητής|N-NPM|analyser|1 ; G8263|μαχητής|N-VPM|analyser|1	G8263|μαχητής|N-VPM|analyser|1									
+31001009	Obad.1.9	4	28	31	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001009	Obad.1.9	5	32	34	οἱ	G3588	ὁ	T-NPM	0.9899	model	141.4	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+31001009	Obad.1.9	6	35	37	ἐκ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐκ	1	G1537|ἐκ|PREP|nt-form|697										
+31001009	Obad.1.9	7	38	44	Θαιμὰν	H8487	Θαιμάν		0.9320	hebrew-verse	10.4812	d	name-like: no candidate	θαιμάν	0					31001009#3 H8487H תֵּימָ֑ן Teman	10.48	N-G??-L	tahot			transliterates
+31001009	Obad.1.9	8	46	50	ὅπως	G3704	ὅπως	CONJ	0.9965	unique	inf	a	one reading	ὅπωσ	1	G3704|ὅπως|CONJ|nt-form|54										
+31001009	Obad.1.9	9	51	57	ἐξαρθῇ	G1808	ἐξαίρω	V-APS-3S	0.8713	model	18.25	b	several parses	ἐξαρθῇ	2	G1808|ἐξαίρω|V-APS-3S|analyser|1 ; G1808|ἐξαίρω|V-AOS-3S|analyser|0.0667	G1808|ἐξαίρω|V-AOS-3S|analyser|0.0667									
+31001009	Obad.1.9	10	58	66	ἄνθρωπος	G444	ἄνθρωπος	N-NSM	0.9965	unique	inf	a	one reading	ἄνθρωποσ	1	G444|ἄνθρωπος|N-NSM|nt-form|126										
+31001009	Obad.1.9	11	67	69	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+31001009	Obad.1.9	12	70	75	ὄρους	G3735	ὄρος	N-GSN	0.9965	unique	inf	a	one reading	ὄρουσ	1	G3735|ὄρος|N-GSN|nt-form|8		G3735|ὄρος||nt-form|4|lower case: not a name								
+31001009	Obad.1.9	13	76	80	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001010	Obad.1.10	0	0	3	Διὰ	G1223	διά	PREP	0.9965	unique	inf	a	one reading	διά	1	G1223|διά|PREP|nt-form|535										
+31001010	Obad.1.10	1	4	7	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001010	Obad.1.10	2	8	14	σφαγὴν	G4967	σφαγή	N-ASF	0.9965	unique	inf	a	one reading	σφαγήν	1	G4967|σφαγή|N-ASF|nt-form|1										
+31001010	Obad.1.10	3	16	19	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001010	Obad.1.10	4	20	23	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001010	Obad.1.10	5	24	32	ἀσέβειαν	G763	ἀσέβεια	N-ASF	0.9965	unique	inf	a	one reading	ἀσέβειαν	1	G763|ἀσέβεια|N-ASF|nt-form|2										
+31001010	Obad.1.10	6	33	40	ἀδελφοῦ	G80	ἀδελφός	N-GSM	0.9965	unique	inf	a	one reading	ἀδελφοῦ	1	G80|ἀδελφός|N-GSM|nt-form|17										
+31001010	Obad.1.10	7	41	44	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001010	Obad.1.10	8	45	50	Ἰακὼβ	G2384	Ἰακώβ		0.9965	unique	inf	a	one reading	ἰακώβ	1	G2384|Ἰακώβ||nt-form|27										
+31001010	Obad.1.10	9	52	59	καλύψει	G2572	καλύπτω	V-FAI-3S	0.9965	unique	inf	a	one reading	καλύψει	1	G2572|καλύπτω|V-FAI-3S|nt-form|1										
+31001010	Obad.1.10	10	60	62	σε	G4771	σύ	P-2AS	0.9965	unique	inf	a	one reading	σε	1	G4771|σύ|P-2AS|nt-form|165										
+31001010	Obad.1.10	11	63	70	αἰσχύνη	G152	αἰσχύνη	N-NSF	0.9965	unique	inf	a	one reading	αἰσχύνη	1	G152|αἰσχύνη|N-NSF|nt-form|1										
+31001010	Obad.1.10	12	72	75	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001010	Obad.1.10	13	76	84	ἐξαρθήσῃ	G1808	ἐξαίρω	V-FPI-2S	0.9744	unique	inf	a	one reading	ἐξαρθήσῃ	1	G1808|ἐξαίρω|V-FPI-2S|analyser|1										
+31001010	Obad.1.10	14	85	88	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001010	Obad.1.10	15	89	92	τὸν	G3588	ὁ	T-ASM	0.9940	model	165.8	b	several parses	τόν	2	G3588|ὁ|T-ASM|nt-form|1638 ; G3588|ὁ|T-DSF|nt-form|1	G3588|ὁ|T-DSF|nt-form|1									
+31001010	Obad.1.10	16	93	98	αἰῶνα	G165	αἰών	N-ASM	0.9965	unique	inf	a	one reading	αἰῶνα	1	G165|αἰών|N-ASM|nt-form|33										
+31001011	Obad.1.11	0	0	3	Ἀφʼ	G575	ἀπό	PREP	0.9965	unique	inf	a	one reading	ἀφ’	1	G575|ἀπό|PREP|nt-form|42										
+31001011	Obad.1.11	1	4	6	ἧς	G3739	ὅς, ἥ	R-GSF	0.9965	unique	inf	a	one reading	ἧσ	1	G3739|ὅς, ἥ|R-GSF|nt-form|49										
+31001011	Obad.1.11	2	7	13	ἡμέρας	G2250	ἡμέρα	N-GSF	0.8944	model	27.95	b	several parses	ἡμέρασ	2	G2250|ἡμέρα|N-APF|nt-form|68 ; G2250|ἡμέρα|N-GSF|nt-form|60	G2250|ἡμέρα|N-APF|nt-form|68									
+31001011	Obad.1.11	3	14	22	ἀντέστης	G436	ἀνθίστημι	V-2AAI-2S	0.9744	unique	inf	a	one reading	ἀντέστησ	1	G436|ἀνθίστημι|V-2AAI-2S|analyser|1										
+31001011	Obad.1.11	4	23	33	ἐξεναντίας	G7295	εξεναντίας		0.9305	unique	inf	a	one reading	ἐξεναντίασ	1	G7295|εξεναντίας||tbesg|1										
+31001011	Obad.1.11	5	35	37	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001011	Obad.1.11	6	38	45	ἡμέραις	G2250	ἡμέρα	N-DPF	0.9965	unique	inf	a	one reading	ἡμέραισ	1	G2250|ἡμέρα|N-DPF|nt-form|49										
+31001011	Obad.1.11	7	46	61	αἰχμαλωτευόντων	G162	αἰχμαλωτεύω	V-PAP-GPM	0.8212	model	15.66	b	several parses	αἰχμαλωτευόντων	3	G162|αἰχμαλωτεύω|V-PAP-GPM|analyser|1 ; G162|αἰχμαλωτεύω|V-PAP-GPN|analyser|1 ; G162|αἰχμαλωτεύω|V-PAM-3P|analyser|0.25	G162|αἰχμαλωτεύω|V-PAP-GPN|analyser|1									
+31001011	Obad.1.11	8	62	71	ἀλλογενῶν	G241	ἀλλογενής	A-GPM	0.8212	model	15.55	b	several parses	ἀλλογενῶν	3	G241|ἀλλογενής|A-GPF|analyser|1 ; G241|ἀλλογενής|A-GPM|analyser|1 ; G241|ἀλλογενής|A-GPN|analyser|1	G241|ἀλλογενής|A-GPN|analyser|1									
+31001011	Obad.1.11	9	72	79	δύναμιν	G1411	δύναμις	N-ASF	0.9965	unique	inf	a	one reading	δύναμιν	1	G1411|δύναμις|N-ASF|nt-form|33										
+31001011	Obad.1.11	10	80	85	αὐτοῦ	G846	αὐτός	P-GSM	0.9420	model	23.73	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+31001011	Obad.1.11	11	87	90	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001011	Obad.1.11	12	91	100	ἀλλότριοι	G245	ἀλλότριος	A-NPM	0.8563	model	27.04	b	several parses	ἀλλότριοι	4	G245|ἀλλότριος|A-NPM|analyser|1 ; G245|ἀλλότριος|A-VPM|analyser|1 ; G245|ἀλλότριος|A-NPF|analyser|0.09 ; G245|ἀλλότριος|A-VPF|analyser|0.09	G245|ἀλλότριος|A-NPF|analyser|0.09									
+31001011	Obad.1.11	13	101	109	εἰσῆλθον	G1525	εἰσέρχομαι	V-2AAI-3P	0.9835	model	84.05	b	several parses	εἰσῆλθον	2	G1525|εἰσέρχομαι|V-2AAI-3P|nt-form|10 ; G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2	G1525|εἰσέρχομαι|V-2AAI-1S|nt-form|2									
+31001011	Obad.1.11	14	110	113	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001011	Obad.1.11	15	114	119	πύλας	G4439	πύλη	N-APF	0.9965	unique	inf	a	one reading	πύλασ	1	G4439|πύλη|N-APF|nt-form|1										
+31001011	Obad.1.11	16	120	125	αὐτοῦ	G846	αὐτός	P-GSM	0.7245	model	20.68	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+31001011	Obad.1.11	17	127	130	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001011	Obad.1.11	18	131	134	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001011	Obad.1.11	19	135	145	Ἱερουσαλὴμ	G2419	Ἱεροσόλυμα		0.9965	unique	inf	a	one reading	ἱερουσαλήμ	1	G2419|Ἱεροσόλυμα||nt-form|1										
+31001011	Obad.1.11	20	146	152	ἔβαλον	G906	βάλλω	V-2AAI-3P	0.9965	unique	inf	a	one reading	ἔβαλον	1	G906|βάλλω|V-2AAI-3P|nt-form|9										
+31001011	Obad.1.11	21	153	160	κλήρους	G2819	κλῆρος	N-APM	0.9965	unique	inf	a	one reading	κλήρουσ	1	G2819|κλῆρος|N-APM|nt-form|2										
+31001011	Obad.1.11	22	162	165	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001011	Obad.1.11	23	166	168	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+31001011	Obad.1.11	24	169	171	ἦς	G1510	εἰμί	V-IAI-2S	0.9965	unique	inf	a	one reading	ἦσ	1	G1510|εἰμί|V-IAI-2S|nt-form|6										
+31001011	Obad.1.11	25	172	174	ὡς	G5613	ὡς	PRT	0.9965	unique	inf	a	one reading	ὡσ	1	G5613|ὡς|PRT|nt-form|517										
+31001011	Obad.1.11	26	175	178	εἷς	G1520	εἷς	A-NSM	0.9965	unique	inf	a	one reading	εἷσ	1	G1520|εἷς|A-NSM|nt-form|101										
+31001011	Obad.1.11	27	179	181	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+31001011	Obad.1.11	28	182	187	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	27.79	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPN|nt-form|35									
+31001012	Obad.1.12	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001012	Obad.1.12	1	4	6	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+31001012	Obad.1.12	2	7	13	ἐπίδῃς	G1896	ἐπεῖδον	V-2AAS-2S	0.6800	model	15.69	c	several words	ἐπίδῃσ	2	G1896|ἐπεῖδον|V-2AAS-2S|analyser|1 ; G7586|ἐφοράω|V-2AAS-2S|analyser|0.9041	G7586|ἐφοράω|V-2AAS-2S|analyser|0.9041									
+31001012	Obad.1.12	3	14	20	ἡμέραν	G2250	ἡμέρα	N-ASF	0.9965	unique	inf	a	one reading	ἡμέραν	1	G2250|ἡμέρα|N-ASF|nt-form|59										
+31001012	Obad.1.12	4	21	28	ἀδελφοῦ	G80	ἀδελφός	N-GSM	0.9965	unique	inf	a	one reading	ἀδελφοῦ	1	G80|ἀδελφός|N-GSM|nt-form|17										
+31001012	Obad.1.12	5	29	32	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001012	Obad.1.12	6	33	35	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001012	Obad.1.12	7	36	41	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001012	Obad.1.12	8	42	51	ἀλλοτρίων	G245	ἀλλότριος	A-GPM	0.9513	model	35.49	b	several parses	ἀλλοτρίων	2	G245|ἀλλότριος|A-GPM|nt-form|4 ; G245|ἀλλότριος|A-GPN|nt-form+paradigm|0	G245|ἀλλότριος|A-GPN|nt-form+paradigm|0									
+31001012	Obad.1.12	9	53	56	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001012	Obad.1.12	10	57	59	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+31001012	Obad.1.12	11	60	68	ἐπιχαρῇς	G7471	ἐπιχαίρω	V-2APS-2S	0.9744	unique	inf	a	one reading	ἐπιχαρῇσ	1	G7471|ἐπιχαίρω|V-2APS-2S|analyser|1										
+31001012	Obad.1.12	12	69	72	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001012	Obad.1.12	13	73	77	τοὺς	G3588	ὁ	T-APM	0.9965	unique	inf	a	one reading	τούσ	1	G3588|ὁ|T-APM|nt-form|747										
+31001012	Obad.1.12	14	78	83	υἱοὺς	G5207	υἱός	N-APM	0.9965	unique	inf	a	one reading	υἱούσ	1	G5207|υἱός|N-APM|nt-form|14										
+31001012	Obad.1.12	15	84	89	Ἰούδα	G2455	Ἰούδας		0.9037	model	6.315	c	several words	ἰούδα	2	G2455|Ἰούδας||nt-form|10 ; G2448|Ἰουδά||nt-form|3	G2448|Ἰουδά||nt-form|3									
+31001012	Obad.1.12	16	90	92	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001012	Obad.1.12	17	93	98	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001012	Obad.1.12	18	99	107	ἀπωλείας	G684	ἀπώλεια	N-GSF	0.9637	model	54.96	b	several parses	ἀπωλείασ	2	G684|ἀπώλεια|N-GSF|nt-form|5 ; G684|ἀπώλεια|N-APF|nt-form+paradigm|0	G684|ἀπώλεια|N-APF|nt-form+paradigm|0									
+31001012	Obad.1.12	19	108	113	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	30.66	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+31001012	Obad.1.12	20	115	118	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001012	Obad.1.12	21	119	121	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+31001012	Obad.1.12	22	122	135	μεγαλοῤῥημονῇ	G8268	μεγαλορρημονέω	V-PAS-3S	0.5636	model	8.952	b	several parses	μεγαλορρημονῇ	5	G8268|μεγαλορρημονέω|V-PAS-3S|analyser|1 ; G8268|μεγαλορρημονέω|V-PNS-2S|analyser|1 ; G8268|μεγαλορρημονέω|V-PPI-2S|analyser|1 ; G8268|μεγαλορρημονέω|V-PMI-2S|analyser|0.5 ; G8268|μεγαλορρημονέω|V-PMS-2S|analyser|0.5	G8268|μεγαλορρημονέω|V-PNS-2S|analyser|1									
+31001012	Obad.1.12	23	136	138	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001012	Obad.1.12	24	139	144	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001012	Obad.1.12	25	145	152	θλίψεως	G2347	θλῖψις	N-GSF	0.9965	unique	inf	a	one reading	θλίψεωσ	1	G2347|θλῖψις|N-GSF|nt-form|9										
+31001013	Obad.1.13	0	0	4	μηδὲ	G3366	μηδέ	CONJ-N	0.8944	model	21.43	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+31001013	Obad.1.13	1	5	13	εἰσέλθῃς	G1525	εἰσέρχομαι	V-2AAS-2S	0.9965	unique	inf	a	one reading	εἰσέλθῃσ	1	G1525|εἰσέρχομαι|V-2AAS-2S|nt-form|4										
+31001013	Obad.1.13	2	14	17	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001013	Obad.1.13	3	18	23	πύλας	G4439	πύλη	N-APF	0.9965	unique	inf	a	one reading	πύλασ	1	G4439|πύλη|N-APF|nt-form|1										
+31001013	Obad.1.13	4	24	28	λαῶν	G2992	λαός	N-GPM	0.9965	unique	inf	a	one reading	λαῶν	1	G2992|λαός|N-GPM|nt-form|3										
+31001013	Obad.1.13	5	29	31	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001013	Obad.1.13	6	32	37	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001013	Obad.1.13	7	38	43	πόνων	G4192	πόνος	N-GPM	0.9965	unique	inf	a	one reading	πόνων	1	G4192|πόνος|N-GPM|nt-form|1										
+31001013	Obad.1.13	8	44	49	αὐτῶν	G846	αὐτός	P-GPM	0.8233	model	30.5	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+31001013	Obad.1.13	9	51	55	μηδὲ	G3366	μηδέ	CONJ-N	0.9513	model	30.77	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+31001013	Obad.1.13	10	56	62	ἐπίδῃς	G1896	ἐπεῖδον	V-2AAS-2S	0.8171	model	20.44	c	several words	ἐπίδῃσ	2	G1896|ἐπεῖδον|V-2AAS-2S|analyser|1 ; G7586|ἐφοράω|V-2AAS-2S|analyser|0.9041	G7586|ἐφοράω|V-2AAS-2S|analyser|0.9041									
+31001013	Obad.1.13	11	63	66	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001013	Obad.1.13	12	67	69	σὺ	G4771	σύ	P-2NS	0.9965	unique	inf	a	one reading	σύ	1	G4771|σύ|P-2NS|nt-form|178										
+31001013	Obad.1.13	13	70	73	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001013	Obad.1.13	14	74	83	συναγωγὴν	G4864	συναγωγή	N-ASF	0.9965	unique	inf	a	one reading	συναγωγήν	1	G4864|συναγωγή|N-ASF|nt-form|12										
+31001013	Obad.1.13	15	84	89	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	36.85	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPN|nt-form|35									
+31001013	Obad.1.13	16	90	92	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001013	Obad.1.13	17	93	98	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001013	Obad.1.13	18	99	106	ὀλέθρου	G3639	ὄλεθρος	N-GSM	0.9744	unique	inf	a	one reading	ὀλέθρου	1	G3639|ὄλεθρος|N-GSM|analyser|1										
+31001013	Obad.1.13	19	107	112	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	37.41	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPN|nt-form|35									
+31001013	Obad.1.13	20	114	117	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001013	Obad.1.13	21	118	120	μὴ	G3361	μή	PRT-N	0.9965	unique	inf	a	one reading	μή	1	G3361|μή|PRT-N|nt-form|1060										
+31001013	Obad.1.13	22	121	129	συνεπιθῇ	G9315	συνεπιτίθημι	V-2AMS-2S	0.5324	model	1.477	b	several parses	συνεπιθῇ	2	G9315|συνεπιτίθημι|V-2AAS-3S|analyser|1 ; G9315|συνεπιτίθημι|V-2AMS-2S|analyser|1	G9315|συνεπιτίθημι|V-2AAS-3S|analyser|1									
+31001013	Obad.1.13	23	130	133	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001013	Obad.1.13	24	134	137	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001013	Obad.1.13	25	138	145	δύναμιν	G1411	δύναμις	N-ASF	0.9965	unique	inf	a	one reading	δύναμιν	1	G1411|δύναμις|N-ASF|nt-form|33										
+31001013	Obad.1.13	26	146	151	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	36.85	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPN|nt-form|35									
+31001013	Obad.1.13	27	152	154	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001013	Obad.1.13	28	155	160	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001013	Obad.1.13	29	161	169	ἀπωλείας	G684	ἀπώλεια	N-GSF	0.9513	model	36.72	b	several parses	ἀπωλείασ	2	G684|ἀπώλεια|N-GSF|nt-form|5 ; G684|ἀπώλεια|N-APF|nt-form+paradigm|0	G684|ἀπώλεια|N-APF|nt-form+paradigm|0									
+31001013	Obad.1.13	30	170	175	αὐτῶν	G846	αὐτός	P-GPM	0.8462	model	34.64	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+31001014	Obad.1.14	0	0	4	μηδὲ	G3366	μηδέ	CONJ-N	0.8944	model	21.43	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+31001014	Obad.1.14	1	5	12	ἐπιστῇς	G2186	ἐφίστημι	V-2AAS-2S	0.9744	unique	inf	a	one reading	ἐπιστῇσ	1	G2186|ἐφίστημι|V-2AAS-2S|analyser|1										
+31001014	Obad.1.14	2	13	16	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001014	Obad.1.14	3	17	20	τὰς	G3588	ὁ	T-APF	0.9965	unique	inf	a	one reading	τάσ	1	G3588|ὁ|T-APF|nt-form|347										
+31001014	Obad.1.14	4	21	30	διεκβολὰς	G6914	διεκβολή	N-APF	0.9744	unique	inf	a	one reading	διεκβολάσ	1	G6914|διεκβολή|N-APF|analyser|1										
+31001014	Obad.1.14	5	31	36	αὐτῶν	G846	αὐτός	P-GPM	0.5960	model	5.676	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+31001014	Obad.1.14	6	38	50	ἐξολοθρεῦσαι	G1842	ἐξολοθρεύω	V-AAN	0.9744	unique	inf	a	one reading	ἐξολοθρεῦσαι	1	G1842|ἐξολοθρεύω|V-AAN|analyser|1										
+31001014	Obad.1.14	7	51	55	τοὺς	G3588	ὁ	T-APM	0.9965	unique	inf	a	one reading	τούσ	1	G3588|ὁ|T-APM|nt-form|747										
+31001014	Obad.1.14	8	56	69	ἀνασωζομένους	G6314	ἀνασῴζω	V-PPP-APM	0.5324	model	0.6615	b	several parses	ἀνασωζομένουσ	2	G6314|ἀνασῴζω|V-PPP-APM|analyser|1 ; G6314|ἀνασῴζω|V-PMP-APM|analyser|0.2	G6314|ἀνασῴζω|V-PMP-APM|analyser|0.2									
+31001014	Obad.1.14	9	70	75	αὐτῶν	G846	αὐτός	P-GPM	0.7607	model	18.06	b	several parses	αὐτῶν	3	G846|αὐτός|P-GPM|nt-form|543 ; G846|αὐτός|P-GPN|nt-form|35 ; G846|αὐτός|P-GPF|nt-form|22	G846|αὐτός|P-GPF|nt-form|22									
+31001014	Obad.1.14	10	77	81	μηδὲ	G3366	μηδέ	CONJ-N	0.8944	model	18.94	b	several parses	μηδέ	2	G3366|μηδέ|CONJ-N|nt-form|53 ; G3366|μηδέ|ADV-N|nt-form|4	G3366|μηδέ|ADV-N|nt-form|4									
+31001014	Obad.1.14	11	82	92	συγκλείσῃς	G4788	συγκλείω	V-AAS-2S	0.9744	unique	inf	a	one reading	συγκλείσῃσ	1	G4788|συγκλείω|V-AAS-2S|analyser|1										
+31001014	Obad.1.14	12	93	97	τοὺς	G3588	ὁ	T-APM	0.9965	unique	inf	a	one reading	τούσ	1	G3588|ὁ|T-APM|nt-form|747										
+31001014	Obad.1.14	13	98	107	φεύγοντας	G5343	φεύγω	V-PAP-APM	0.9744	unique	inf	a	one reading	φεύγοντασ	1	G5343|φεύγω|V-PAP-APM|analyser|1										
+31001014	Obad.1.14	14	108	113	αὐτοῦ	G846	αὐτός	P-GSM	0.9505	model	38.52	c	several words	αὐτοῦ	5	G846|αὐτός|P-GSM|nt-form|1456 ; G846|αὐτός|P-GSN|nt-form|52 ; G847|αὐτοῦ|ADV|nt-form|5 ; G1438|ἑαυτοῦ|F-3GSM|nt-form|1 ; G1438|ἑαυτοῦ|F-3GSN|nt-form+paradigm|0	G846|αὐτός|P-GSN|nt-form|52									
+31001014	Obad.1.14	15	114	116	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001014	Obad.1.14	16	117	122	ἡμέρᾳ	G2250	ἡμέρα	N-DSF	0.9965	unique	inf	a	one reading	ἡμέρᾳ	1	G2250|ἡμέρα|N-DSF|nt-form|85										
+31001014	Obad.1.14	17	123	130	θλίψεως	G2347	θλῖψις	N-GSF	0.9965	unique	inf	a	one reading	θλίψεωσ	1	G2347|θλῖψις|N-GSF|nt-form|9										
+31001015	Obad.1.15	0	0	5	Διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+31001015	Obad.1.15	1	6	11	ἐγγὺς	G1451	ἐγγύς	PREP	0.9965	unique	inf	a	one reading	ἐγγύσ	1	G1451|ἐγγύς|PREP|nt-form|30										
+31001015	Obad.1.15	2	12	17	ἡμέρα	G2250	ἡμέρα	N-NSF	0.9965	unique	inf	a	one reading	ἡμέρα	1	G2250|ἡμέρα|N-NSF|nt-form|23										
+31001015	Obad.1.15	3	18	24	Κυρίου	G2962	κύριος	N-GSM-T	0.9965	unique	inf	a	one reading	κυρίου	1	G2962|κύριος|N-GSM-T|nt-form|250		G2962|κύριος|N-GSM|nt-form|7|capitalised mid-sentence: a name or title								
+31001015	Obad.1.15	4	25	28	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001015	Obad.1.15	5	29	34	πάντα	G3956	πᾶς	A-APN	0.9521	model	120.2	b	several parses	πάντα	4	G3956|πᾶς|A-APN|nt-form|164 ; G3956|πᾶς|A-NPN|nt-form|87 ; G3956|πᾶς|A-ASM|nt-form|20 ; G3956|πᾶς|A-VPN|nt-form|1	G3956|πᾶς|A-ASM|nt-form|20									
+31001015	Obad.1.15	6	35	37	τὰ	G3588	ὁ	T-APN	0.9203	model	95.18	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-NPN|nt-form|230									
+31001015	Obad.1.15	7	38	42	ἔθνη	G1484	ἔθνος	N-APN	0.9203	model	95.18	b	several parses	ἔθνη	3	G1484|ἔθνος|N-APN|nt-form|26 ; G1484|ἔθνος|N-NPN|nt-form|26 ; G1484|ἔθνος|N-VPN|nt-form|2	G1484|ἔθνος|N-NPN|nt-form|26									
+31001015	Obad.1.15	8	44	46	ὃν	G3739	ὅς, ἥ	R-ASM	0.9965	unique	inf	a	one reading	ὅν	1	G3739|ὅς, ἥ|R-ASM|nt-form|167										
+31001015	Obad.1.15	9	47	53	τρόπον	G5158	τρόπος	N-ASM	0.9965	unique	inf	a	one reading	τρόπον	1	G5158|τρόπος|N-ASM|nt-form|10										
+31001015	Obad.1.15	10	54	62	ἐποίησας	G4160	ποιέω	V-AAI-2S	0.9965	unique	inf	a	one reading	ἐποίησασ	1	G4160|ποιέω|V-AAI-2S|nt-form|6										
+31001015	Obad.1.15	11	64	69	οὕτως	G3779	οὕτω, οὕτως	ADV	0.9965	unique	inf	a	one reading	οὕτωσ	1	G3779|οὕτω, οὕτως|ADV|nt-form|211										
+31001015	Obad.1.15	12	70	75	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001015	Obad.1.15	13	76	79	σοι	G4771	σύ	P-2DS	0.9965	unique	inf	a	one reading	σοι	1	G4771|σύ|P-2DS|nt-form|168										
+31001015	Obad.1.15	14	81	83	τὸ	G3588	ὁ	T-NSN	0.9234	model	122.7	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-ASN|nt-form|1135									
+31001015	Obad.1.15	15	84	94	ἀνταπόδομά	G468	ἀνταπόδομα	N-NSN	0.9585	model	135.3	b	several parses	ἀνταπόδομα	3	G468|ἀνταπόδομα|N-ASN|nt-form|1 ; G468|ἀνταπόδομα|N-NSN|nt-form|1 ; G468|ἀνταπόδομα|N-VSN|nt-form+paradigm|0	G468|ἀνταπόδομα|N-ASN|nt-form|1									
+31001015	Obad.1.15	16	95	98	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001015	Obad.1.15	17	99	114	ἀνταποδοθήσεται	G467	ἀνταποδίδωμι	V-FPI-3S	0.9965	unique	inf	a	one reading	ἀνταποδοθήσεται	1	G467|ἀνταποδίδωμι|V-FPI-3S|nt-form|2										
+31001015	Obad.1.15	18	115	118	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001015	Obad.1.15	19	119	126	κεφαλήν	G2776	κεφαλή	N-ASF	0.9965	unique	inf	a	one reading	κεφαλήν	1	G2776|κεφαλή|N-ASF|nt-form|28										
+31001015	Obad.1.15	20	127	130	σου	G4771	σύ	P-2GS	0.9965	unique	inf	a	one reading	σου	1	G4771|σύ|P-2GS|nt-form|443										
+31001016	Obad.1.16	0	0	5	Διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+31001016	Obad.1.16	1	6	8	ὃν	G3739	ὅς, ἥ	R-ASM	0.9965	unique	inf	a	one reading	ὅν	1	G3739|ὅς, ἥ|R-ASM|nt-form|167										
+31001016	Obad.1.16	2	9	15	τρόπον	G5158	τρόπος	N-ASM	0.9965	unique	inf	a	one reading	τρόπον	1	G5158|τρόπος|N-ASM|nt-form|10										
+31001016	Obad.1.16	3	16	21	ἔπιες	G4095	πίνω	V-2AAI-2S	0.9744	unique	inf	a	one reading	ἔπιεσ	1	G4095|πίνω|V-2AAI-2S|analyser|1										
+31001016	Obad.1.16	4	22	25	ἐπὶ	G1909	ἐπί	PREP	0.9965	unique	inf	a	one reading	ἐπί	1	G1909|ἐπί|PREP|nt-form|675										
+31001016	Obad.1.16	5	26	28	τὸ	G3588	ὁ	T-ASN	0.9941	model	1185	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-VSN|nt-form|6									
+31001016	Obad.1.16	6	29	33	ὄρος	G3735	ὄρος	N-ASN	0.9941	model	182	b	several parses	ὄροσ	3	G3735|ὄρος|N-ASN|nt-form|17 ; G3735|ὄρος|N-NSN|nt-form|3 ; G3735|ὄρος|N-VSN|nt-form+paradigm|0	G3735|ὄρος|N-VSN|nt-form+paradigm|0	G3735|ὄρος||nt-form|9|lower case: not a name								
+31001016	Obad.1.16	7	34	36	τὸ	G3588	ὁ	T-ASN	0.9203	model	85.38	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001016	Obad.1.16	8	37	42	ἅγιόν	G40	ἅγιος	A-ASN	0.7245	model	17.16	c	several words	ἅγιον	7	G40|ἅγιος|A-NSN|nt-form|25 ; G40|ἅγιος|A-ASN|nt-form|16 ; G40|ἅγιος|A-ASM|nt-form|7 ; G39|ἅγιος|A-ASN|nt-form|1 ; G39|ἅγιος|A-NSN|nt-form+paradigm|0 ; G39|ἅγιος|A-VSN|nt-form+paradigm|0 ; G40|ἅγιος|A-VSN|nt-form+paradigm|0	G40|ἅγιος|A-ASM|nt-form|7									
+31001016	Obad.1.16	9	43	46	μου	G3165	ἐγώ	P-1GS	0.9965	unique	inf	a	one reading	μου	1	G3165|ἐγώ|P-1GS|nt-form|591										
+31001016	Obad.1.16	10	48	55	πίονται	G4095	πίνω	V-FDI-3P	0.8713	model	18.93	b	several parses	πίονται	2	G4095|πίνω|V-FDI-3P|analyser|1 ; G4095|πίνω|V-FMI-3P|analyser|0.15	G4095|πίνω|V-FMI-3P|analyser|0.15									
+31001016	Obad.1.16	11	56	61	πάντα	G3956	πᾶς	A-NPN	0.5301	model	1.468	b	several parses	πάντα	4	G3956|πᾶς|A-APN|nt-form|164 ; G3956|πᾶς|A-NPN|nt-form|87 ; G3956|πᾶς|A-ASM|nt-form|20 ; G3956|πᾶς|A-VPN|nt-form|1	G3956|πᾶς|A-APN|nt-form|164									
+31001016	Obad.1.16	12	62	64	τὰ	G3588	ὁ	T-NPN	0.8233	model	25.84	b	several parses	τά	3	G3588|ὁ|T-APN|nt-form|637 ; G3588|ὁ|T-NPN|nt-form|230 ; G3588|ὁ|T-VPN|nt-form|3	G3588|ὁ|T-APN|nt-form|637									
+31001016	Obad.1.16	13	65	69	ἔθνη	G1484	ἔθνος	N-NPN	0.8233	model	25.84	b	several parses	ἔθνη	3	G1484|ἔθνος|N-APN|nt-form|26 ; G1484|ἔθνος|N-NPN|nt-form|26 ; G1484|ἔθνος|N-VPN|nt-form|2	G1484|ἔθνος|N-APN|nt-form|26									
+31001016	Obad.1.16	14	70	75	οἶνον	G3631	οἶνος	N-ASM	0.9965	unique	inf	a	one reading	οἶνον	1	G3631|οἶνος|N-ASM|nt-form|19										
+31001016	Obad.1.16	15	77	84	πίονται	G4095	πίνω	V-FDI-3P	0.8713	model	17.82	b	several parses	πίονται	2	G4095|πίνω|V-FDI-3P|analyser|1 ; G4095|πίνω|V-FMI-3P|analyser|0.15	G4095|πίνω|V-FMI-3P|analyser|0.15									
+31001016	Obad.1.16	16	85	88	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001016	Obad.1.16	17	89	101	καταβήσονται	G2597	καταβαίνω	V-FDI-3P	0.7353	model	8.862	b	several parses	καταβήσονται	2	G2597|καταβαίνω|V-FDI-3P|analyser|1 ; G2597|καταβαίνω|V-FMI-3P|analyser|0.15	G2597|καταβαίνω|V-FMI-3P|analyser|0.15									
+31001016	Obad.1.16	18	103	106	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001016	Obad.1.16	19	107	114	ἔσονται	G1510	εἰμί	V-FDI-3P	0.9965	unique	inf	a	one reading	ἔσονται	1	G1510|εἰμί|V-FDI-3P|nt-form|32										
+31001016	Obad.1.16	20	115	120	καθὼς	G2531	καθώς	CONJ	0.9965	unique	inf	a	one reading	καθώσ	1	G2531|καθώς|CONJ|nt-form|183										
+31001016	Obad.1.16	21	121	124	οὐχ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐχ	1	G3756|οὐ|PRT-N|nt-form|108										
+31001016	Obad.1.16	22	125	135	ὑπάρχοντες	G5225	ὑπάρχω	V-PAP-NPM	0.9940	model	145.5	b	several parses	ὑπάρχοντεσ	2	G5225|ὑπάρχω|V-PAP-NPM|nt-form|6 ; G5225|ὑπάρχω|V-PAP-VPM|nt-form+paradigm|0	G5225|ὑπάρχω|V-PAP-VPM|nt-form+paradigm|0									
+31001017	Obad.1.17	0	0	2	Ἑν	G1520	εἷς	A-NSN	0.9333	tolerant	7.886	u	tolerant match only	ἑν	3	G1722|ἐν|PREP|nt-tolerant|2842 ; G1520|εἷς|A-NSN|nt-tolerant|48 ; G1520|εἷς|A-ASN|nt-tolerant|27	G1722|ἐν|PREP|nt-tolerant|2842									
+31001017	Obad.1.17	1	3	5	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+31001017	Obad.1.17	2	6	8	τῷ	G3588	ὁ	T-DSN	0.9780	model	61.25	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSM|nt-form|863									
+31001017	Obad.1.17	3	9	13	ὄρει	G3735	ὄρος	N-DSN	0.9965	unique	inf	a	one reading	ὄρει	1	G3735|ὄρος|N-DSN|nt-form|10		G3735|ὄρος||nt-form|2|lower case: not a name								
+31001017	Obad.1.17	4	14	18	Σιὼν	G4622	Σιών		0.9965	unique	inf	a	one reading	σιών	1	G4622|Σιών||nt-form|7										
+31001017	Obad.1.17	5	19	24	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001017	Obad.1.17	6	25	32	σωτηρία	G4991	σωτηρία	N-NSF	0.9965	unique	inf	a	one reading	σωτηρία	1	G4991|σωτηρία|N-NSF|nt-form|8										
+31001017	Obad.1.17	7	34	37	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001017	Obad.1.17	8	38	43	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001017	Obad.1.17	9	44	49	ἅγιον	G40	ἅγιος	A-NSN	0.9505	model	38.33	c	several words	ἅγιον	7	G40|ἅγιος|A-NSN|nt-form|25 ; G40|ἅγιος|A-ASN|nt-form|16 ; G40|ἅγιος|A-ASM|nt-form|7 ; G39|ἅγιος|A-ASN|nt-form|1 ; G39|ἅγιος|A-NSN|nt-form+paradigm|0 ; G39|ἅγιος|A-VSN|nt-form+paradigm|0 ; G40|ἅγιος|A-VSN|nt-form+paradigm|0	G40|ἅγιος|A-ASM|nt-form|7									
+31001017	Obad.1.17	10	51	54	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001017	Obad.1.17	11	55	74	κατακληρονομήσουσιν	G7853	κατακληρονομέω	V-FAI-3P	0.5324	model	3.798	b	several parses	κατακληρονομήσουσιν	2	G7853|κατακληρονομέω|V-FAI-3P|analyser|1 ; G7853|κατακληρονομέω||analyser|0.5	G7853|κατακληρονομέω||analyser|0.5									
+31001017	Obad.1.17	12	75	76	ὁ	G3588	ὁ	T-NSM	0.9982	model	177.2	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+31001017	Obad.1.17	13	77	82	οἶκος	G3624	οἶκος	N-NSM	0.9982	model	215.2	b	several parses	οἶκοσ	2	G3624|οἶκος|N-NSM|nt-form|17 ; G3624|οἶκος|N-VSM|nt-form|1	G3624|οἶκος|N-VSM|nt-form|1									
+31001017	Obad.1.17	14	83	88	Ἰακὼβ	G2384	Ἰακώβ		0.9965	unique	inf	a	one reading	ἰακώβ	1	G2384|Ἰακώβ||nt-form|27										
+31001017	Obad.1.17	15	89	93	τοῦς	G3588	ὁ	T-APM	0.9965	unique	inf	a	one reading	τοῦσ	1	G3588|ὁ|T-APM|nt-form|1										
+31001017	Obad.1.17	16	95	114	κατακληρονομήσαντας	G2624	κατακληροδοτέω	V-AAP-APM	0.3851	model	6.293	c	several words	κατακληρονομήσαντασ	2	G2624|κατακληροδοτέω|V-AAP-APM|analyser|1 ; G7853|κατακληρονομέω|V-AAP-APM|analyser|0.8852	G7853|κατακληρονομέω|V-AAP-APM|analyser|0.8852									
+31001017	Obad.1.17	17	115	121	αὐτούς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+31001018	Obad.1.18	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001018	Obad.1.18	1	4	9	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001018	Obad.1.18	2	10	11	ὁ	G3588	ὁ	T-NSM	0.9982	model	179.1	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+31001018	Obad.1.18	3	12	17	οἶκος	G3624	οἶκος	N-NSM	0.9982	model	197	b	several parses	οἶκοσ	2	G3624|οἶκος|N-NSM|nt-form|17 ; G3624|οἶκος|N-VSM|nt-form|1	G3624|οἶκος|N-VSM|nt-form|1									
+31001018	Obad.1.18	4	18	23	Ἰακὼβ	G2384	Ἰακώβ		0.9965	unique	inf	a	one reading	ἰακώβ	1	G2384|Ἰακώβ||nt-form|27										
+31001018	Obad.1.18	5	24	27	πῦρ	G4442	πῦρ	N-NSN	0.7607	model	18.69	b	several parses	πῦρ	3	G4442|πῦρ|N-ASN|nt-form|18 ; G4442|πῦρ|N-NSN|nt-form|11 ; G4442|πῦρ|N-VSN|nt-form+paradigm|0	G4442|πῦρ|N-ASN|nt-form|18									
+31001018	Obad.1.18	6	29	30	ὁ	G3588	ὁ	T-NSM	0.9940	model	146.4	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+31001018	Obad.1.18	7	31	33	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+31001018	Obad.1.18	8	34	39	οἶκος	G3624	οἶκος	N-NSM	0.9982	model	175.1	b	several parses	οἶκοσ	2	G3624|οἶκος|N-NSM|nt-form|17 ; G3624|οἶκος|N-VSM|nt-form|1	G3624|οἶκος|N-VSM|nt-form|1									
+31001018	Obad.1.18	9	40	45	Ἰωσὴφ	G2501	Ἰωσήφ		0.9965	unique	inf	a	one reading	ἰωσήφ	1	G2501|Ἰωσήφ||nt-form|36										
+31001018	Obad.1.18	10	46	50	φλὸξ	G5395	φλόξ	N-NSF	0.9965	unique	inf	a	one reading	φλόξ	1	G5395|φλόξ|N-NSF|nt-form|2										
+31001018	Obad.1.18	11	52	53	ὁ	G3588	ὁ	T-NSM	0.9899	model	138.2	b	several parses	ὁ	2	G3588|ὁ|T-NSM|nt-form|3129 ; G3588|ὁ|T-VSM|nt-form|43	G3588|ὁ|T-VSM|nt-form|43									
+31001018	Obad.1.18	12	54	56	δὲ	G1161	δέ	CONJ	0.9965	unique	inf	a	one reading	δέ	1	G1161|δέ|CONJ|nt-form|2920										
+31001018	Obad.1.18	13	57	62	οἶκος	G3624	οἶκος	N-NSM	0.9940	model	156.5	b	several parses	οἶκοσ	2	G3624|οἶκος|N-NSM|nt-form|17 ; G3624|οἶκος|N-VSM|nt-form|1	G3624|οἶκος|N-VSM|nt-form|1									
+31001018	Obad.1.18	14	63	67	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001018	Obad.1.18	15	68	71	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001018	Obad.1.18	16	72	79	καλάμην	G2562	καλάμη	N-ASF	0.9965	unique	inf	a	one reading	καλάμην	1	G2562|καλάμη|N-ASF|nt-form|1										
+31001018	Obad.1.18	17	81	84	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001018	Obad.1.18	18	85	98	ἐκκαυθήσονται	G1572	ἐκκαίω	V-FPI-3P	0.9744	unique	inf	a	one reading	ἐκκαυθήσονται	1	G1572|ἐκκαίω|V-FPI-3P|analyser|1										
+31001018	Obad.1.18	19	99	102	εἰς	G1519	εἰς	PREP	0.9965	unique	inf	a	one reading	εἰσ	1	G1519|εἰς|PREP|nt-form|1802										
+31001018	Obad.1.18	20	103	109	αὐτοὺς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+31001018	Obad.1.18	21	111	114	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001018	Obad.1.18	22	115	127	καταφάγονται	G2719	κατεσθίω	V-FDI-3P	0.7353	model	9.035	b	several parses	καταφάγονται	2	G2719|κατεσθίω|V-FDI-3P|analyser|1 ; G2719|κατεσθίω|V-FMI-3P|analyser|0.15	G2719|κατεσθίω|V-FMI-3P|analyser|0.15									
+31001018	Obad.1.18	23	128	134	αὐτοὺς	G846	αὐτός	P-APM	0.9965	unique	inf	a	one reading	αὐτούσ	1	G846|αὐτός|P-APM|nt-form|365										
+31001018	Obad.1.18	24	136	139	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001018	Obad.1.18	25	140	143	οὐκ	G3756	οὐ	PRT-N	0.9965	unique	inf	a	one reading	οὐκ	1	G3756|οὐ|PRT-N|nt-form|831										
+31001018	Obad.1.18	26	144	149	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001018	Obad.1.18	27	150	159	πυροφόρος	G8995	πυροφόρος	A-NSM	0.9188	model	47.75	b	several parses	πυροφόροσ	3	G8995|πυροφόρος|A-NSM|analyser|1 ; G8995|πυροφόρος|A-VSM|analyser|0.2 ; G8995|πυροφόρος|A-NSF|analyser|0.15	G8995|πυροφόρος|A-NSF|analyser|0.15									
+31001018	Obad.1.18	28	160	162	τῷ	G3588	ὁ	T-DSM	0.9835	model	87.27	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+31001018	Obad.1.18	29	163	167	οἴκῳ	G3624	οἶκος	N-DSM	0.9965	unique	inf	a	one reading	οἴκῳ	1	G3624|οἶκος|N-DSM|nt-form|20										
+31001018	Obad.1.18	30	168	172	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001018	Obad.1.18	31	174	179	διότι	G1360	διότι	CONJ	0.9965	unique	inf	a	one reading	διότι	1	G1360|διότι|CONJ|nt-form|23										
+31001018	Obad.1.18	32	180	186	Κύριος	G2962	κύριος	N-NSM-T	0.9982	model	188.5	b	several parses	κύριοσ	2	G2962|κύριος|N-NSM-T|nt-form|153 ; G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-VSM-T|nt-form|2	G2962|κύριος|N-NSM|nt-form|31|capitalised mid-sentence: a name or title								
+31001018	Obad.1.18	33	187	194	ἐλάλησε	G2980	λαλέω	V-AAI-3S	0.9965	unique	inf	a	one reading	ἐλάλησε	1	G2980|λαλέω|V-AAI-3S|nt-form:movable-nu|31										
+31001019	Obad.1.19	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	1	4	23	κατακληρονομήσουσιν	G7853	κατακληρονομέω	V-FAI-3P	0.9735	model	127.5	b	several parses	κατακληρονομήσουσιν	2	G7853|κατακληρονομέω|V-FAI-3P|analyser|1 ; G7853|κατακληρονομέω||analyser|0.5	G7853|κατακληρονομέω||analyser|0.5									
+31001019	Obad.1.19	2	24	26	οἱ	G3588	ὁ	T-NPM	0.9835	model	84.15	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+31001019	Obad.1.19	3	27	29	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001019	Obad.1.19	4	30	35	ναγὲβ							e	no candidate	ναγέβ	0											
+31001019	Obad.1.19	5	36	38	τὸ	G3588	ὁ	T-ASN	0.9203	model	68.13	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001019	Obad.1.19	6	39	43	ὄρος	G3735	ὄρος	N-ASN	0.9203	model	68.13	b	several parses	ὄροσ	3	G3735|ὄρος|N-ASN|nt-form|17 ; G3735|ὄρος|N-NSN|nt-form|3 ; G3735|ὄρος|N-VSN|nt-form+paradigm|0	G3735|ὄρος|N-NSN|nt-form|3	G3735|ὄρος||nt-form|9|lower case: not a name								
+31001019	Obad.1.19	7	44	46	τὸ	G3588	ὁ	T-ASN	0.8462	model	45.56	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001019	Obad.1.19	8	47	51	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001019	Obad.1.19	9	53	56	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	10	57	59	οἱ	G3588	ὁ	T-NPM	0.9835	model	80.67	b	several parses	οἱ	2	G3588|ὁ|T-NPM|nt-form|1123 ; G3588|ὁ|T-VPM|nt-form|35	G3588|ὁ|T-VPM|nt-form|35									
+31001019	Obad.1.19	11	60	62	ἐν	G1722	ἐν	PREP	0.9965	unique	inf	a	one reading	ἐν	1	G1722|ἐν|PREP|nt-form|2829										
+31001019	Obad.1.19	12	63	65	τῇ	G3588	ὁ	T-DSF	0.9965	unique	inf	a	one reading	τῇ	1	G3588|ὁ|T-DSF|nt-form|904										
+31001019	Obad.1.19	13	66	72	σεφηλὰ							e	no candidate	σεφηλά	0											
+31001019	Obad.1.19	14	73	77	τοὺς	G3588	ὁ	T-APM	0.9965	unique	inf	a	one reading	τούσ	1	G3588|ὁ|T-APM|nt-form|747										
+31001019	Obad.1.19	15	78	88	ἀλλοφύλους	G246	ἀλλόφυλος	A-APM	0.9677	model	82.53	b	several parses	ἀλλοφύλουσ	2	G246|ἀλλόφυλος|A-APM|analyser|1 ; G246|ἀλλόφυλος|A-APF|analyser|0.09	G246|ἀλλόφυλος|A-APF|analyser|0.09									
+31001019	Obad.1.19	16	90	93	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	17	94	112	κατακληρονομήσουσι	G7853	κατακληρονομέω	V-FAI-3P	0.9677	model	66.91	b	several parses	κατακληρονομήσουσι	2	G7853|κατακληρονομέω|V-FAI-3P|analyser|1 ; G7853|κατακληρονομέω||analyser|0.5	G7853|κατακληρονομέω||analyser|0.5									
+31001019	Obad.1.19	18	113	115	τὸ	G3588	ὁ	T-ASN	0.9234	model	107.1	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001019	Obad.1.19	19	116	120	ὄρος	G3735	ὄρος	N-ASN	0.9234	model	107.1	b	several parses	ὄροσ	3	G3735|ὄρος|N-ASN|nt-form|17 ; G3735|ὄρος|N-NSN|nt-form|3 ; G3735|ὄρος|N-VSN|nt-form+paradigm|0	G3735|ὄρος|N-NSN|nt-form|3	G3735|ὄρος||nt-form|9|lower case: not a name								
+31001019	Obad.1.19	20	121	127	Ἐφραὶμ	G2187	Ἐφραίμ		0.9965	unique	inf	a	one reading	ἐφραίμ	1	G2187|Ἐφραίμ||nt-form|1										
+31001019	Obad.1.19	21	129	132	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	22	133	135	τὸ	G3588	ὁ	T-ASN	0.9203	model	70.48	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001019	Obad.1.19	23	136	142	πεδίον	G8676	πεδίον	N-ASN	0.9298	model	70.48	b	several parses	πεδίον	3	G8676|πεδίον|N-ASN|analyser|1 ; G8676|πεδίον|N-NSN|analyser|1 ; G8676|πεδίον|N-VSN|analyser|1	G8676|πεδίον|N-NSN|analyser|1									
+31001019	Obad.1.19	24	143	152	Σαμαρείας	G4540	Σαμάρεια	N-GSF-L	0.9780	model	60.16	b	several parses	σαμαρείασ	2	G4540|Σαμάρεια|N-GSF-L|nt-form|8 ; G4540|Σαμάρεια|N-APF-L|nt-form+paradigm|0	G4540|Σαμάρεια|N-APF-L|nt-form+paradigm|0									
+31001019	Obad.1.19	25	154	157	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	26	158	166	Βενιαμὶν	G958	Βενιαμίν		0.9965	unique	inf	a	one reading	βενιαμίν	1	G958|Βενιαμίν||nt-form|4										
+31001019	Obad.1.19	27	168	171	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001019	Obad.1.19	28	172	175	τὴν	G3588	ὁ	T-ASF	0.9965	unique	inf	a	one reading	τήν	1	G3588|ὁ|T-ASF|nt-form|1579										
+31001019	Obad.1.19	29	176	186	Γαλααδίτιν	H1568	Γαλααδίτιδος		0.9320	hebrew-verse	9.46886	d	name-like: no candidate	γαλααδίτιν	0					31001019#18 H1568G גִּלְעָֽד Gilead	9.47	N-ASF-L	tahot			transliterates
+31001020	Obad.1.20	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001020	Obad.1.20	1	4	7	τῆς	G3588	ὁ	T-GSF	0.9965	unique	inf	a	one reading	τῆσ	1	G3588|ὁ|T-GSF|nt-form|1350										
+31001020	Obad.1.20	2	8	19	μετοικεσίας	G3350	μετοικεσία	N-GSF	0.9899	model	128.5	b	several parses	μετοικεσίασ	2	G3350|μετοικεσία|N-GSF|nt-form|3 ; G3350|μετοικεσία|N-APF|nt-form+paradigm|0	G3350|μετοικεσία|N-APF|nt-form+paradigm|0									
+31001020	Obad.1.20	3	20	21	ἡ	G3588	ὁ	T-NSF	0.9862	model	115.6	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+31001020	Obad.1.20	4	22	26	ἀρχὴ	G746	ἀρχή	N-NSF	0.9965	unique	inf	a	one reading	ἀρχή	1	G746|ἀρχή|N-NSF|nt-form|8										
+31001020	Obad.1.20	5	27	31	αὕτη	G3778	οὗτος	D-NSF	0.9965	unique	inf	a	one reading	αὕτη	1	G3778|οὗτος|D-NSF|nt-form|77										
+31001020	Obad.1.20	6	32	36	τοῖς	G3588	ὁ	T-DPM	0.9835	model	92.25	b	several parses	τοῖσ	2	G3588|ὁ|T-DPM|nt-form|472 ; G3588|ὁ|T-DPN|nt-form|167	G3588|ὁ|T-DPN|nt-form|167									
+31001020	Obad.1.20	7	37	42	υἱοῖς	G5207	υἱός	N-DPM	0.9965	unique	inf	a	one reading	υἱοῖσ	1	G5207|υἱός|N-DPM|nt-form|7										
+31001020	Obad.1.20	8	43	49	Ἰσραὴλ	G2474	Ἰσραήλ		0.9965	unique	inf	a	one reading	ἰσραήλ	1	G2474|Ἰσραήλ||nt-form|69										
+31001020	Obad.1.20	9	51	53	γῆ	G1093	γῆ	N-NSF	0.9780	model	63.98	b	several parses	γῆ	2	G1093|γῆ|N-NSF|nt-form|24 ; G1093|γῆ|N-VSF|nt-form|1	G1093|γῆ|N-VSF|nt-form|1									
+31001020	Obad.1.20	10	54	57	τῶν	G3588	ὁ	T-GPM	0.7607	model	18.48	b	several parses	τῶν	3	G3588|ὁ|T-GPM|nt-form|848 ; G3588|ὁ|T-GPN|nt-form|264 ; G3588|ὁ|T-GPF|nt-form|147	G3588|ὁ|T-GPN|nt-form|264									
+31001020	Obad.1.20	11	58	67	Χαναναίων	H3669	Χαναναῖος		0.9950	hebrew-verse	12.0219	d	name-like: no candidate	χαναναίων	0					31001020#7 H3669A כְּנַעֲנִים֙ Canaanite	12.02	N-GPM-LG	tahot			transliterates
+31001020	Obad.1.20	12	68	71	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+31001020	Obad.1.20	13	72	80	Σαρεπτῶν	G4558	Σάρεπτα	N-GPN-L	0.9950	hebrew-verse	20	d	name-like: no candidate	σαρεπτῶν	0					31001020#9 H6886 צָ֣רְפַ֔ת Zarephath	20.00	N-GPN-L	tbesg			transliterates
+31001020	Obad.1.20	14	82	85	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001020	Obad.1.20	15	86	87	ἡ	G3588	ὁ	T-NSF	0.9899	model	137.1	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+31001020	Obad.1.20	16	88	98	μετοικεσία	G3350	μετοικεσία	N-NSF	0.9503	model	121.2	b	several parses	μετοικεσία	3	G3350|μετοικεσία|N-NSF|analyser|1 ; G3350|μετοικεσία|N-VSF|analyser|1 ; G3350|μετοικεσία|N-DSF|analyser|0.8	G3350|μετοικεσία|N-DSF|analyser|0.8									
+31001020	Obad.1.20	17	99	109	Ἱερουσαλὴμ	G2419	Ἱεροσόλυμα		0.9965	unique	inf	a	one reading	ἱερουσαλήμ	1	G2419|Ἱεροσόλυμα||nt-form|1										
+31001020	Obad.1.20	18	110	113	ἕως	G2193	ἕως	PREP	0.9965	unique	inf	a	one reading	ἕωσ	1	G2193|ἕως|PREP|nt-form|148										
+31001020	Obad.1.20	19	114	120	Ἐφραθά	H5614	Ἐφραθά		0.8406	hebrew-verse	5.22799	d	name-like: no candidate	ἐφραθά	0					31001020#13 H5614 סְפָרַ֑ד Sepharad	5.23	N-???-L	tahot			transliterates
+31001020	Obad.1.20	20	122	136	κληρονομήσουσι	G2816	κληρονομέω	V-FAI-3P	0.9965	unique	inf	a	one reading	κληρονομήσουσι	1	G2816|κληρονομέω|V-FAI-3P|nt-form:movable-nu|4										
+31001020	Obad.1.20	21	137	140	τὰς	G3588	ὁ	T-APF	0.9965	unique	inf	a	one reading	τάσ	1	G3588|ὁ|T-APF|nt-form|347										
+31001020	Obad.1.20	22	141	147	πόλεις	G4172	πόλις	N-APF	0.9234	model	124.5	b	several parses	πόλεισ	3	G4172|πόλις|N-APF|nt-form|10 ; G4172|πόλις|N-NPF|nt-form|2 ; G4172|πόλις|N-VPF|nt-form+paradigm|0	G4172|πόλις|N-NPF|nt-form|2									
+31001020	Obad.1.20	23	148	151	τοῦ	G3588	ὁ	T-GSM	0.7245	model	11.79	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSN|nt-form|622									
+31001020	Obad.1.20	24	152	157	ναγέβ							e	no candidate	ναγέβ	0											
+31001021	Obad.1.21	0	0	3	Καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001021	Obad.1.21	1	4	15	ἀναβήσονται	G305	ἀναβαίνω	V-FDI-3P	0.6800	model	8.814	c	several words	ἀναβήσονται	3	G305|ἀναβαίνω|V-FDI-3P|analyser|1 ; G305|ἀναβαίνω|V-FMI-3P|analyser|0.15 ; G381|ἀνάπτω|V-2FPI-3P|analyser|0.093	G305|ἀναβαίνω|V-FMI-3P|analyser|0.15									
+31001021	Obad.1.21	2	16	28	ἀνασωζόμενοι	G6314	ἀνασῴζω	V-PPP-NPM	0.5978	model	11.29	b	several parses	ἀνασωζόμενοι	3	G6314|ἀνασῴζω|V-PNP-VPM|analyser|1 ; G6314|ἀνασῴζω|V-PPP-NPM|analyser|1 ; G6314|ἀνασῴζω|V-PMP-NPM|analyser|0.2	G6314|ἀνασῴζω|V-PMP-NPM|analyser|0.2									
+31001021	Obad.1.21	3	29	31	ἐξ	G1537	ἐκ	PREP	0.9965	unique	inf	a	one reading	ἐξ	1	G1537|ἐκ|PREP|nt-form|240										
+31001021	Obad.1.21	4	32	37	ὄρους	G3735	ὄρος	N-GSN	0.9965	unique	inf	a	one reading	ὄρουσ	1	G3735|ὄρος|N-GSN|nt-form|8		G3735|ὄρος||nt-form|4|lower case: not a name								
+31001021	Obad.1.21	5	38	42	Σιὼν	G4622	Σιών		0.9965	unique	inf	a	one reading	σιών	1	G4622|Σιών||nt-form|7										
+31001021	Obad.1.21	6	44	47	τοῦ	G3588	ὁ	T-GSN	0.9420	model	23.76	c	several words	τοῦ	4	G3588|ὁ|T-GSM|nt-form|2028 ; G3588|ὁ|T-GSN|nt-form|622 ; G846|αὐτός|P-GSN|nt-form|1 ; G846|αὐτός|P-GSM|nt-form+paradigm|0	G3588|ὁ|T-GSM|nt-form|2028									
+31001021	Obad.1.21	7	48	57	ἐκδικῆσαι	G1556	ἐκδικέω	V-AAN	0.9965	unique	inf	a	one reading	ἐκδικῆσαι	1	G1556|ἐκδικέω|V-AAN|nt-form|1										
+31001021	Obad.1.21	8	58	60	τὸ	G3588	ὁ	T-ASN	0.9941	model	184.6	b	several parses	τό	3	G3588|ὁ|T-ASN|nt-form|1135 ; G3588|ὁ|T-NSN|nt-form|614 ; G3588|ὁ|T-VSN|nt-form|6	G3588|ὁ|T-NSN|nt-form|614									
+31001021	Obad.1.21	9	61	65	ὄρος	G3735	ὄρος	N-ASN	0.9585	model	169.6	b	several parses	ὄροσ	3	G3735|ὄρος|N-ASN|nt-form|17 ; G3735|ὄρος|N-NSN|nt-form|3 ; G3735|ὄρος|N-VSN|nt-form+paradigm|0	G3735|ὄρος|N-NSN|nt-form|3	G3735|ὄρος||nt-form|9|lower case: not a name								
+31001021	Obad.1.21	10	66	70	Ἡσαῦ	G2269	Ἠσαῦ		0.9965	unique	inf	a	one reading	ἡσαῦ	1	G2269|Ἠσαῦ||nt-form:name-breathing|3										
+31001021	Obad.1.21	11	72	75	καὶ	G2532	καί	CONJ	0.9965	unique	inf	a	one reading	καί	1	G2532|καί|CONJ|nt-form|9437										
+31001021	Obad.1.21	12	76	81	ἔσται	G1510	εἰμί	V-FDI-3S	0.9965	unique	inf	a	one reading	ἔσται	1	G1510|εἰμί|V-FDI-3S|nt-form|119										
+31001021	Obad.1.21	13	82	84	τῷ	G3588	ὁ	T-DSM	0.9780	model	72.97	b	several parses	τῷ	2	G3588|ὁ|T-DSM|nt-form|863 ; G3588|ὁ|T-DSN|nt-form|424	G3588|ὁ|T-DSN|nt-form|424									
+31001021	Obad.1.21	14	85	90	Κυρίῳ	G2962	κύριος	N-DSM-T	0.9965	unique	inf	a	one reading	κυρίῳ	1	G2962|κύριος|N-DSM-T|nt-form|97		G2962|κύριος|N-DSM|nt-form|5|capitalised mid-sentence: a name or title								
+31001021	Obad.1.21	15	91	92	ἡ	G3588	ὁ	T-NSF	0.9940	model	144.9	b	several parses	ἡ	2	G3588|ὁ|T-NSF|nt-form|1000 ; G3588|ὁ|T-VSF|nt-form|13	G3588|ὁ|T-VSF|nt-form|13									
+31001021	Obad.1.21	16	93	101	βασιλεία	G932	βασιλεία	N-NSF	0.9965	unique	inf	a	one reading	βασιλεία	1	G932|βασιλεία|N-NSF|nt-form|56										
