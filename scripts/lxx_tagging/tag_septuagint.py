@@ -377,12 +377,16 @@ def build_report(results, tagger: Tagger, source: Path) -> dict:
 
 
 # What the module says of its own tags, where the apps show a text's sources
-# (schemas/translation_schema.json, meta.sourceTexts.annotations). The apps
-# print one sentence per entry, "Strong's numbers in {name} come from
-# {source}, {method}.", and tell the entries apart by their source, so the
-# two sources must differ and each method must read on from its source.
+# (lamp-bible-core's Schemas/translation_schema.json,
+# meta.sourceTexts.annotations). Where a part has several sources, the apps
+# say "Strong's numbers in {name} come from two sources:" and then give each
+# its own line, "{Scope}: {source}, {method}." (core b63f3ae, 7e44671). They
+# tell the entries apart by their source, so the two sources must differ;
+# each method must read on from its source, and scope and method are both
+# lower-case clauses with no closing full stop.
 WORD_TAGS = {
     "part": "strongs",
+    "scope": "most words",
     # The credit and licence are in the module's copyright and license; kept
     # out of this line so that "not checked by hand" is not forty words off.
     "source": "STEPBible's tagged Greek New Testament and Greek lexicon (TAGNT and TBESG)",
@@ -391,9 +395,10 @@ WORD_TAGS = {
 }
 NAME_TAGS = {
     "part": "strongs",
+    "scope": "names the New Testament does not use",
     "source": "STEPBible's tagged Hebrew Old Testament and Hebrew lexicon (TAHOT and TBESH), CC BY 4.0",
-    "method": "for names the New Testament does not use: each takes the number of the Hebrew name it "
-              "stands for in the same verse, matched by how the Septuagint spells Hebrew names",
+    "method": "each taking the number of the Hebrew name it stands for in the same verse, "
+              "matched by how the Septuagint spells Hebrew names",
 }
 TAGGED_LICENSE = "Public Domain; tagging CC BY 4.0"
 TAGGED_COPYRIGHT = ("Strong's numbers, dictionary forms and morphology from data created by STEPBible.org "
